@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+gunicorn = "*"
+django-heroku = "*"
+django-cors-headers = "*"
+python-dotenv = "*"
+dropbox = "*"
+django-extensions = "*"
+pillow = "*"
+requests = "*"
+bcrypt = "*"
+ipaddress = "*"
+cuid = "*"
+pdfkit = "*"
+python-memcached = "*"
+scrapy = "*"
+toml = "*"
+dynaconf = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

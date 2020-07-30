@@ -1,0 +1,89 @@
+{
+  "response": {
+    "result": {
+      "invoice_details": {
+        "statusids": [],
+        "end_date": "2017-12-31",
+        "clientids": [],
+        "date_type": "issue",
+        "clients": [
+          {
+            "invoices": [
+             {
+              "invoiceid": 638384,
+              "create_date": "2016-04-04",
+              "due_offset_days": 0,
+              "outstanding": {
+                "amount": "0.00",
+                "code": "CAD"
+              },
+              "po_number": null,
+              "lines": [],
+              "tax_summaries": [],
+              "tax": {
+                "amount": "0.00",
+                "code": "CAD"
+              },
+              "paid": {
+                "amount": "0.00",
+                "code": "CAD"
+              },
+              "date_paid": null,
+              "v3_status": draft,
+              "discount_total": {
+                "amount": "0.00",
+                "code": "CAD"
+              },
+              "invoice_number": "0000001",
+              "total": {
+                "amount": 0.00,
+                "code": CAD
+              },
+              "subtotal": {
+                "amount": "0.00",
+                "code": "CAD"
+              },
+              "currency_code": "CAD"
+             }
+            ],
+            "userid": 144577,
+            "summary": {
+              "total": {
+                "amount": "0.00",
+                "code": "CAD"
+              },
+              "paid": {
+                "amount": "0.00",
+                "code": "CAD"
+              },
+              "outstanding": {
+                "amount": "0.00",
+                "code": "CAD"
+              },
+              "lname": "Doe",
+              "fname": "Jane",
+              "organization": "Company and Co",
+              "email": "JaneDoe@Example.com",
+            }
+         ],
+         "summary": {
+           "total": {
+             "amount": "0.00",
+             "code": "CAD"
+           },
+           "paid": {
+             "amount": "0.00",
+             "code": "CAD"
+           },
+           "outstanding": {
+             "amount": "0.00",
+             "code": "CAD"
+           },
+           "download_token": "bunch of letters and numbers",
+           "company_name": "My Company",
+           "start_date": "2017-01-01",
+           "currency_code": "CAD"
+         }
+       }
+    }
+}
