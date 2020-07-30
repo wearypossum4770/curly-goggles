@@ -28,6 +28,10 @@ from datetime import datetime
 	# ~ date_modified = DateTimeField(auto_now=True)
 
 class Profile(Model):
+	class Role(TextChoices):
+		ADMIN = "ADM", _("Admin Staff")
+		ADMINCLIENT = "CLA", _("Admin Client")
+		CLIENT = "CLN", _("Non Admin Client")
 	class Rating(TextChoices):
 		VERY_POOR=1, _('Very Poor - Required to pay a fee or deposit')
 		FAIR=2, _('Fair - Subprime borrower, require higher down payment')

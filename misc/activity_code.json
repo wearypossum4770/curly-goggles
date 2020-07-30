@@ -1,0 +1,35 @@
+[
+    "80":{
+        "11":"office and clinic of medical (M.D.) provider",
+        "21":"office and clinic of dental provider",
+        "31":"office and clinic of osteopathic provider",
+        "93":"specialty outpatient facilities",
+        "99":"health and allied services"
+        },
+    "86": {
+        "1":{
+            "0": "hospital activitiies"
+            },
+        "2":{
+            "0": {
+                "physician office":621111,
+                "pysician office, mental health":621112,
+                "dentist office":621210,
+		"hmo medical center":621491,
+                "family planning center":621410,
+                "freestanding ambulatory surgical and emergency center":621493,
+                "other outpatient care center":621498
+                }
+            },
+        "9":{
+            "0": {
+                ""
+                },
+            },
+    "87":{
+
+
+	},
+
+"info": "ISIC CODES, then 'NAME', then 'NAIC CODE', the 'SIC CODE'" 
+]
