@@ -26,6 +26,8 @@ from datetime import datetime
 	# ~ address_country = CharField(max_length=50, null=True, blank=True)	
 	# ~ date_created = DateTimeField(auto_now_add=True)
 	# ~ date_modified = DateTimeField(auto_now=True)
+class Widget(Model):
+	name = CharField(max_length=140)
 
 class Profile(Model):
 	class Role(TextChoices):
