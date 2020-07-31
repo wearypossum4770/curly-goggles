@@ -21,6 +21,7 @@ python-memcached = "*"
 scrapy = "*"
 toml = "*"
 dynaconf = "*"
+whitenoise = "*"
 
 [dev-packages]
 
