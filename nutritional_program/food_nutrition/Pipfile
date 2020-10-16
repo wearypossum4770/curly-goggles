@@ -1,0 +1,33 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Django = "*"
+djangorestframework = "*"
+cuid = "*"
+numpy = "*"
+pytest = "*"
+pytest-cov = "*"
+coverage = "*"
+pytest-django = "*"
+Pillow = "*"
+django-webp = "*"
+wheel = "*"
+setuptools = "*"
+webp = "*"
+python-dotenv = "*"
+sybil = "*"
+model-bakery = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
+
+[packages.bf73505]
+file = "https://files.pythonhosted.org/packages/8a/7c/a6cdd4c69e1377d917e0b9fe44acb8f42d340ac35bcf66020136cd00c62a/black-20.8b1-py3-none-any.whl"

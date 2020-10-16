@@ -1,8 +1,8 @@
 delay: 3
 mode: t
 top_mode:
-    sort_column: "hostname"
-    sort_order: "asc"
+    sort_column: 'hostname'
+    sort_order: 'asc'
     columns:
         - hostname
         - all_version
@@ -10,7 +10,7 @@ top_mode:
         - hit_rate
         - evictions
         - bytes_written
-        - "2:get_hits"
+        - '2:get_hits'
 servers:
     - 127.0.0.1:11211
     - 127.0.0.2:11211

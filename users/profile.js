@@ -5,26 +5,17 @@
 //~ lon: -85.31
 //~ region: "TN"
 
+const {city, country, lat, long, region} = Geo
 const {
-	city, 
-	country, 
-	lat, 
-	long, 
-	region
-	} = Geo
-const {
-	product,
-	productSub,
-	platform,
-	userAgent, 
-	vendor, 
-	langauges,
-	appVersion,
-	appCodeName,
-	appName, 
-	langauge,
-	
-	
-	} = navigator
+    product,
+    productSub,
+    platform,
+    userAgent,
+    vendor,
+    langauges,
+    appVersion,
+    appCodeName,
+    appName,
+    langauge,
+} = navigator
 const user_timezone = Intl.DateTimeFormat().resolvedOptions().timeZone
-

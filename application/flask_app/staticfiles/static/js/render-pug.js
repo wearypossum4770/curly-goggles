@@ -1,24 +1,26 @@
-'use strict';
-const fs = require('fs');
-const upath = require('upath');
-const pug = require('pug');
-const sh = require('shelljs');
-const prettier = require('prettier');
+'use strict'
+const fs = require('fs')
+const upath = require('upath')
+const pug = require('pug')
+const sh = require('shelljs')
+const prettier = require('prettier')
 
 module.exports = function renderPug(filePath) {
-    const destPath = filePath.replace(/src\/pug\/\pages/, 'dist').replace(/\.pug$/, '.html');
-    const srcPath = upath.resolve(upath.dirname(__filename), '../src');
+    const destPath = filePath
+        .replace(/src\/pug\/\pages/, 'dist')
+        .replace(/\.pug$/, '.html')
+    const srcPath = upath.resolve(upath.dirname(__filename), '../src')
 
-    console.log(`### INFO: Rendering ${filePath} to ${destPath}`);
+    console.log(`### INFO: Rendering ${filePath} to ${destPath}`)
     const html = pug.renderFile(filePath, {
         doctype: 'html',
         filename: filePath,
-        basedir: srcPath
-    });
+        basedir: srcPath,
+    })
 
-    const destPathDirname = upath.dirname(destPath);
+    const destPathDirname = upath.dirname(destPath)
     if (!sh.test('-e', destPathDirname)) {
-        sh.mkdir('-p', destPathDirname);
+        sh.mkdir('-p', destPathDirname)
     }
 
     const prettified = prettier.format(html, {
@@ -28,8 +30,8 @@ module.exports = function renderPug(filePath) {
         proseWrap: 'preserve',
         endOfLine: 'lf',
         parser: 'html',
-        htmlWhitespaceSensitivity: 'ignore'
-    });
+        htmlWhitespaceSensitivity: 'ignore',
+    })
 
-    fs.writeFileSync(destPath, prettified);
-};
+    fs.writeFileSync(destPath, prettified)
+}

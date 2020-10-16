@@ -1,0 +1,14 @@
+{
+	"model":"budget.models.vendors.Vendor",
+
+	"fields":{
+				"name":"Django Admin",
+	"contact_name" :"Stephen Smith",
+	"contact_phone" :"123-456-7890",
+
+	"is_active":true
+	}
+}
+
+
+	

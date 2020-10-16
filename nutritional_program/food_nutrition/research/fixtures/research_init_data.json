@@ -1,0 +1,36 @@
+[
+    {
+        "id": 0,
+        "entity": "Intentionally Left Blank",
+        "abbreviation": "Intentionally Left Blank",
+        "parent_entity": "Intentionally Left Blank",
+
+        "financial_statements": "Intentionally Left Blank"
+    },
+    {
+        "id": 1,
+        "entity": "Children's Hospital of Orange County",
+        "abbreviation": "CHOC",
+        "parent_entity": [
+            {
+                "id": 1,
+                "name": "Children's HealthCare of California",
+                "abbreviation": "CHC"
+            }
+        ],
+        "financial_statements": []
+    },
+    {
+        "id": 2,
+        "entity": "Children's Hospital at Mission",
+        "abbreviation": "CCMH",
+        "parent_entity": [
+            {
+                "id": 1,
+                "name": "Children's HealthCare of California",
+                "abbreviation": "CHC"
+            }
+        ],
+        "financial_statements": []
+    }
+]

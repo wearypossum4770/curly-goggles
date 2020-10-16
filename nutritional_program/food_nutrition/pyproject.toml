@@ -1,0 +1,112 @@
+# pyproject.toml
+#-----------------------------------------------------------------------
+# DJANGO 3.1 file paths are CHILD_FOLER_VARIABLE = BASE_DIR / "child_folder" 
+#-----------------------------------------------------------------------
+
+[tool.pylint.messages_control]
+disable = "C0330, C0326"
+
+#-----------------------------------------------------------------------
+# PYLINT
+#-----------------------------------------------------------------------
+
+[tool.pylint.format]
+max-line-length = "88"
+
+#-----------------------------------------------------------------------
+# PYTEST
+#-----------------------------------------------------------------------
+[tool.pytest.ini_options]
+	DJANGO_SETTINGS_MODULE="food_nutrition.settings"
+	# -- recommended but optional:
+	python_files = ["tests.py", "test_*.py", "*_tests.py"]
+	minversion = "6.0"
+	addopts = "-ra  -v --doctest-modules"
+	testpaths = [
+		"tests",
+		]
+		filterwarnings = ['ignore::DeprecationWarning']
+#-----------------------------------------------------------------------
+# Coverage
+#-----------------------------------------------------------------------
+[tool.coverage.run]
+	source = ["stevebooks"]
+		concurrency=["multiprocessing"]
+
+	#concurrency=["eventlet","greenlet","gevent","multiprocessing"]
+	cover_pylib=true
+	parallel=true
+	omit = ["*/.local/*"]
+[tool.coverage.report]
+	ignore_errors=true
+	exclude_lines=["pragma: no cover",    "def __repr__",
+    "if self.debug:",
+    "if settings.DEBUG",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if 0:",
+    "if __name__ == .__main__.:"
+	]
+[tool.coverate.html]
+	directory = "coverage_html_report"
+#-----------------------------------------------------------------------
+# BLACK
+#-----------------------------------------------------------------------
+[tool.black]
+	line_length = 88
+	target_version = ['py37']
+	include = '\.pyi?$'
+#-----------------------------------------------------------------------
+# ISORT
+#-----------------------------------------------------------------------
+[tool.isort]
+	#----------------random settings I kind of like ----------------
+	#length_sort_straight=1
+	#honor_noqa=1
+	#quiet=1
+	#----------------my preferred settings ----------------
+	sections = ['FUTURE', 'STDLIB', 'THIRDPARTY', 'AIRFLOW', 'FIRSTPARTY', 'LOCALFOLDER']
+	length_sort=1
+	skip_gitignore=1
+	combine_star=1
+	verbose=1
+	remove_redundant_aliases=1
+	#----------------recommended settings to work with black ----------------
+	multi_line_output = 3
+	include_trailing_comma = 1
+	force_grid_wrap = 0
+	use_parentheses = 1
+	ensure_newline_before_comments = 1
+	line_length = 88
+#-----------------------------------------------------------------------
+# POETRY /  https://python-poetry.org/docs/pyproject/  
+#-----------------------------------------------------------------------
+[tool.poetry]
+	name = "stevebooks"
+	version = "0.1.0"
+	description = "Python library for calculating amortizations and generating amortization schedules"
+
+	readme = "README.md"
+	authors = ["wearypossum4770 <wearypossum4770@yahoo.com>"]
+	inspired-by = ["Ronie Martinez <ronmarti18@gmail.com>"]
+	keywords = [
+		"amortization"
+		]
+	classifiers = [
+		"Development Status :: 5 - Production/Stable",
+		"Topic :: Office/Business :: Financial :: Accounting",
+		"Topic :: Scientific/Engineering :: Mathematics",
+		"Topic :: Software Development :: Libraries :: Python Modules",
+		"Programming Language :: Python :: 3",
+		"Programming Language :: Python :: 3.7",
+		"Programming Language :: Python :: 3.8",
+		]
+[tool.poetry.dependencies]
+	python = "^3.7"
+[tool.poetry.scripts]
+[tool.poetry.dev-dependencies]
+	pytest = "^5.2"
+
+[build-system]
+	requires = ["poetry>=0.12", "wheel"]
+	build-backend = ["poetry.masonry.api","setuptools.build_meta"]

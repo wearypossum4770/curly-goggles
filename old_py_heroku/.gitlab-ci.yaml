@@ -1,0 +1,25 @@
+image: node:12-alpine
+
+stages:
+  - chrome-ci
+
+variables:
+  SCREEN_WIDTH: 1920
+  SCREEN_HEIGHT: 1080
+
+services:
+  - name: selenium/standalone-chrome:latest
+
+e2e-tests-chrome:
+  stage: chrome-ci
+  before_script:
+    - npm install
+  script:
+    - npx codeceptjs run --steps --profile=chrome-ci
+  after_script:
+    - cp -r output/ ci_artifacts/
+  artifacts:
+    name: "$CI_JOB_STAGE-$CI_COMMIT_REF_NAME"
+    paths:
+      - ci_artifacts/
+    when: always

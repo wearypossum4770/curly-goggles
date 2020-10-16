@@ -1,24 +1,24 @@
 {
-  "response": {
-    "result": {
-      "item": {
-        "itemid": 257880,
-        "accounting_systemid": "zDmNq",
-        "updated": "2016-09-29 22:05:59",
-        "name": "other item",
-        "qty": "0",
-        "sku": "FB0192374221",
-        "inventory": null,
-        "unit_cost": {
-          "amount": "0.00",
-          "code": "USD"
-        },
-        "tax1": 0,
-        "vis_state": 0,
-        "tax2": 0,
-        "id": 257880,
-        "description": null
-      }
+    "response": {
+        "result": {
+            "item": {
+                "itemid": 257880,
+                "accounting_systemid": "zDmNq",
+                "updated": "2016-09-29 22:05:59",
+                "name": "other item",
+                "qty": "0",
+                "sku": "FB0192374221",
+                "inventory": null,
+                "unit_cost": {
+                    "amount": "0.00",
+                    "code": "USD"
+                },
+                "tax1": 0,
+                "vis_state": 0,
+                "tax2": 0,
+                "id": 257880,
+                "description": null
+            }
+        }
     }
-  }
 }

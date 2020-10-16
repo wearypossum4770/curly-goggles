@@ -1,0 +1,25 @@
+
+[gitlab.ssh]
+	hostname=altssh.gitlab.com
+	port=443
+	PreferredAuthentications=~/.ssh/gitlab
+
+[gitlab.pages]
+	domain_name=gitlab.io
+	domain_name_default=null
+
+
+	ip_address=35.185.44.232
+	ip_address_default=null
+
+
+	custom_domain_support=1
+	custom_domain_support_default=0
+
+
+	tls_certificates_support=1
+	tls_certificates_support_default=0
+
+
+	max_uncompressed_size = 1G
+	max_uncompressed_size_default = 100M

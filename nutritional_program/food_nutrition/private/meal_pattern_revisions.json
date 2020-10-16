@@ -1,0 +1,176 @@
+{
+    "abstract": "This document contains technical corrections to the final rule published in the Federal Register on April 25, 2016, ``Child and Adult Care Food Program: Meal Pattern Revisions Related to the Healthy, Hunger-Free Kids Act of 2010.''",
+    "action": "Correcting amendments.",
+    "agencies": [
+        {
+            "raw_name": "DEPARTMENT OF AGRICULTURE",
+            "name": "Agriculture Department",
+            "id": 12,
+            "url": "https://www.federalregister.gov/agencies/agriculture-department",
+            "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+            "parent_id": null,
+            "slug": "agriculture-department"
+        },
+        {
+            "raw_name": "Food and Nutrition Service",
+            "name": "Food and Nutrition Service",
+            "id": 200,
+            "url": "https://www.federalregister.gov/agencies/food-and-nutrition-service",
+            "json_url": "https://www.federalregister.gov/api/v1/agencies/200",
+            "parent_id": 12,
+            "slug": "food-and-nutrition-service"
+        }
+    ],
+    "body_html_url": "https://www.federalregister.gov/documents/full_text/html/2016/11/01/2016-26339.html",
+    "cfr_references": [
+        {"title": 7, "part": 210, "chapter": null, "citation_url": null},
+        {"title": 7, "part": 220, "chapter": null, "citation_url": null},
+        {"title": 7, "part": 226, "chapter": null, "citation_url": null}
+    ],
+    "citation": "81 FR 75671",
+    "comment_url": null,
+    "comments_close_on": null,
+    "correction_of": null,
+    "corrections": [],
+    "dates": "This document is effective November 1, 2016. Compliance with the provisions of this rule must begin October 1, 2017 except as otherwise noted in the final rule.",
+    "disposition_notes": null,
+    "docket_ids": ["FNS-2011-0029"],
+    "document_number": "2016-26339",
+    "effective_on": "2016-11-01",
+    "end_page": 75683,
+    "executive_order_notes": null,
+    "executive_order_number": null,
+    "full_text_xml_url": "https://www.federalregister.gov/documents/full_text/xml/2016/11/01/2016-26339.xml",
+    "html_url": "https://www.federalregister.gov/documents/2016/11/01/2016-26339/child-and-adult-care-food-program-meal-pattern-revisions-related-to-the-healthy-hunger-free-kids-act",
+    "images": {
+        "ER01NO16.140": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.140/large.png?1481695174",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.140/original.png?1481695174"
+        },
+        "ER01NO16.141": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.141/large.png?1481695177",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.141/original.png?1481695177"
+        },
+        "ER01NO16.142": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.142/large.png?1481695182",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.142/original.png?1481695182"
+        },
+        "ER01NO16.143": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.143/large.png?1481695191",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.143/original.png?1481695191"
+        },
+        "ER01NO16.144": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.144/large.png?1481695192",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.144/original.png?1481695192"
+        },
+        "ER01NO16.145": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.145/large.png?1481695201",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.145/original.png?1481695201"
+        },
+        "ER01NO16.146": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.146/large.png?1481695212",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.146/original.png?1481695212"
+        },
+        "ER01NO16.147": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.147/large.png?1481695213",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.147/original.png?1481695213"
+        },
+        "ER01NO16.148": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.148/large.png?1481695216",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.148/original.png?1481695216"
+        },
+        "ER01NO16.149": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.149/large.png?1481695339",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.149/original.png?1481695339"
+        },
+        "ER01NO16.150": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.150/large.png?1481695339",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.150/original.png?1481695339"
+        },
+        "ER01NO16.151": {
+            "large": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.151/large.png?1481695339",
+            "original": "https://s3.amazonaws.com/images.federalregister.gov/ER01NO16.151/original.png?1481695339"
+        }
+    },
+    "json_url": "https://www.federalregister.gov/api/v1/documents/2016-26339?publication_date=2016-11-01",
+    "mods_url": "https://www.govinfo.gov/metadata/granule/FR-2016-11-01/2016-26339/mods.xml",
+    "page_length": 13,
+    "page_views": {"count": 52, "last_updated": "2020-09-03 10:15:07 -0400"},
+    "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2016-11-01/pdf/2016-26339.pdf",
+    "presidential_document_number": null,
+    "proclamation_number": null,
+    "public_inspection_pdf_url": "https://s3.amazonaws.com/public-inspection.federalregister.gov/2016-26339.pdf?1477917979",
+    "publication_date": "2016-11-01",
+    "raw_text_url": "https://www.federalregister.gov/documents/full_text/text/2016/11/01/2016-26339.txt",
+    "regulation_id_number_info": {
+        "0584-AE18": {
+            "xml_url": "http://www.reginfo.gov/public/do/eAgendaViewRule?pubId=201510&RIN=0584-AE18&operation=OPERATION_EXPORT_XML",
+            "issue": "201510",
+            "title": "Child and Adult Care Food Program: Meal Pattern Revisions Related to the Healthy, Hunger-Free Kids Act of 2010",
+            "priority_category": "Other Significant",
+            "html_url": "https://www.federalregister.gov/regulations/0584-AE18/child-and-adult-care-food-program-meal-pattern-revisions-related-to-the-healthy-hunger-free-kids-act"
+        }
+    },
+    "regulation_id_numbers": ["0584-AE18"],
+    "regulations_dot_gov_info": {
+        "docket_id": "FNS-2011-0029",
+        "regulation_id_number": "0584-AE18",
+        "title": "Child and Adult Care Food Program: Meal Pattern Revisions Related to the Healthy, Hunger-Free Kids Act of 2010",
+        "docket_comments_count": 4299,
+        "comments_url": "https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FNS-2011-0029",
+        "supporting_documents_count": 4,
+        "supporting_documents": [
+            {
+                "title": "Final Summary of Public Comments",
+                "document_id": "FNS-2011-0029-4306"
+            },
+            {
+                "title": "Full Comparison Chart_CACFP Proposed vs Final Requirements",
+                "document_id": "FNS-2011-0029-4305"
+            },
+            {
+                "title": "CACFP Meal Pattern RIA",
+                "document_id": "FNS-2011-0029-4304"
+            },
+            {
+                "title": "CACFP Meal Pattern Reg Impact Analysis",
+                "document_id": "FNS-2011-0029-0002"
+            }
+        ],
+        "metadata": {},
+        "regulatory_plan": {
+            "html_url": "https://www.federalregister.gov/regulations/0584-AE18/child-and-adult-care-food-program-meal-pattern-revisions-related-to-the-healthy-hunger-free-kids-act",
+            "title": "Child and Adult Care Food Program: Meal Pattern Revisions Related to the Healthy, Hunger-Free Kids Act of 2010"
+        }
+    },
+    "regulations_dot_gov_url": null,
+    "significant": true,
+    "signing_date": null,
+    "start_page": 75671,
+    "subtype": null,
+    "title": "Child and Adult Care Food Program: Meal Pattern Revisions Related to the Healthy, Hunger-Free Kids Act of 2010; Corrections",
+    "toc_doc": "Meal Pattern Revisions Related to the Healthy, Hunger-Free Kids Act; Corrections",
+    "toc_subject": "Child and Adult Care Programs:",
+    "topics": [
+        "Accounting",
+        "Aged",
+        "Agency for International Development",
+        "Agency for International Development",
+        "Day care",
+        "Food assistance programs",
+        "Grant programs",
+        "Grant programs-education",
+        "Grant programs-health",
+        "Grant programs-health",
+        "Grant programs-social programs",
+        "Indians",
+        "Individuals with disabilities",
+        "Intergovernmental relations",
+        "Loan programs",
+        "Nutrition",
+        "Reporting and recordkeeping requirements",
+        "School breakfast and lunch programs"
+    ],
+    "type": "Rule",
+    "volume": 81
+}

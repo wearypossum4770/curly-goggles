@@ -3,8 +3,9 @@ from pathlib import Path, PurePath
 import django_heroku
 from dotenv import load_dotenv
 # ~ from config import settings
-# ~ BASE_DIR = Path(__file__).resolve('..')
-BASE_DIR = Path('/home/gatorcollege2006/web_dev/curly-goggles')
+BASE_DIR = Path(__file__).resolve(strict=True).parent
+
+# BASE_DIR = Path('/home/gatorcollege2006/web_dev/curly-goggles')
 # ~ BASE_DIR = PurePath.parent(PurePath.parent(Path.resolve(__file__)))
 load_dotenv(dotenv_path=BASE_DIR / ".env")
 
@@ -13,15 +14,17 @@ load_dotenv(dotenv_path=BASE_DIR / ".env")
 # ~ #-----------------------------------------------------------------------
 SECRET_KEY = getenv('DJANGO_SECRET_KEY','abcd1234$#@!') 
 DEBUG = getenv('DEBUG',False)
+HEROKU ='polar-plains-22202.herokuapp' 
 ALLOWED_HOSTS = [
 	'127.0.0.1',
 	'frozen-beyond-38164.herokuapp',
 
 ]
 MIDDLEWARE = [
-    'whitenoise.middleware.WhiteNoiseMiddleware',
     'corsheaders.middleware.CorsMiddleware',
     "django.middleware.security.SecurityMiddleware",
+	'whitenoise.middleware.WhiteNoiseMiddleware',
+
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
@@ -48,6 +51,7 @@ ADMINS = [
 # ~ ## APP SETTINGS
 # ~ #-----------------------------------------------------------------------
 INSTALLED_APPS = [
+		'whitenoise.runserver_nostatic',
 		"django.contrib.admin",
 		"django.contrib.auth",
 		"django.contrib.contenttypes",
@@ -91,13 +95,11 @@ WSGI_APPLICATION = "gettingstarted.wsgi.application"
 # ~ #-----------------------------------------------------------------------
 # ~ ## DATABASE / CACHE / STORAGE SETTINGS
 # ~ #-----------------------------------------------------------------------
-USPS_SHIPPING_API_PASSWORD = getenv('USPS_SHIPPING_API_PASSWORD')
-USPS_SHIPPING_API_USERNAME= getenv('USPS_SHIPPING_API_USERNAME')
-USPS_SHIPPING_API_COMPANY = getenv('USPS_SHIPPING_API_COMPANY')
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': f"{BASE_DIR}/data/db.sqlite3",
+        'NAME': f'{BASE_DIR}/db.sqlite3',
         # ~ 'TEST':{'NAME':f"{BASE_DIR}/data/test_db.sqlite3"},
     }
 }
@@ -117,25 +119,23 @@ USE_L10N = True
 USE_TZ = True
 
 # ~ #-----------------------------------------------------------------------
-# ~ ## PUSH && EMAIL  NOTIFICATION / DJANGO CHANNELS  SETTINGS
+# ~ ##  PWA ... PUSH && EMAIL  NOTIFICATION / DJANGO CHANNELS  SETTINGS
 # ~ #-----------------------------------------------------------------------
 DEFAULT_FROM_EMAIL:'webmaster@localhost'
+
 
 # ~ #-----------------------------------------------------------------------
 # ~ ## RESTFRAMEWORK  SETTINGS
 # ~ #-----------------------------------------------------------------------
-SITE_ID = 1
-INSTALLED_APPS+=[
-		'corsheaders',
-	]
 
 # ~ #-----------------------------------------------------------------------
 # ~ ## STATIC / CSS / JS / IMG FILE SETTINGS
 # ~ #-----------------------------------------------------------------------
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [BASE_DIR / "static",]
+STATIC_ROOT =  BASE_DIR / 'staticfiles'
 MEDIA_ROOT=   BASE_DIR / "static" / "media"
 MEDIA_URL = '/media/'
+
 # ------ SPECIAL VARIABLES ------ 
 
 # ~ #-----------------------------------------------------------------------
@@ -147,7 +147,7 @@ DROPBOX_APP_KEY= getenv('DROPBOX_APP_KEY')
 # ~ #-----------------------------------------------------------------------
 # ~ ## DEPLOY SETTINGS
 # ~ #-----------------------------------------------------------------------
-HOST_URL = 'http://127.0.0.1:8000' if getenv('DEBUG') else  'https://hudson-sorry-07505.herokuapp.com/'
+HOST_URL = 'http://127.0.0.1:8000' if getenv('DEBUG') else  f'https://{HEROKU}.com/'
 
 django_heroku.settings(locals())
 

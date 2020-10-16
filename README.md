@@ -1,4 +1,5 @@
 # curly-goggles
+
 # Python: Getting Started
 
 A barebones Django app, which can easily be deployed to Heroku.
@@ -35,6 +36,7 @@ $ git push heroku master
 $ heroku run python manage.py migrate
 $ heroku open
 ```
+
 or
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -43,4 +45,4 @@ or
 
 For more information about using Python on Heroku, see these Dev Center articles:
 
-- [Python on Heroku](https://devcenter.heroku.com/categories/python)
+-   [Python on Heroku](https://devcenter.heroku.com/categories/python)

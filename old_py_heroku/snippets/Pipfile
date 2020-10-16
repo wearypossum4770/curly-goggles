@@ -1,0 +1,31 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+rethinkdb = "*"
+cuid = "*"
+pypdf2 = "*"
+requests = "*"
+google = "*"
+proselint = "*"
+install = "*"
+flask-sqlalchemy = "*"
+flask-mail = "*"
+bcrypt = "*"
+flask-user = "*"
+
+[dev-packages]
+rethinkdb = "*"
+django-postman = "*"
+Django = "*"
+djangorestframework = "*"
+django-rest-knox = "*"
+Scrapy = "*"
+scrapy-selenium = "*"
+isort = "*"
+mypy = "*"
+
+[requires]
+python_version = "3.7"

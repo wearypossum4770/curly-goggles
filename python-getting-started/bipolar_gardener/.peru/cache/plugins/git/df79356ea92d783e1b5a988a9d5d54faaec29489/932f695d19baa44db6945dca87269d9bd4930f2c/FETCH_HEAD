@@ -1,0 +1,54 @@
+273f3f07dbf7d8af642f6924398cc2c1b5b1387c	not-for-merge	branch 'bacon' of git://github.com/chneukirchen/rack
+ae0ff0bd966aecd4e163f799ff64884a33fbd939	not-for-merge	branch 'build' of git://github.com/chneukirchen/rack
+a5066d1778b9ec7c86631234ff2795e777bdff12	not-for-merge	branch 'master' of git://github.com/chneukirchen/rack
+92f79ea8def92c3c2373b9ab5f5fa8e03aa7669d	not-for-merge	branch 'rack-0.4' of git://github.com/chneukirchen/rack
+bb802688bfae7cbe771d0cae4d88343d1d1b863b	not-for-merge	branch 'rack-0.9' of git://github.com/chneukirchen/rack
+d0a2084e64f394068a80ea073e1910d7c3ffa44b	not-for-merge	branch 'rack-1.0' of git://github.com/chneukirchen/rack
+470fdfd7f4f7c2f06a011423046cdca6983f71d7	not-for-merge	branch 'rack-1.1' of git://github.com/chneukirchen/rack
+d2bc128f588942a5c2a724d815f180a05274d17e	not-for-merge	branch 'rack-1.2' of git://github.com/chneukirchen/rack
+404f2f167f9f7d89d0662870ed13cde827703139	not-for-merge	branch 'rkh/master' of git://github.com/chneukirchen/rack
+72597281c55a1d7ff6b200655aea7cd93656551b	not-for-merge	'refs/pull/14/head' of git://github.com/chneukirchen/rack
+c94174db15ddccf03b612e4cec26612b52d15665	not-for-merge	'refs/pull/15/head' of git://github.com/chneukirchen/rack
+08632bb4d1d5ac030e3b6055783c6cf6e288c465	not-for-merge	'refs/pull/15/merge' of git://github.com/chneukirchen/rack
+8859c36b9e648d749eedf5a0a62f7e966b27c9e8	not-for-merge	'refs/pull/16/head' of git://github.com/chneukirchen/rack
+6f749c6aeb16b88a5302db4f7f666c386b6871fd	not-for-merge	'refs/pull/17/head' of git://github.com/chneukirchen/rack
+31159de07dc091136a1f1346777d6df43287cb1f	not-for-merge	'refs/pull/18/head' of git://github.com/chneukirchen/rack
+5c8131b6ea9ab2d049cedb010b1e8e818694f883	not-for-merge	'refs/pull/18/merge' of git://github.com/chneukirchen/rack
+f4392d511838accbd7f4e1074cc5ff4507a61a81	not-for-merge	'refs/pull/19/head' of git://github.com/chneukirchen/rack
+5e78a3ef8dc8b175c352d05eaae8a808a6e8107e	not-for-merge	'refs/pull/22/head' of git://github.com/chneukirchen/rack
+8dc2f1cafc7f81b68e3ae4139639cfbf8028d79a	not-for-merge	'refs/pull/22/merge' of git://github.com/chneukirchen/rack
+5af783a64c16dac58afc71747c01459b6abdd61c	not-for-merge	'refs/pull/23/head' of git://github.com/chneukirchen/rack
+ab3863c5202d993e89cc31a20f4c6ae9eb89d2fc	not-for-merge	'refs/pull/23/merge' of git://github.com/chneukirchen/rack
+0c8b321462e959dbde56d1fa224157d8c57096dd	not-for-merge	'refs/pull/24/head' of git://github.com/chneukirchen/rack
+b6a56c4afb500026cd086537fe5ac75880d88a00	not-for-merge	'refs/pull/24/merge' of git://github.com/chneukirchen/rack
+8a311fb0ba3f906208af342066f2cc5fdef038ac	not-for-merge	'refs/pull/25/head' of git://github.com/chneukirchen/rack
+2329cc767dcb15bee8c3bbb4e04a13d416f9dc7c	not-for-merge	'refs/pull/25/merge' of git://github.com/chneukirchen/rack
+d2bc128f588942a5c2a724d815f180a05274d17e	not-for-merge	'refs/pull/26/head' of git://github.com/chneukirchen/rack
+bee7489d36600eb87a9da0a1bb899088feea78c9	not-for-merge	tag '0.1' of git://github.com/chneukirchen/rack
+046be71448cb048a295a5221c8636d57b3c148f3	not-for-merge	tag '0.2' of git://github.com/chneukirchen/rack
+0e14a70acec801c13c810aa7c6a3c072b8a7cc81	not-for-merge	tag '0.3' of git://github.com/chneukirchen/rack
+fcd67583ad8d1c70a5fb5b110b85e6cb83cb1f4c	not-for-merge	tag '0.4' of git://github.com/chneukirchen/rack
+9a6b9c9b3a7088a44849e6aae3c05c5cec50c63f	not-for-merge	tag '0.9' of git://github.com/chneukirchen/rack
+04ca38270fbee678eb0705510c9dd91a3b6b1dbf	not-for-merge	tag '0.9.1' of git://github.com/chneukirchen/rack
+1f145ca1115134000d0195f870b9e5c32f1eda97	not-for-merge	tag '1.0' of git://github.com/chneukirchen/rack
+12597dad0ba0d1a7d334c4956e92168df9008217	not-for-merge	tag '1.0.1' of git://github.com/chneukirchen/rack
+39ea53f80676706f526dd964888844897210f9e5	not-for-merge	tag '1.1' of git://github.com/chneukirchen/rack
+e5003126cdf3111f61f17e972abdddc578c5b8bf	not-for-merge	tag '1.1.2' of git://github.com/chneukirchen/rack
+d5ee5164e8d912c7d62516b521ecb2ffa558ed7d	not-for-merge	tag '1.1.3' of git://github.com/chneukirchen/rack
+e03c65ea80ff85c0ee5fa906acb4e101bade7b60	not-for-merge	tag '1.2' of git://github.com/chneukirchen/rack
+198ddc9c6e07ab90e37464f8ca06e787d40d0201	not-for-merge	tag '1.2.1' of git://github.com/chneukirchen/rack
+0f8522eb931b6cdf4f909365ac3d4e6eb4df6bca	not-for-merge	tag '1.2.2' of git://github.com/chneukirchen/rack
+abca4ec9e9d5126c05581a7131ac878aa0c91e9d	not-for-merge	tag '1.2.3' of git://github.com/chneukirchen/rack
+0f908b6294cb4d9c1bd565438a0db798d5d39f77	not-for-merge	tag '1.2.4' of git://github.com/chneukirchen/rack
+7518fbb55150f9571e20a0a0c89db134e71b2f46	not-for-merge	tag '1.2.5' of git://github.com/chneukirchen/rack
+c46874cb0469326638dad0063f539415d0a93dcc	not-for-merge	tag '1.3.0' of git://github.com/chneukirchen/rack
+18040b59dad3f2efe96d5b70b2260764fcda4784	not-for-merge	tag '1.3.0.beta' of git://github.com/chneukirchen/rack
+1e99b9bcc7e9519d32e028fb1f24d6ef3b34b597	not-for-merge	tag '1.3.0.beta2' of git://github.com/chneukirchen/rack
+f1d5fc34c54aeb9c936d5cb4951f6e47a496d735	not-for-merge	tag '1.3.1' of git://github.com/chneukirchen/rack
+e804f5c5ae76626d6905010c8cad65e8847f220b	not-for-merge	tag '1.3.2' of git://github.com/chneukirchen/rack
+d17a9a10f21c508f89c6081f2ae4f1c62fd9e337	not-for-merge	tag '1.3.3' of git://github.com/chneukirchen/rack
+cb31ea2d6f564e7607fff2f1583c701fe8ad751b	not-for-merge	tag '1.3.4' of git://github.com/chneukirchen/rack
+054dda9e1b707335d190109aa832e583d9e97a65	not-for-merge	tag '1.3.5' of git://github.com/chneukirchen/rack
+60683f1cbcc0bd06a3278295bba8b0e666a66604	not-for-merge	tag '1.3.6' of git://github.com/chneukirchen/rack
+6bc1bda2ac86cb6313ba7d1cea58e47adc8d89d7	not-for-merge	tag '1.4.0' of git://github.com/chneukirchen/rack
+c78d30ae39b437420cc94b62002ccc1ac0337cc7	not-for-merge	tag '1.4.1' of git://github.com/chneukirchen/rack

@@ -1,0 +1,50 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Django = "*"
+gunicorn = "*"
+django-heroku = "*"
+django-cors-headers = "*"
+python-dotenv = "*"
+dropbox = "*"
+django-extensions = "*"
+pillow = "*"
+requests = "*"
+bcrypt = "*"
+ipaddress = "*"
+cuid = "*"
+pdfkit = "*"
+python-memcached = "*"
+scrapy = "*"
+toml = "*"
+dynaconf = "*"
+pytest = "*"
+pytest-cov = "*"
+pytest-django = "*"
+pytest-flask = "*"
+django-coverage-plugin = "*"
+motor = "*"
+pymongo = "*"
+tornado = "*"
+beautifulsoup4 = "*"
+lxml = "*"
+slimit = "*"
+"calmjs.parse" = "*"
+csscompressor = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
+
+[packages.whitenoise]
+extras = [ "brotli",]
+
+[packages.flask-environment]
+extras = [ "toml",]
+
+[packages.coverage]
+extras = [ "toml",]

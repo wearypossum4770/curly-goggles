@@ -1,21 +1,21 @@
 {
-  "response": {
-    "result": {
-      "items": [
-        {
-          // same format as single item
-        },
-        {
-          // same format as single item
-        },
-        {
-          // same format as single item
+    "response": {
+        "result": {
+            "items": [
+                {
+                    // same format as single item
+                },
+                {
+                    // same format as single item
+                },
+                {
+                    // same format as single item
+                }
+            ],
+            "pages": 1,
+            "total": 3,
+            "page": 1,
+            "per_page": 15
         }
-      ],
-      "pages": 1,
-      "total": 3,
-      "page": 1,
-      "per_page": 15
     }
-  }
 }

@@ -1,0 +1,28 @@
+# .prettierrc.toml
+#------------------------------------------------------------------------
+# NATIVE JS
+#------------------------------------------------------------------------
+trailingComma = "es6"
+tabWidth = 4
+semi = true
+singleQuote = false
+useTabs=false
+tabWidth=2
+bracketSpacing=true
+# parser
+
+#------------------------------------------------------------------------
+# JSX / REACT / VUE
+#------------------------------------------------------------------------
+quoteProps= "as-needed"
+jsxSingleQuote=false
+jsxBracketSameLine=false
+arrowParens = "avoid"
+
+
+#------------------------------------------------------------------------
+# HTML / MARKDOWN / CSS / ETC
+#------------------------------------------------------------------------
+
+
+proseWrap= "preserve"

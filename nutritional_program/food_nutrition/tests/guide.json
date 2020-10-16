@@ -1,0 +1,39 @@
+{
+    "test_suite_id": "TS001",
+    "test_case_id": "TC001",
+    "test_case_summary": "To verify that clicking the Generate Coin button generates coins.",
+    "related_requirement": "RS001",
+    "prerequisites": ["User is authorized.", "Coin balance is available."],
+    "test_script": [
+        "Select the coin denomination in the Denomination field.",
+        "Enter the number of coins in the Quantity field.",
+        "Click Generate Coin."
+    ],
+    "test_procedure": [
+        "Select the coin denomination in the Denomination field.",
+        "Enter the number of coins in the Quantity field.",
+        "Click Generate Coin."
+    ],
+    "test_data": {
+        "denominations": [0.05, 0.1, 0.25, 0.5, 1, 2, 5],
+        "quantities": [0, 1, 5, 10, 20]
+    },
+    "expected_results": [
+        "Coin of the specified denomination should be produced if the specified Quantity is valid (1, 5).",
+        "A message ‘Please enter a valid quantity between 1 and 10’ should be displayed if the specified quantity is invalid."
+    ],
+    "actual_results": [
+        "If the specified quantity is valid, the result is as expected.",
+        "If the specified quantity is invalid, nothing happens; the expected message is not displayed"
+    ],
+    "status": "fail",
+    "remarks": "This is a sample test case.",
+    "created_by": "John Doe",
+    "date_created": "2020-01-14",
+    "executed_by": "John Doe",
+    "date_executed": "2020-09-02",
+    "test_environemnt": {
+        "OS": {"Windows": true},
+        "Browser": {"Chrome": false}
+    }
+}

@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Django = "*"
+gunicorn = "*"
+django-heroku = "*"
+django = "*"
+djangorestframework = "*"
+psycopg2 = "*"
+pillow = "*"
+django-crispy-forms = "*"
+requests = "*"
+asyncpg = "*"
+scrapy = "*"
+flask = "*"
+eventlet = "*"
+erequests = "*"
+attrs = "*"
+google-api-python-client = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

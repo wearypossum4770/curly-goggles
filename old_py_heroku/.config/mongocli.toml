@@ -1,0 +1,51 @@
+[default]
+  organization_id = "qwer5678uiop23jb45lk78mn"
+  public_api_key = "ABCDEFG"
+  project_id= "5e2f04ecf10fcd33c7d4077e"
+  private_api_key = "e750d2bf-1234-4cde-5678-ca4dcbcac9a4"
+  service = "cloud"
+[development]
+[testing]
+[security]
+	keyFile = <string>
+	sendKeyFile =null
+	sendX509=
+	x509=
+	clusterAuthMode= <string>
+	authorization= <string>
+	transitionToAuth= <boolean>
+	javascriptEnabled=  <boolean>
+	redactClientLogData= <boolean>
+	clusterIpSourceWhitelist=- <string>
+	[security.sasl]
+		hostName= <string>
+		serviceName= <string>
+		saslauthdSocketPath= <string>
+		enableEncryption= <boolean>
+		encryptionCipherMode= <string>
+		encryptionKeyFile= <string>
+	[security.kmip]
+		  keyIdentifier= <string>
+		  rotateMasterKey= <boolean>
+		  serverName= <string>
+		  port= <string>
+		  clientCertificateFile= <string>
+		  clientCertificatePassword= <string>
+		  clientCertificateSelector= <string>
+		  serverCAFile= <string>
+		  connectRetries= <int>
+		  connectTimeoutMS= <int>
+	[security.ldap]
+		  servers= <string>
+	[security.ldap.bind]
+		method= <string>
+		saslMechanisms= <string>
+		queryUser= <string>
+		queryPassword= <string>
+		useOSDefaults= <boolean>
+		transportSecurity= <string>
+		timeoutMS= <int>
+		userToDNMapping= <string>
+	[security.ldap.authz]
+		queryTemplate= <string>
+		validateLDAPServerConfig= <boolean>

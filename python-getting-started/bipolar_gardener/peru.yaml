@@ -1,0 +1,31 @@
+imports:
+  rack_example: rack/ # This is where we want peru to put the module.
+
+  # The dircolors file just goes at the root of our project.
+  dircolors: ./
+  # We're going to merge Pathogen's autoload directory into our own.
+  pathogen: .vim/autoload/
+  # The Solarized plugin gets its own directory, where Pathogen expects it.
+  vim-solarized: .vim/bundle/solarized/
+git module rack_example:
+  url: git://github.com/chneukirchen/rack.git
+  rev: a5066d1778b9ec7c86631234ff2795e777bdff12
+
+git module dircolors:
+  url: https://github.com/seebi/dircolors-solarized
+  # Only copy this file. Can be a list of files. Accepts * and ** globs.
+  pick: dircolors.ansi-dark
+  rev: 5fb86a3f947f0e8b3005871c2f97df80e80f3016
+
+curl module pathogen:
+  url: https://codeload.github.com/tpope/vim-pathogen/tar.gz/v2.3
+  # Untar the archive after fetching.
+  unpack: tar
+  # After the unpack, use this subdirectory as the root of the module.
+  export: vim-pathogen-2.3/autoload/
+  sha1: 9c3fd6d9891bfe2cd3ed3ddc9ffe5f3fccb72b6a
+
+git module vim-solarized:
+  url: https://github.com/altercation/vim-colors-solarized
+  # Fetch this exact commit, instead of master.
+  rev: 528a59f26d12278698bb946f8fb82a63711eec21

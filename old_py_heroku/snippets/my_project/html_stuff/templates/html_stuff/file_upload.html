@@ -1,0 +1,687 @@
+<html class="js flexbox no-flexboxlegacy canvas canvastext no-webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize no-borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg no-smil svgclippaths ie ie1 win js js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface no-generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en-US" style="height: 100%;" data-lt-installed="true"><head>
+    <style>
+        article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+            display: block;
+        }
+
+        mark {
+            background: #FF0;
+            color: #000;
+        }
+
+        template {
+            display: none;
+        }
+    </style>
+    <noscript>
+        <style type="text/css">
+            #jsdisabled {
+                display: block;
+            }
+
+            #fileuploadBody {
+                display: none;
+            }
+        </style>
+    </noscript>
+    <link rel="icon" href="https://tn.gov/assets/img/logos/tn-logo.svg">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Upload</title>
+
+    <script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+    <script src="/bundles/jquery?v=FVs3ACwOLIVInrAl5sdzR2jrCDmVOWFbZMY6g6Q0ulE1"></script>
+
+    <script src="/bundles/jqueryval?v=hEGG8cMxk9p0ncdRUOJ-CnKN7NezhnPnWIvn6REucZo1"></script>
+
+    <script src="/bundles/bootstrap?v=2Fz3B0iizV2NnnamQFrx-NbYJNTFeBJ2GM05SilbtQU1"></script>
+
+    <link href="/Content/css?v=EiSx6CxKicIpt0bwH4zVNIgWYAqgyYM1QG21rQ0qYbI1" rel="stylesheet">
+
+    <link href="https://tn.gov/assets/css/tngov.site15.css" rel="stylesheet">
+
+    <script src="/Scripts/jquery.maskedinput.js"></script>
+
+    <script src="/Scripts/jquery.maskssn.js"></script>
+
+    <link href="/Content/bootstrap-datepicker3.css" rel="stylesheet">
+
+    <script src="/Scripts/bootstrap-datepicker.js"></script>
+
+    <script src="/Scripts/File_Upload/main.js"></script>
+
+    <script src="/Scripts/File_Upload/Upload.js"></script>
+
+
+    <script type="text/javascript">
+        var baseurl = '/';
+        var fileExtesnionError = 'Invalid File Type.',
+    fileSizeError = 'File size exceeds the max limit of 10MB.';  // Error Messages
+
+        window.onload = function () {
+            if (typeof history.pushState === "function") {
+                history.pushState("jibberish", null, null);
+                window.onpopstate = function () {
+                    history.pushState('newjibberish', null, null);
+                    // Handle the back (or forward) buttons here
+                    // Will NOT handle refresh, use onbeforeunload for this.
+                };
+            }
+            else {
+                var ignoreHashChange = true;
+                window.onhashchange = function () {
+                    if (!ignoreHashChange) {
+                        ignoreHashChange = true;
+                        window.location.hash = Math.random();
+                        // Detect and redirect change here
+                        // Works in older FF and IE9
+                        // * it does mess with your hash symbol (anchor?) pound sign
+                        // delimiter on the end of the URL
+                    }
+                    else {
+                        ignoreHashChange = false;
+                    }
+                };
+            }
+        };
+
+    </script>
+<script src="chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js"></script></head>
+
+<body style="">
+    <header id="header">
+    <div class="row top-nav" dir="ltr">
+        <a class="logo tn-logo" href="http://tn.gov/" data-logo="humanservices"><div dir="ltr">Home</div></a>
+        <a class="search-all icon-home-1" href="http://tn.gov/"> Go to TN.gov</a>
+    </div>
+    <div class="row agency" dir="ltr">
+        <div class="large-16 medium-16 columns title" dir="ltr">
+            <a class="active-svg" href="https://tn.gov/humanservices/" data-logo="humanservices">
+                <small>File Upload&nbsp;</small>
+                <span>Human Services</span>
+                <img id="entity-name" alt="File Upload" src="https://tn.gov/assets/img/logos/humanservices.svg">
+            </a>
+        </div>
+        <div class="large-8 medium-8 columns text-right" dir="ltr">
+            <div class="search" dir="ltr">
+                <form method="get" action="https://www.tn.gov/humanservices/search-results.html">
+                    <input type="text" class="search-box" name="q" placeholder="Search Human Services" aria-label="Search Human Services">
+                    <input type="submit" value="Search" class="search-button">
+                    <i class="icon-search"></i>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="backdrop" style="background-image: url(&quot;https://tn.gov/assets/banner-images/test.jpg&quot;);" dir="ltr"></div>
+</header>
+
+    <div id="main-content" dir="ltr">
+        <!-- ----------- Body ----------- -->
+
+        
+
+<div class="navbar navbar-default" dir="ltr">
+    <div class="container" dir="ltr">
+        <div class="navbar-header" dir="ltr">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            <a class="navbar-brand"> File Upload</a>
+        </div>
+        <div class="navbar-collapse collapse" dir="ltr">
+            <ul class="nav navbar-nav navbar-collapse">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-globe"></i> Language <span class="caret"></span></a>
+                    <ul id="langSelect" class="dropdown-menu">
+                        <li><a href="#" onclick="updateLanguage('/Home/SetLanguage', 'en-US')">English</a></li>
+                        <li><a href="#" onclick="updateLanguage('/Home/SetLanguage', 'es-MX')">Español</a></li>
+                        <li><a href="#" onclick="updateLanguage('/Home/SetLanguage', 'ar-SA')">العربية</a></li>
+                        <li><a href="#" onclick="updateLanguage('/Home/SetLanguage', 'so-SO')">Soomaali</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a id="logout" class="navbar-brand pull-right" style="cursor:pointer;"><i class="fa fa-sign-out"></i>Log Out</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+        <div id="jsdisabled" class="jsdisabled panel panel-body alert-danger" style="text-align:center" hidden="hidden" dir="ltr">
+            <div class="col-xs-12 col-md-12" dir="ltr">
+                Sorry! You must enable javascript to use this application!<br>
+            </div>
+        </div>
+        <div class="row container body-content" id="fileuploadBody" dir="ltr">
+            <div class="col-xs-12 col-md-12 center-block panel panel-primary" dir="ltr">
+                
+
+<div class="panel-body" id="UploadBody" dir="ltr">
+<form action="/FileUpload/Upload" autocomplete="off" enctype="multipart/form-data" id="BeginForm" method="post" novalidate="novalidate"><input id="ViewLang" name="ViewLang" type="hidden" value=""><input id="UploadSystem" name="UploadSystem" type="hidden" value="fa"><input name="__RequestVerificationToken" type="hidden" value="LIB0FUNI1I_-eFnc02OM_GswpPPiBe9fTAlQGb51D57rxQhuB5pkt33HFmZNZ-Wa-7QGD1-XG-C9_WDY-5-prmNeYClWVhKca_6v0jCIDWE1">        <div class="panel-primary" id="metadata_section" dir="ltr" style="pointer-events: auto;">
+            <div class="row field-validation-error" dir="ltr">
+                <div class="field-server-error" dir="ltr">
+                    <div class="validation-summary-valid" data-valmsg-summary="true" dir="ltr"><ul><li style="display:none"></li>
+</ul></div>
+                </div>
+                <div class="validation-summary-errors error-upload" hidden="" dir="ltr">
+                    <ul>
+                        <li class="field-validation-error"></li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="panel-heading" dir="ltr"><h3 class="section-panel-title"><i class="fa fa-lg fa fa-lg fa-home"></i>  Basic Info</h3></div>
+            <label class="control-label" style="color:green">The more you tell us, the faster we can see if you can get help. In most cases you will need to talk with a DHS worker to complete the application process.</label>
+            <br>
+            <div class="row" dir="ltr">
+                <div class="col-xs-12 col-md-6 center-block" dir="ltr">
+                    <div class="row" dir="ltr"><div class="form-group" dir="ltr"><label class="col-xs-4 control-label" for="FirstName" style="float: left;">First Name *</label><div class="col-xs-8" dir="ltr"><span class="field-validation-valid" data-valmsg-for="FirstName" data-valmsg-replace="true"></span><input class="form-control valid" data-val="true" data-val-length="The field First Name * must be a string with a maximum length of 50." data-val-length-max="50" data-val-required="First Name is required." id="FirstName" maxlength="50" name="FirstName" placeholder=" [REQUIRED]" type="text" value="STEPHEN"></div></div></div>
+                    <div class="row" dir="ltr"><div class="form-group" dir="ltr"><label class="col-xs-4 control-label" for="MiddleInitial" style="float: left;">Middle Initial</label><div class="col-xs-8" dir="ltr"><span class="field-validation-valid" data-valmsg-for="MiddleInitial" data-valmsg-replace="true"></span><input class="form-control" data-val="true" data-val-length="The field Middle Initial must be a string with a maximum length of 1." data-val-length-max="1" id="MiddleInitial" maxlength="1" name="MiddleInitial" placeholder="" type="text" value=""></div></div></div>
+                    <div class="row" dir="ltr"><div class="form-group" dir="ltr"><label class="col-xs-4 control-label" for="LastName" style="float: left;">Last Name *</label><div class="col-xs-8" dir="ltr"><span class="field-validation-valid" data-valmsg-for="LastName" data-valmsg-replace="true"></span><input class="form-control" data-val="true" data-val-length="The field Last Name * must be a string with a maximum length of 50." data-val-length-max="50" data-val-required="Last Name is required." id="LastName" maxlength="50" name="LastName" placeholder=" [REQUIRED]" type="text" value="SMITH"></div></div></div>
+                    <div class="row" dir="ltr"><div class="form-group" dir="ltr"><label class="col-xs-4 control-label" for="Last4SSN" style="float: left;">SSN
+(Last 4/Full SSN)</label><div class="col-xs-8" dir="ltr"><span class="field-validation-valid" data-valmsg-for="Last4SSN" data-valmsg-replace="true"></span><input class="form-control" data-val="true" data-val-length="The field SSN
+(Last 4/Full SSN) must be a string with a maximum length of 9." data-val-length-max="9" data-val-regex="Invalid SSN." data-val-regex-pattern="^(?:.{4}|.{9})$" id="Last4SSN" maxlength="9" name="Last4SSN" placeholder="" type="tel" value=""></div></div></div>
+
+                        <div class="row" dir="ltr"><div class="form-group" dir="ltr"><label class="col-xs-4 control-label" for="RecipientID" style="float: left;">Recipient ID
+(11 Digit)</label><div class="col-xs-8" dir="ltr"><span class="field-validation-valid" data-valmsg-for="RecipientID" data-valmsg-replace="true"></span><input class="form-control" data-val="true" data-val-length="The field Recipient ID
+(11 Digit) must be a string with a maximum length of 11." data-val-length-max="11" data-val-minlength="Recipient ID must be 11 digit number." data-val-minlength-min="11" id="RecipientID" maxlength="11" name="RecipientID" placeholder="" type="tel" value=""></div></div></div>
+                        <div class="row" dir="ltr"><div class="form-group" dir="ltr"><label class="col-xs-4 control-label" for="CaseNumber" style="float: left;">Case Number
+(10 Digit)</label><div class="col-xs-8" dir="ltr"><span class="field-validation-valid" data-valmsg-for="CaseNumber" data-valmsg-replace="true"></span><input class="form-control" data-val="true" data-val-length="The field Case Number
+(10 Digit) must be a string with a maximum length of 10." data-val-length-max="10" data-val-minlength="Case Number must be 10 digit number." data-val-minlength-min="10" id="CaseNumber" maxlength="10" name="CaseNumber" placeholder="" type="tel" value=""></div></div></div>
+                </div>
+                <div class="col-xs-12 col-md-6 center-block" dir="ltr">
+                        <div class="row" dir="ltr"><div class="form-group" dir="ltr"><label class="col-xs-4 control-label" for="ApplicationNumber" style="float: left;">Application Number
+(10 Digit)</label><div class="col-xs-8" dir="ltr"><span class="field-validation-valid" data-valmsg-for="ApplicationNumber" data-valmsg-replace="true"></span><input class="form-control" data-val="true" data-val-length="The field Application Number
+(10 Digit) must be a string with a maximum length of 10." data-val-length-max="10" data-val-minlength="Application Number must be 10 digit number." data-val-minlength-min="10" id="ApplicationNumber" maxlength="10" name="ApplicationNumber" placeholder="" type="tel" value=""></div></div></div>
+                    <div id="applicationid" class="row" dir="ltr">
+                        <div class="form-group" dir="ltr"><label class="col-xs-4 control-label" for="AppID" style="float: left;">Application ID</label><div class="col-xs-8" dir="ltr"><p class="form-control-static">1125352</p></div></div>
+                        <input data-val="true" data-val-number="The field Application ID must be a number." id="AppID" name="AppID" type="hidden" value="1125352">
+                    </div>
+                    <div class="row" dir="ltr">
+                        <div class="form-group" dir="ltr">
+                            <label class="col-xs-4 control-label" for="DateOfBirth" style="float: left;">Date of Birth *
+(MM/DD/YYYY)</label>
+                            <div class="col-xs-8" dir="ltr">
+                                <span class="field-validation-valid" data-valmsg-for="DateOfBirth" data-valmsg-replace="true"></span>
+                                <input value="" class="form-control" data-val="true" data-val-remote="'Date of Birth *
+(MM/DD/YYYY)' is invalid." data-val-remote-additionalfields="*.DateOfBirth" data-val-remote-type="POST" data-val-remote-url="/FileUpload/IsValidDateOfBirth" data-val-required="Date of Birth is required." id="DateOfBirth" maxlength="10" name="DateOfBirth" type="text">
+                            </div>
+                        </div>
+                    </div>
+                        <div class="row" dir="ltr">
+                            <div class="form-group" dir="ltr">
+                                <label class="col-xs-4 control-label" for="Counties" style="float: left;">County of Residence *</label>
+                                <div class="col-xs-8" dir="ltr">
+                                    <span class="field-validation-valid" data-valmsg-for="fk_lkup_CountiesID" data-valmsg-replace="true"></span>
+                                    <select class="form-control" data-val="true" data-val-number="The field fk_lkup_CountiesID must be a number." data-val-required="County of Residence is required." id="fk_lkup_CountiesID" name="fk_lkup_CountiesID"><option value="">Please select a county</option>
+<option value="1">Out of State</option>
+<option value="2">Anderson </option>
+<option value="3">Bedford </option>
+<option value="4">Benton</option>
+<option value="5">Bledsoe </option>
+<option value="6">Blount</option>
+<option value="7">Bradley </option>
+<option value="8">Campbell </option>
+<option value="9">Cannon </option>
+<option value="10">Carroll </option>
+<option value="11">Carter </option>
+<option value="12">Cheatham </option>
+<option value="13">Chester </option>
+<option value="14">Claiborne </option>
+<option value="15">Clay </option>
+<option value="16">Cocke </option>
+<option value="17">Coffee </option>
+<option value="18">Crockett </option>
+<option value="19">Cumberland</option>
+<option value="20">Davidson</option>
+<option value="21">Decatur </option>
+<option value="22">Dekalb </option>
+<option value="23">Dickson </option>
+<option value="24">Dyer </option>
+<option value="25">Fayette </option>
+<option value="26">Fentress </option>
+<option value="27">Franklin </option>
+<option value="28">Gibson </option>
+<option value="29">Giles </option>
+<option value="30">Grainger </option>
+<option value="31">Greene</option>
+<option value="32">Grundy </option>
+<option value="33">Hamblen </option>
+<option value="34">Hamilton </option>
+<option value="35">Hancock </option>
+<option value="36">Hardeman </option>
+<option value="37">Hardin </option>
+<option value="38">Hawkins </option>
+<option value="39">Haywood </option>
+<option value="40">Henderson</option>
+<option value="41">Henry </option>
+<option value="42">Hickman</option>
+<option value="43">Houston</option>
+<option value="44">Humphreys </option>
+<option value="45">Jackson </option>
+<option value="46">Jefferson</option>
+<option value="47">Johnson </option>
+<option value="48">Knox </option>
+<option value="49">Lake</option>
+<option value="50">Lauderdale </option>
+<option value="51">Lawrence </option>
+<option value="52">Lewis </option>
+<option value="53">Lincoln</option>
+<option value="54">Loudon </option>
+<option value="55">Macon </option>
+<option value="56">Madison </option>
+<option value="57">Marion </option>
+<option value="58">Marshall </option>
+<option value="59">Maury </option>
+<option value="60">Meigs</option>
+<option value="61">Monroe </option>
+<option value="62">Montgomery</option>
+<option value="63">Moore</option>
+<option value="64">Morgan </option>
+<option value="65">McMinn</option>
+<option value="66">McNairy </option>
+<option value="67">Obion</option>
+<option value="68">Overton</option>
+<option value="69">Perry </option>
+<option value="70">Pickett </option>
+<option value="71">Polk </option>
+<option value="72">Putnam</option>
+<option value="73">Rhea </option>
+<option value="74">Roane </option>
+<option value="75">Robertson </option>
+<option value="76">Rutherford</option>
+<option value="77">Scott </option>
+<option value="78">Sequatchie</option>
+<option value="79">Sevier </option>
+<option value="80">Shelby </option>
+<option value="81">Smith</option>
+<option value="82">Stewart </option>
+<option value="83">Sullivan </option>
+<option value="84">Sumner </option>
+<option value="85">Tipton </option>
+<option value="86">Trousdale</option>
+<option value="87">Unicoi </option>
+<option value="88">Union </option>
+<option value="89">Van Buren </option>
+<option value="90">Warren </option>
+<option value="91">Washington</option>
+<option value="92">Wayne</option>
+<option value="93">Weakley </option>
+<option value="94">White </option>
+<option value="95">Williamson </option>
+<option value="96">Wilson </option>
+<option value="97">Unknown</option>
+</select>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    <div class="row" dir="ltr"><div class="form-group" dir="ltr"><label class="col-xs-4 control-label" for="PhoneNumber" style="float: left;">Phone
+(Include area code)</label><div class="col-xs-8" dir="ltr"><span class="field-validation-valid" data-valmsg-for="PhoneNumber" data-valmsg-replace="true"></span><input class="form-control  tel-input" data-val="true" data-val-phone="The Phone
+(Include area code) field is not a valid phone number." data-val-regex="Invalid Phone Number." data-val-regex-pattern="^(\([_]{3}\)\s[_]{3}-[_]{4})|(\([0-9]{3}\)\s[0-9]{3}-[0-9]{4})" id="PhoneNumber" name="PhoneNumber" type="text" value=""></div></div></div>
+                    <div class="row" dir="ltr"><div class="form-group" dir="ltr"><label class="col-xs-4 control-label" for="Email" style="float: left;">Email</label><div class="col-xs-8" dir="ltr"><span class="field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true"></span><input class="form-control email-mask" data-val="true" data-val-email="Invalid Email address." data-val-length="The field Email must be a string with a maximum length of 50." data-val-length-max="50" id="Email" maxlength="50" name="Email" placeholder="" type="email" value="wearypossum4770@yahoo.com"></div></div></div>
+                </div>
+            </div>
+        </div>
+        <div class="panel-primary" id="upload_section" dir="ltr" style="display: none;">
+            <div class="panel-heading" dir="ltr"><h3 class="section-panel-title"><i class="fa fa-lg fa fa-lg fa-upload"></i>  Upload ( Only one document can be uploaded at a time )</h3></div>
+            <br>
+            <div class="row" dir="ltr">
+                <div class="col-xs-12 col-md-6 center-block" dir="ltr">
+                    <div class="form-group" dir="ltr"><label class="col-xs-4 control-label" for="DocumentTypes" style="float: left;">Document Type *</label><div class="col-xs-8" dir="ltr"><span class="field-validation-valid" data-valmsg-for="DocumentTypes" data-valmsg-replace="true"></span><select class="form-control" data-val="true" data-val-required="The Document Type * field is required." id="DocumentTypes" name="DocumentTypes" style="max-width: 350px;"><option selected="selected" value="0">Please select a document type</option>
+<option value="1">Application</option>
+<option value="2">Verification</option>
+<option value="3">Simplified Reporting Form</option>
+<option value="4">Change Report</option>
+<option value="5">Miscellaneous</option>
+<option value="17">Personal Responsibility Plan</option>
+<option value="16">TANF/Families First Drug Screening</option>
+<option value="19">HH Misf. Replacement</option>
+<option value="20">DSNAP Rep./Supplement</option>
+
+
+
+
+
+
+
+<option value="30">Child Care Parent Agreement Form</option>
+<option value="31">Release Form</option>
+<option value="32">Mid-Certification Report Form - No Change</option>
+<option value="33">Mid-Certification Report Form - Change</option>
+<option value="35">Affidavit Request for SNAP Replacements</option>
+
+
+
+
+
+
+
+</select></div></div>
+                </div>
+
+                <br>
+            </div>
+            <div class="row text-center" dir="ltr">
+                <label style="color:green">Password protected documents may not be uploaded into this system. Please remove security from the document to submit.</label>
+            </div>
+            <div class="row text-center" id="VerificationLink" dir="ltr" style="display: none;">
+                <a href="../PdfFiles/Verifications_English.pdf" target="_new"><u>Click HERE</u></a> to see a list of Verification Requirements.
+            </div>
+            <div class="row text-center" dir="ltr">
+                <div class="fileUpload button orange" id="add_file" dir="ltr" style="display: none;">
+                    <i class="fa fa-plus"></i>&nbsp;Add File
+                    <input class="upload" data-val="true" data-val-required="File is required." id="uploadFile" name="uploadFile" type="file" value="">
+                </div>
+            </div>
+
+            <br>
+            <div class="row text-center" id="preview-content" hidden="" dir="ltr" style="display: none;">
+                <table class="table">
+                    <tbody><tr>
+                        <td></td>
+                        <td>
+                            <label class="control-label">File Name</label>
+                            
+                        </td>
+                        <td>
+                            <label class="control-label">File Size</label>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img id="preview-image" src=""><br>
+                        </td>
+                        <td>
+                            <div dir="ltr"><text id="FileName"></text></div>
+                        </td>
+                        <td>
+                            <div dir="ltr"><text id="FileSize"></text></div>
+                        </td>
+                        <td>
+                            <a class="button red" id="deletefile">
+                                <span>Delete</span>
+                            </a>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+            <br>
+            <div class="field-validation-error row" dir="ltr">
+                <div class="field-server-error" dir="ltr">
+                    <div class="validation-summary-valid" data-valmsg-summary="true" dir="ltr"><ul><li style="display:none"></li>
+</ul></div>
+                </div>
+                <div class="validation-summary-errors error-upload" hidden="" dir="ltr">
+                    <ul>
+                        <li class="field-validation-error"></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row text-center" dir="ltr">
+                    <button class="button" type="submit" id="submit-upload" style="display: none;">
+                        Submit
+                    </button>
+                
+            </div>
+
+        </div>
+        <div class="panel-footer" dir="ltr">
+            <button class="btn btn-primary cancel" formaction="/FileUpload/Navigate?pageFrom=Upload&amp;NavTo=NonDiscrimination">
+                <i class="fa fa-arrow-left fa-lg"></i> Previous
+            </button>
+
+        </div>
+<input data-val="true" data-val-required="The SessionToken field is required." id="SessionToken" name="SessionToken" type="hidden" value="a4a82523-e189-4cc7-a659-2e69b842e6f9"></form>    <div class="panel-primary" id="processing" hidden="" dir="ltr">
+        <div class="row text-center" dir="ltr">
+            <span class="fa fa-spinner fa-spin fa-lg"></span>
+            <h1>Processing</h1>
+        </div>
+    </div>
+</div>
+
+<script>
+    var FirstNameSelector = '[name="FirstName"]',
+    MiddleInitialSelector = '[name="MiddleInitial"]',
+    LastNameSelector = '[name="LastName"]',
+    SSNSelector = '[name="Last4SSN"]',
+    RecipientIDSelector = '[name="RecipientID"]',
+    CaseNumberSelector = '[name="CaseNumber"]',
+    ApplicationNumberSelector = '[name="ApplicationNumber"]',
+    AppIDSelector = '[name="AppID"]',
+    DOBSelector = '[name="DateOfBirth"]',
+    CountySelector = '[name="fk_lkup_CountiesID"]',
+    PhoneNumberSelector = '[name="PhoneNumber"]',
+    EmailSelector = '[name="Email"]',
+    UploadFileSelector = '[name="uploadFile"]',
+    DocumentTypeSelector = '[name="DocumentTypes"]',
+    FileNameSelector = $("#FileName"),
+    FileSizeSelector = $("#FileSize"),
+    System = $("#UploadSystem").val();
+
+    var CCDocTypeList = ["21", "22", "23", "24", "25", "26", "27", "36", "37", "38", "39", "40", "41", "42"];
+    var CCIniDocTypeList = ["21", "22", "23", "24", "25", "26", "27"];
+    var CCRedDocTypeList = ["36", "37", "38", "39", "40", "41", "42"];
+    var TCCM = '[name="TCCMSID"]';
+
+    //Date picker for date field
+    $("#DateOfBirth").datepicker({
+        orientation: 'auto bottom',
+        clearBtn: true,
+        endDate: '0d',
+        startDate: '-130y',
+        forceParse: false,
+        autoclose: true
+    });
+
+    //Masking for date of birth field
+    $('#DateOfBirth').mask('99/99/9999', { autoclear: false });
+
+
+
+    // Phone number masking for phone field
+    $('.tel-input').mask('(999) 999-9999', { autoclear: false });
+
+    // Preventing cut,copy and paste operations for all text boxes
+    $('#UploadBody input[type=text]').bind("cut copy paste", function (e, value) {
+        e.preventDefault();
+    });
+
+
+    $(document).ready(function () {
+        $(CaseNumberSelector).attr("type", "tel");
+        $(ApplicationNumberSelector).attr("type", "tel");
+        $(RecipientIDSelector).attr("type", "tel");
+        $(SSNSelector).attr("type", "tel");
+
+        if (System.toLowerCase() == "cc") {
+            $("#metadata_section").css("pointer-events", "none");
+            $(DocumentTypeSelector + ' option').filter(function () {
+                if (this.value != "0") {
+                    return $.inArray(this.value, CCDocTypeList) == -1
+                }
+            }).remove();
+
+            if ($(TCCM).val() == 0) {
+                $(DocumentTypeSelector + ' option').filter(function () {
+                    if (this.value != "0") {
+                        return $.inArray(this.value, CCIniDocTypeList) == -1
+                    }
+                }).remove();
+            }
+            else {
+                $(DocumentTypeSelector + ' option').filter(function () {
+                    if (this.value != "0") {
+                        return $.inArray(this.value, CCRedDocTypeList) == -1
+                    }
+                }).remove();
+            }
+        }
+        else {
+            $("#metadata_section").css("pointer-events", "auto");
+            $(DocumentTypeSelector + ' option').filter(function () {
+                return $.inArray(this.value, CCDocTypeList) !== -1
+            }).remove();
+        }
+
+
+        var AppID = $(AppIDSelector).val();
+        $(FirstNameSelector).keypress(function (event) { return isStandardName(event); });
+        $(LastNameSelector).keypress(function (event) { return isStandardName(event); });
+        $(SSNSelector).keypress(function (event) { return isNumericKey(event); }).keyup(IsAndroidDevice);
+        $(RecipientIDSelector).keypress(function (event) { return isNumericKey(event); }).keyup(IsAndroidDevice);
+        $(CaseNumberSelector).keypress(function (event) { return isNumericKey(event); }).keyup(IsAndroidDevice);
+        $(ApplicationNumberSelector).keypress(function (event) { return isNumericKey(event); }).keyup(IsAndroidDevice);
+        $(MiddleInitialSelector).keypress(function (event) { return onlyAlphabetic(event); });
+        $("#DocumentTypes").css("maxWidth", "350px");
+
+        if (AppID != null && parseInt(AppID) != 0 && AppID.trim() != "") {
+            $("#applicationid").show();
+        }
+        else {
+            $("#applicationid").hide();
+        }
+
+        if ($("#ViewLang").val() == "ar-SA" || $("#ViewLang").val() == "so-SO") {
+            $(DocumentTypeSelector + " option[value='16']").remove();
+            $(DocumentTypeSelector + " option[value='19']").remove();
+            $(DocumentTypeSelector + " option[value='20']").remove();
+            $(DocumentTypeSelector + " option[value='32']").remove();
+            $(DocumentTypeSelector + " option[value='33']").remove();
+        }
+
+        $(UploadFileSelector).change(function () {
+            $('.field-server-error').hide();
+            previewFile(this);
+        });
+
+        $("#deletefile").click(function () {
+            $(UploadFileSelector).val('');
+            previewFile($(UploadFileSelector));
+        });
+
+        $("#submit-upload").click(function () {
+            $("form").css("display", " none").hide();
+            $("#processing").show();
+        });
+
+        DisplayUpload();
+        $(FirstNameSelector).blur(Metadata_Validation);
+        $(LastNameSelector).blur(Metadata_Validation);
+        $(SSNSelector).blur(Metadata_Validation);
+        $(RecipientIDSelector).blur(Metadata_Validation);
+        $(CaseNumberSelector).blur(Metadata_Validation);
+        $(ApplicationNumberSelector).blur(Metadata_Validation);
+        $(DOBSelector).blur(dob_Metadata_Validation).change(dob_Metadata_Validation).focusout(dob_Metadata_Validation);
+        $(CountySelector).change(Metadata_Validation);
+        $(PhoneNumberSelector).blur(Metadata_Validation);
+        $(EmailSelector).blur(Metadata_Validation);
+        DisplayAddFile();
+        $(DocumentTypeSelector).change(Upload_Validation).change(DisplaySubmit);
+        DisplaySubmit();
+        $(UploadFileSelector).change(DisplaySubmit);
+        $(DOBSelector).keydown(DOBPosition);
+
+        function DOBPosition() {
+            var popup = $(this).offset();
+            var popupTop = popup.top + 40;
+            $('.datepicker').css({
+                'top': popupTop
+            });
+        }
+    });
+</script>
+
+            </div>
+        </div>
+    </div>
+    <br>
+    <!-- ----------- Footer ----------- -->
+    
+<footer id="footer">
+    <div style="padding:10px" dir="ltr"><i class="fa fa-copyright fa-lg"></i> 2020 - File Upload - Version 1.0.11424  
+        <div class="pull-right" dir="ltr">
+        </div> 
+    </div>
+    <div class="pull-right" dir="ltr"> </div>
+    <div id="footer-top" dir="ltr">
+        <a class="starball"><img src="https://tn.gov/etc/clientlibs/tncore/main/img/footer-starball.png"></a>
+    </div>
+    <div id="footer-bottom" dir="ltr">
+        <div class="row" dir="ltr">
+            <div class="large-12 medium-12 columns" dir="ltr">
+                <ul class="inline-list">
+                    <li><a class="first" href="https://tn.gov/state-services.html">TN.gov Services</a></li>
+                    <li><a href="https://tn.gov/directory.html">TN.gov Directory</a></li>
+                    <li><a href="https://tn.gov/transparenttn.html">Transparent TN</a></li>
+                    <li><a href="https://tn.gov/web-policies/privacy-statement.html">Web Policies</a></li>
+                </ul>
+            </div>
+            <div class="large-12 medium-12 columns text-right" dir="ltr">
+                <ul class="inline-list">
+                    <li><a href="https://tn.gov/about-tn/state-symbols.html">About Tennessee</a></li>
+                    <li><a href="https://tn.gov/humanrights/file-a-discrimination-complaint/title-vi1/title-vi-disclaimer.html">Title VI</a></li>
+                    <li><a href="https://tn.gov/web-policies/accessibility.html">Accessibility</a></li>
+                    <li><a href="https://help.tn.gov/tn">Help &amp; Contact</a></li>
+                    <li><a href="https://tn.gov/survey.html">Survey</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+
+
+    <!-- Session Warning Modal Popup -->
+    <div id="Timeout" class="modal fade" role="dialog" dir="ltr">
+        <div class="modal-dialog" dir="ltr">
+            <div class="modal-content" dir="ltr">
+                <div class="modal-header" dir="ltr">
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                    <h4 class="modal-title"><i class="fa fa-clock-o"></i>Continue Session</h4>
+                </div>
+                <div class="modal-body" dir="ltr">
+                    Your session will expire due to inactivity in 1 minute.  Please click the button below to extend your session.  After 1 minute, your session will expire and you will need to login in again.
+                </div>
+                <div class="modal-footer" dir="ltr">
+                    <button type="button" onclick="navigate()" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-check fa-lg"></i>Continue Session</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Confirmation model to log out the session-->
+    <div id="LogOutModal" class="modal fade" role="dialog" dir="ltr">
+        <div class="modal-dialog" dir="ltr">
+            <div class="modal-content" dir="ltr">
+                <div class="modal-header" dir="ltr">
+                    <button type="button" class="close" data-dismiss="modal">×</button>
+                    <h4 class="modal-title"><i class="fa fa-clock-o"></i>Are you sure ?</h4>
+                </div>
+                <div class="modal-body" dir="ltr">
+                     Your document(s) has/have been uploaded to Tennessee Department of Human Services.<br>
+                    Tracking Number : <b><text id="trackingnumber_logout">  </text></b>  <br>
+                    <p>
+            Please save your Tracking Number. You need your Tracking Number when calling the Department of Human Services
+            regarding the document(s) uploaded.
+        </p><br>
+                     Click <b>OK</b> to exit the session or <b>Cancel</b> to upload more documents or <b>Confirmation</b> to view the information and print the receipt.
+                </div>
+                <div class="modal-footer" dir="ltr">
+                    <a class="btn btn-primary btn-sm" data-dismiss="modal" onclick="LogOut()"><i class="fa fa-check"></i>Ok</a>
+                    <button type="button" class="btn btn-primary btn-sm" data-dismiss="modal"><i class="fa fa-close"></i>Cancel</button>
+                    <a class="btn btn-primary btn-sm" data-dismiss="modal" onclick="Confirmation()"><i class="fa fa-check-square"></i> Confirmation</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body></html>

@@ -1,0 +1,23 @@
+[package]
+	name = "hello-rust"
+	version = "0.1.0"
+	authors = [
+		"wearypossum4770 <wearypossum4770@yahoo.com>",
+		
+		]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+	celery = "0.3.1"
+	amq-protocol = "5.1.0"
+	time = "0.1.12"
+	regex = "0.1.41"
+	reqwest="0.9.20"
+	scraper = "0.11.0"
+[features]
+	# ...
+	postgres = []
+	sqlite = []
+	tools = []
+

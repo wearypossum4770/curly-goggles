@@ -1,0 +1,21 @@
+{
+	    "name": "milk",
+	    "size":"",
+    "rate": 3.1,
+    "description": "",
+    "tax_id": 982000000037049,
+    "tax_percentage": null,
+    "sku": "s12345",
+    "product_type": "goods",
+    "account_id": "PO001",
+ "is_taxable":false,
+    "item_type": "inventory",
+    "purchase_description": "Whole Milk 1 gal.",
+    "purchase_rate": 3.1,
+    "purchase_account_id": "inventory",
+    "inventory_account_id": "inventory",
+    "vendor_id": "walmart_in_store",
+    "reorder_level": 128,
+    "initial_stock": 128,
+    "initial_stock_rate": 0.02421875
+}

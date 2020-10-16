@@ -1,0 +1,28 @@
+{
+	"debt_investment":{
+		"held_to_maturity":{
+			true:"if intent and ability"
+			},
+		"available_for_sale":{
+			"value":"fair_market_value",
+			"statement_presentation":"other_comprehensive_income",
+			"affects_net_income":"realized_net_gain_or_loss if date_sold then yes",
+			"date_sold":"DATE"
+			},
+		"trading":{
+			"value":"fair_market",
+			"statement":"net_income or net_loss"
+			}
+		}
+	"equity_investment":{
+		"held_to_maturity":false,
+		"avaiable_for_sale":false,
+		"trading":{
+			"value":"fair_value",
+			"":"less than 20%"
+			"mark to market",
+			"practicability_exception": "value = cost - impairments"
+
+			},
+		}
+}

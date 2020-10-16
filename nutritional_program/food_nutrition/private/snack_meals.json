@@ -1,0 +1,186 @@
+{
+    "snack": {
+        "group": {
+            "1": {
+                "age_units": "month(s)",
+                "start_age": 0,
+                "end_age": 5,
+                "compoenents": {
+                    "fruit": null,
+                    "grains": null,
+                    "vegetables": null,
+                    "fat": null,
+                    "dairy": {
+                        "min_qty": 4,
+                        "max_qty": 6,
+                        "size_units": "oz",
+                        "keywords": ["breastmilk", "formula"],
+                        "preferred": "breastmilk"
+                    }
+                }
+            },
+            "2": {
+                "age_units": "month(s)",
+                "start_age": 6,
+                "end_age": 11,
+                "compoenents": {
+                    "fruit": {
+                        "whole": {
+                            "min_qty": 0,
+                            "max_qty": 2,
+                            "size_units": "tbsp",
+                            "keywords": ["vegetable", "fruit", "combination"],
+                            "required": "development-dependent",
+                            "prohibited": "fruit juices"
+                        }
+                    },
+                    "grains": {
+                        "bread": {
+                            "min_qty": 0,
+                            "max_qty": 0.5,
+                            "size_units": "slice",
+                            "keywords": [
+                                "whole-grain",
+                                "enriched meal",
+                                "enriched flour"
+                            ],
+                            "required": "one of",
+                            "prohibited": null
+                        },
+                        "crackers": {
+                            "min_qty": 0,
+                            "max_qty": 2,
+                            "size_units": "each",
+                            "keywords": [
+                                "whole-grain",
+                                "enriched meal",
+                                "enriched flour"
+                            ],
+                            "required": "one of",
+                            "prohibited": null
+                        },
+                        "bread_products": {
+                            "min_qty": 0,
+                            "max_qty": 4,
+                            "size_units": "tbsp",
+                            "keywords": [
+                                "ready-to-eat breakfast ceral",
+                                "infant ceral IRON-Fortified",
+                                "whole-grain",
+                                "enriched meal",
+                                "enriched flour"
+                            ],
+                            "required": "one of",
+                            "prohibited": null
+                        }
+                    },
+                    "vegetables": {
+                        "whole": {
+                            "min_qty": 0,
+                            "max_qty": 2,
+                            "size_units": "tbsp",
+                            "keywords": ["vegetable", "fruit", "combination"],
+                            "required": "development-dependent",
+                            "prohibited": "vegetable juices"
+                        }
+                    },
+                    "fat": null,
+                    "additional": {
+                        "min_qty": 0,
+                        "max_qty": 2,
+                        "size_units": "tbsp",
+                        "keywords": ["vegetable", "fruit", "combination"],
+                        "required": "development-dependent",
+                        "prohibited": ["fruit juices", "vegetable juices"]
+                    },
+                    "dairy": {
+                        "min_qty": 2,
+                        "max_qty": 4,
+                        "size_units": "oz",
+                        "keywords": ["breastmilk", "formula"],
+                        "preferred": "breastmilk"
+                    }
+                }
+            },
+            "3": {
+                "age_units": "month(s)",
+                "start_age": 12,
+                "end_age": 35,
+                "compoenents": {
+                    "fruit": null,
+                    "grains": null,
+                    "vegetables": null,
+                    "animal_protein": {},
+                    "fat": null
+                }
+            },
+            "4": {
+                "age_units": "month(s)",
+                "start_age": 36,
+                "end_age": 60,
+                "compoenents": {
+                    "fruit": null,
+                    "grains": null,
+                    "animal_protein": {},
+                    "non_animal_protein": {},
+                    "vegetables": null,
+                    "fat": null
+                }
+            }
+        }
+    },
+    "lunch": {},
+    "category": {
+        "1": {
+            "start_age": 1,
+            "end_age": 2,
+            "food_components": {"milk": [4, "oz"]}
+        },
+        "2": {
+            "start_age": 3,
+            "end_age": 5,
+            "food_components": {
+                "milk": [4, "oz", ["fluid"]],
+                "animal_protein": [0.5, "oz", ["lean meat", "poultry", "fish"]],
+                "non_animal_protein": [0.5, "oz", ["tofu", "soy", "other"]],
+                "cheese": [0.5, "oz"],
+                "egg": [0.5, "large"],
+                "legumes": ["1/8", "cup", ["dry beans", "dry peas"]],
+                "butter": [
+                    1,
+                    "tbsp",
+                    [
+                        "peanut butter",
+                        "soy butter",
+                        "seed butter",
+                        "other nut butter"
+                    ]
+                ],
+                "yogurt": [
+                    2,
+                    "oz",
+                    ["pain", "flavored", "sweetened", "unsweetened"]
+                ],
+                "seeds_nuts": [
+                    0.5,
+                    "oz",
+                    ["peanuts", "soy nuts", "tree nuts", "seeds"]
+                ],
+                "vegetables": [0.5, "cup"],
+                "fruit": [0.5, "cup"],
+                "grains": {
+                    "bread": [1, "slice", ["whole-grain rich", "enriched"]],
+                    "bread_product": [
+                        1,
+                        "serving",
+                        [
+                            "fortified cooked breakfast ceral",
+                            "cereal grain",
+                            "pasta"
+                        ]
+                    ]
+                }
+            }
+        }
+    }
+}

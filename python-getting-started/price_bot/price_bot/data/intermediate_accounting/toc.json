@@ -1,0 +1,5770 @@
+[
+  {
+    "title": "Title Page",
+    "path": "/pages/417202222/content",
+    "level": 1,
+    "cfi": "/6",
+    "page": "i"
+  },
+  {
+    "title": "Copyright Page",
+    "path": "/pages/417202223/content",
+    "level": 1,
+    "cfi": "/7",
+    "page": "ii"
+  },
+  {
+    "title": "Brief Contents",
+    "path": "/pages/417202224/content",
+    "level": 1,
+    "cfi": "/8",
+    "page": "iii"
+  },
+  {
+    "title": "Table of Contents",
+    "path": "/pages/417202232/content",
+    "level": 1,
+    "cfi": "/16",
+    "page": "xi"
+  },
+  {
+    "title": "Acknowledgments",
+    "path": "/pages/417202243/content",
+    "level": 1,
+    "cfi": "/27",
+    "page": "xxii"
+  },
+  {
+    "title": "1 Financial Accounting and Accounting Standards",
+    "path": "/pages/417202247/content",
+    "level": 1,
+    "cfi": "/31",
+    "page": "2"
+  },
+  {
+    "title": "WE CAN DO BETTER",
+    "path": "/pages/417202247/content",
+    "level": 2,
+    "cfi": "/31",
+    "page": "2"
+  },
+  {
+    "title": "FINANCIAL REPORTING ENVIRONMENT",
+    "path": "/pages/417202249/content",
+    "level": 2,
+    "cfi": "/33",
+    "page": "4"
+  },
+  {
+    "title": "Accounting and Capital Allocation",
+    "path": "/pages/417202249/content",
+    "level": 3,
+    "cfi": "/33",
+    "page": "4"
+  },
+  {
+    "title": "What Do the Numbers Mean? It’s the Accounting",
+    "path": "/pages/417202250/content",
+    "level": 3,
+    "cfi": "/34",
+    "page": "5"
+  },
+  {
+    "title": "Objective of Financial Reporting",
+    "path": "/pages/417202250/content",
+    "level": 3,
+    "cfi": "/34",
+    "page": "5"
+  },
+  {
+    "title": "What Do the Numbers Mean? Don’t Forget Stewardship",
+    "path": "/pages/417202251/content",
+    "level": 3,
+    "cfi": "/35",
+    "page": "6"
+  },
+  {
+    "title": "The Need to Develop Standards",
+    "path": "/pages/417202252/content",
+    "level": 3,
+    "cfi": "/36",
+    "page": "7"
+  },
+  {
+    "title": "PARTIES INVOLVED IN STANDARD-SETTING",
+    "path": "/pages/417202252/content",
+    "level": 2,
+    "cfi": "/36",
+    "page": "7"
+  },
+  {
+    "title": "Securities and Exchange Commission (SEC)",
+    "path": "/pages/417202252/content",
+    "level": 3,
+    "cfi": "/36",
+    "page": "7"
+  },
+  {
+    "title": "American Institute of Certified Public Accountants (AICPA)",
+    "path": "/pages/417202254/content",
+    "level": 3,
+    "cfi": "/38",
+    "page": "9"
+  },
+  {
+    "title": "Financial Accounting Standards Board (FASB)",
+    "path": "/pages/417202254/content",
+    "level": 3,
+    "cfi": "/38",
+    "page": "9"
+  },
+  {
+    "title": "GENERALLY ACCEPTED ACCOUNTING PRINCIPLES",
+    "path": "/pages/417202258/content",
+    "level": 2,
+    "cfi": "/42",
+    "page": "13"
+  },
+  {
+    "title": "What Do the Numbers Mean? You Have to Step Back",
+    "path": "/pages/417202258/content",
+    "level": 3,
+    "cfi": "/42",
+    "page": "13"
+  },
+  {
+    "title": "FASB Codification",
+    "path": "/pages/417202258/content",
+    "level": 3,
+    "cfi": "/42",
+    "page": "13"
+  },
+  {
+    "title": "MAJOR CHALLENGES IN FINANCIAL REPORTING",
+    "path": "/pages/417202260/content",
+    "level": 2,
+    "cfi": "/44",
+    "page": "15"
+  },
+  {
+    "title": "GAAP in a Political Environment",
+    "path": "/pages/417202260/content",
+    "level": 3,
+    "cfi": "/44",
+    "page": "15"
+  },
+  {
+    "title": "Evolving Issue Fair Value, Fair Consequences?",
+    "path": "/pages/417202261/content",
+    "level": 3,
+    "cfi": "/45",
+    "page": "16"
+  },
+  {
+    "title": "The Expectations Gap",
+    "path": "/pages/417202261/content",
+    "level": 3,
+    "cfi": "/45",
+    "page": "16"
+  },
+  {
+    "title": "Financial Reporting Issues",
+    "path": "/pages/417202262/content",
+    "level": 3,
+    "cfi": "/46",
+    "page": "17"
+  },
+  {
+    "title": "International Accounting Standards",
+    "path": "/pages/417202263/content",
+    "level": 3,
+    "cfi": "/47",
+    "page": "18"
+  },
+  {
+    "title": "What Do the Numbers Mean? Can You Do That?",
+    "path": "/pages/417202265/content",
+    "level": 3,
+    "cfi": "/49",
+    "page": "20"
+  },
+  {
+    "title": "Ethics in the Environment of Financial Accounting",
+    "path": "/pages/417202265/content",
+    "level": 3,
+    "cfi": "/49",
+    "page": "20"
+  },
+  {
+    "title": "Conclusion",
+    "path": "/pages/417202265/content",
+    "level": 3,
+    "cfi": "/49",
+    "page": "20"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417202274/content",
+    "level": 2,
+    "cfi": "/58",
+    "page": "29"
+  },
+  {
+    "title": "2 Conceptual Framework for Financial Reporting",
+    "path": "/pages/417202281/content",
+    "level": 1,
+    "cfi": "/65",
+    "page": "36"
+  },
+  {
+    "title": "WHAT IS IT?",
+    "path": "/pages/417202281/content",
+    "level": 2,
+    "cfi": "/65",
+    "page": "36"
+  },
+  {
+    "title": "CONCEPTUAL FRAMEWORK",
+    "path": "/pages/417202283/content",
+    "level": 2,
+    "cfi": "/67",
+    "page": "38"
+  },
+  {
+    "title": "Need for a Conceptual Framework",
+    "path": "/pages/417202283/content",
+    "level": 3,
+    "cfi": "/67",
+    "page": "38"
+  },
+  {
+    "title": "What Do the Numbers Mean? What’s Your Principle?",
+    "path": "/pages/417202284/content",
+    "level": 3,
+    "cfi": "/68",
+    "page": "39"
+  },
+  {
+    "title": "Development of a Conceptual Framework",
+    "path": "/pages/417202284/content",
+    "level": 3,
+    "cfi": "/68",
+    "page": "39"
+  },
+  {
+    "title": "Overview of the Conceptual Framework",
+    "path": "/pages/417202285/content",
+    "level": 3,
+    "cfi": "/69",
+    "page": "40"
+  },
+  {
+    "title": "FIRST LEVEL: BASIC OBJECTIVE",
+    "path": "/pages/417202285/content",
+    "level": 2,
+    "cfi": "/69",
+    "page": "40"
+  },
+  {
+    "title": "SECOND LEVEL: FUNDAMENTAL CONCEPTS",
+    "path": "/pages/417202286/content",
+    "level": 2,
+    "cfi": "/70",
+    "page": "41"
+  },
+  {
+    "title": "Qualitative Characteristics of Accounting Information",
+    "path": "/pages/417202286/content",
+    "level": 3,
+    "cfi": "/70",
+    "page": "41"
+  },
+  {
+    "title": "What Do the Numbers Mean? Living in a Material World",
+    "path": "/pages/417202289/content",
+    "level": 3,
+    "cfi": "/73",
+    "page": "44"
+  },
+  {
+    "title": "What Do the Numbers Mean? Show Me the Earnings!",
+    "path": "/pages/417202291/content",
+    "level": 3,
+    "cfi": "/75",
+    "page": "46"
+  },
+  {
+    "title": "Basic Elements",
+    "path": "/pages/417202293/content",
+    "level": 3,
+    "cfi": "/77",
+    "page": "48"
+  },
+  {
+    "title": "THIRD LEVEL: RECOGNITION AND MEASUREMENT CONCEPTS",
+    "path": "/pages/417202294/content",
+    "level": 2,
+    "cfi": "/78",
+    "page": "49"
+  },
+  {
+    "title": "Basic Assumptions",
+    "path": "/pages/417202295/content",
+    "level": 3,
+    "cfi": "/79",
+    "page": "50"
+  },
+  {
+    "title": "What Do the Numbers Mean? Whose Company Is It?",
+    "path": "/pages/417202295/content",
+    "level": 3,
+    "cfi": "/79",
+    "page": "50"
+  },
+  {
+    "title": "Basic Principles of Accounting",
+    "path": "/pages/417202297/content",
+    "level": 3,
+    "cfi": "/81",
+    "page": "52"
+  },
+  {
+    "title": "Cost Constraint",
+    "path": "/pages/417202302/content",
+    "level": 3,
+    "cfi": "/86",
+    "page": "57"
+  },
+  {
+    "title": "Summary of the Structure",
+    "path": "/pages/417202303/content",
+    "level": 3,
+    "cfi": "/87",
+    "page": "58"
+  },
+  {
+    "title": "What Do the Numbers Mean? Don’t Count These Please",
+    "path": "/pages/417202304/content",
+    "level": 3,
+    "cfi": "/88",
+    "page": "59"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417202318/content",
+    "level": 2,
+    "cfi": "/102",
+    "page": "73"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417202319/content",
+    "level": 2,
+    "cfi": "/103",
+    "page": "74"
+  },
+  {
+    "title": "3 The Accounting Information System",
+    "path": "/pages/417202346/content",
+    "level": 1,
+    "cfi": "/107",
+    "page": "78"
+  },
+  {
+    "title": "NEEDED: A RELIABLE INFORMATION SYSTEM",
+    "path": "/pages/417202346/content",
+    "level": 2,
+    "cfi": "/107",
+    "page": "78"
+  },
+  {
+    "title": "ACCOUNTING INFORMATION SYSTEM",
+    "path": "/pages/417202350/content",
+    "level": 2,
+    "cfi": "/109",
+    "page": "80"
+  },
+  {
+    "title": "Basic Terminology",
+    "path": "/pages/417202350/content",
+    "level": 3,
+    "cfi": "/109",
+    "page": "80"
+  },
+  {
+    "title": "Debits and Credits",
+    "path": "/pages/417202353/content",
+    "level": 3,
+    "cfi": "/110",
+    "page": "81"
+  },
+  {
+    "title": "The Accounting Equation",
+    "path": "/pages/417202355/content",
+    "level": 3,
+    "cfi": "/111",
+    "page": "82"
+  },
+  {
+    "title": "Financial Statements and Ownership Structure",
+    "path": "/pages/417202360/content",
+    "level": 3,
+    "cfi": "/113",
+    "page": "84"
+  },
+  {
+    "title": "The Accounting Cycle",
+    "path": "/pages/417202363/content",
+    "level": 3,
+    "cfi": "/114",
+    "page": "85"
+  },
+  {
+    "title": "RECORD AND SUMMARIZE BASIC TRANSACTIONS",
+    "path": "/pages/417202368/content",
+    "level": 2,
+    "cfi": "/116",
+    "page": "87"
+  },
+  {
+    "title": "Journalizing",
+    "path": "/pages/417202368/content",
+    "level": 3,
+    "cfi": "/116",
+    "page": "87"
+  },
+  {
+    "title": "Posting",
+    "path": "/pages/417202371/content",
+    "level": 3,
+    "cfi": "/117",
+    "page": "88"
+  },
+  {
+    "title": "Trial Balance",
+    "path": "/pages/417202381/content",
+    "level": 3,
+    "cfi": "/121",
+    "page": "92"
+  },
+  {
+    "title": "ADJUSTING ENTRIES",
+    "path": "/pages/417202381/content",
+    "level": 2,
+    "cfi": "/121",
+    "page": "92"
+  },
+  {
+    "title": "Types of Adjusting Entries",
+    "path": "/pages/417202383/content",
+    "level": 3,
+    "cfi": "/122",
+    "page": "93"
+  },
+  {
+    "title": "Adjusting Entries for Deferrals",
+    "path": "/pages/417202383/content",
+    "level": 3,
+    "cfi": "/122",
+    "page": "93"
+  },
+  {
+    "title": "Adjusting Entries for Accruals",
+    "path": "/pages/417202395/content",
+    "level": 3,
+    "cfi": "/127",
+    "page": "98"
+  },
+  {
+    "title": "What Do the Numbers Mean? Am I Covered?",
+    "path": "/pages/417202407/content",
+    "level": 3,
+    "cfi": "/132",
+    "page": "103"
+  },
+  {
+    "title": "Adjusted Trial Balance",
+    "path": "/pages/417202410/content",
+    "level": 3,
+    "cfi": "/133",
+    "page": "104"
+  },
+  {
+    "title": "PREPARING FINANCIAL STATEMENTS",
+    "path": "/pages/417202410/content",
+    "level": 2,
+    "cfi": "/133",
+    "page": "104"
+  },
+  {
+    "title": "What Do the Numbers Mean? 24/7 Accounting",
+    "path": "/pages/417202415/content",
+    "level": 3,
+    "cfi": "/135",
+    "page": "106"
+  },
+  {
+    "title": "Closing",
+    "path": "/pages/417202415/content",
+    "level": 3,
+    "cfi": "/135",
+    "page": "106"
+  },
+  {
+    "title": "Post-Closing Trial Balance",
+    "path": "/pages/417202423/content",
+    "level": 3,
+    "cfi": "/138",
+    "page": "109"
+  },
+  {
+    "title": "Reversing Entries—An Optional Step",
+    "path": "/pages/417202423/content",
+    "level": 3,
+    "cfi": "/138",
+    "page": "109"
+  },
+  {
+    "title": "The Accounting Cycle Summarized",
+    "path": "/pages/417202425/content",
+    "level": 3,
+    "cfi": "/139",
+    "page": "110"
+  },
+  {
+    "title": "What Do the Numbers Mean? Hey, It’s Complicated",
+    "path": "/pages/417202425/content",
+    "level": 3,
+    "cfi": "/139",
+    "page": "110"
+  },
+  {
+    "title": "FINANCIAL STATEMENTS FOR A MERCHANDISING COMPANY",
+    "path": "/pages/417202425/content",
+    "level": 2,
+    "cfi": "/139",
+    "page": "110"
+  },
+  {
+    "title": "Income Statement",
+    "path": "/pages/417202425/content",
+    "level": 3,
+    "cfi": "/139",
+    "page": "110"
+  },
+  {
+    "title": "Statement of Retained Earnings",
+    "path": "/pages/417202428/content",
+    "level": 3,
+    "cfi": "/140",
+    "page": "111"
+  },
+  {
+    "title": "Balance Sheet",
+    "path": "/pages/417202428/content",
+    "level": 3,
+    "cfi": "/140",
+    "page": "111"
+  },
+  {
+    "title": "What Do the Numbers Mean? Statements, Please",
+    "path": "/pages/417202434/content",
+    "level": 3,
+    "cfi": "/142",
+    "page": "113"
+  },
+  {
+    "title": "Closing Entries",
+    "path": "/pages/417202434/content",
+    "level": 3,
+    "cfi": "/142",
+    "page": "113"
+  },
+  {
+    "title": "APPENDIX 3A: CASH-BASIS ACCOUNTING VERSUS ACCRUAL-BASIS ACCOUNTING",
+    "path": "/pages/417202434/content",
+    "level": 2,
+    "cfi": "/142",
+    "page": "113"
+  },
+  {
+    "title": "CONVERSION FROM CASH BASIS TO ACCRUAL BASIS",
+    "path": "/pages/417202439/content",
+    "level": 2,
+    "cfi": "/144",
+    "page": "115"
+  },
+  {
+    "title": "Service Revenue Computation",
+    "path": "/pages/417202441/content",
+    "level": 3,
+    "cfi": "/145",
+    "page": "116"
+  },
+  {
+    "title": "Operating Expense Computation",
+    "path": "/pages/417202444/content",
+    "level": 3,
+    "cfi": "/146",
+    "page": "117"
+  },
+  {
+    "title": "THEORETICAL WEAKNESSES OF THE CASH BASIS",
+    "path": "/pages/417202447/content",
+    "level": 2,
+    "cfi": "/147",
+    "page": "118"
+  },
+  {
+    "title": "APPENDIX 3B: USING REVERSING ENTRIES",
+    "path": "/pages/417202449/content",
+    "level": 2,
+    "cfi": "/148",
+    "page": "119"
+  },
+  {
+    "title": "ILLUSTRATION OF REVERSING ENTRIES—ACCRUALS",
+    "path": "/pages/417202449/content",
+    "level": 2,
+    "cfi": "/148",
+    "page": "119"
+  },
+  {
+    "title": "ILLUSTRATION OF REVERSING ENTRIES—DEFERRALS",
+    "path": "/pages/417202452/content",
+    "level": 2,
+    "cfi": "/149",
+    "page": "120"
+  },
+  {
+    "title": "SUMMARY OF REVERSING ENTRIES",
+    "path": "/pages/417202455/content",
+    "level": 2,
+    "cfi": "/150",
+    "page": "121"
+  },
+  {
+    "title": "APPENDIX 3C: USING A WORKSHEET: THE ACCOUNTING CYCLE REVISITED",
+    "path": "/pages/417202455/content",
+    "level": 2,
+    "cfi": "/150",
+    "page": "121"
+  },
+  {
+    "title": "WORKSHEET COLUMNS",
+    "path": "/pages/417202455/content",
+    "level": 2,
+    "cfi": "/150",
+    "page": "121"
+  },
+  {
+    "title": "Trial Balance Columns",
+    "path": "/pages/417202455/content",
+    "level": 3,
+    "cfi": "/150",
+    "page": "121"
+  },
+  {
+    "title": "Adjustments Columns",
+    "path": "/pages/417202455/content",
+    "level": 3,
+    "cfi": "/150",
+    "page": "121"
+  },
+  {
+    "title": "ADJUSTMENTS ENTERED ON THE WORKSHEET",
+    "path": "/pages/417202462/content",
+    "level": 2,
+    "cfi": "/152",
+    "page": "123"
+  },
+  {
+    "title": "Adjusted Trial Balance",
+    "path": "/pages/417202462/content",
+    "level": 3,
+    "cfi": "/152",
+    "page": "123"
+  },
+  {
+    "title": "Income Statement and Balance Sheet Columns",
+    "path": "/pages/417202462/content",
+    "level": 3,
+    "cfi": "/152",
+    "page": "123"
+  },
+  {
+    "title": "PREPARING FINANCIAL STATEMENTS FROM A WORKSHEET",
+    "path": "/pages/417202467/content",
+    "level": 2,
+    "cfi": "/153",
+    "page": "124"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417202537/content",
+    "level": 2,
+    "cfi": "/176",
+    "page": "147"
+  },
+  {
+    "title": "4 Income Statement and Related Information",
+    "path": "/pages/417202616/content",
+    "level": 1,
+    "cfi": "/181",
+    "page": "152"
+  },
+  {
+    "title": "FINANCIAL STATEMENTS ARE CHANGING",
+    "path": "/pages/417202616/content",
+    "level": 2,
+    "cfi": "/181",
+    "page": "152"
+  },
+  {
+    "title": "INCOME STATEMENT",
+    "path": "/pages/417202622/content",
+    "level": 2,
+    "cfi": "/183",
+    "page": "154"
+  },
+  {
+    "title": "Usefulness of the Income Statement",
+    "path": "/pages/417202622/content",
+    "level": 3,
+    "cfi": "/183",
+    "page": "154"
+  },
+  {
+    "title": "Limitations of the Income Statement",
+    "path": "/pages/417202622/content",
+    "level": 3,
+    "cfi": "/183",
+    "page": "154"
+  },
+  {
+    "title": "Quality of Earnings",
+    "path": "/pages/417202626/content",
+    "level": 3,
+    "cfi": "/184",
+    "page": "155"
+  },
+  {
+    "title": "What Do the Numbers Mean? Four: The Loneliest Number",
+    "path": "/pages/417202630/content",
+    "level": 3,
+    "cfi": "/185",
+    "page": "156"
+  },
+  {
+    "title": "FORMAT OF THE INCOME STATEMENT",
+    "path": "/pages/417202630/content",
+    "level": 2,
+    "cfi": "/185",
+    "page": "156"
+  },
+  {
+    "title": "Elements of the Income Statement",
+    "path": "/pages/417202630/content",
+    "level": 3,
+    "cfi": "/185",
+    "page": "156"
+  },
+  {
+    "title": "Intermediate Components of the Income Statement",
+    "path": "/pages/417202634/content",
+    "level": 3,
+    "cfi": "/186",
+    "page": "157"
+  },
+  {
+    "title": "What Do the Numbers Mean? Top Line or Bottom Line?",
+    "path": "/pages/417202643/content",
+    "level": 3,
+    "cfi": "/189",
+    "page": "160"
+  },
+  {
+    "title": "Condensed Income Statements",
+    "path": "/pages/417202643/content",
+    "level": 3,
+    "cfi": "/189",
+    "page": "160"
+  },
+  {
+    "title": "Single-Step Income Statements",
+    "path": "/pages/417202647/content",
+    "level": 3,
+    "cfi": "/190",
+    "page": "161"
+  },
+  {
+    "title": "REPORTING VARIOUS INCOME ITEMS",
+    "path": "/pages/417202651/content",
+    "level": 2,
+    "cfi": "/191",
+    "page": "162"
+  },
+  {
+    "title": "Unusual and Infrequent Gains and Losses",
+    "path": "/pages/417202651/content",
+    "level": 3,
+    "cfi": "/191",
+    "page": "162"
+  },
+  {
+    "title": "Discontinued Operations",
+    "path": "/pages/417202658/content",
+    "level": 3,
+    "cfi": "/193",
+    "page": "164"
+  },
+  {
+    "title": "Noncontrolling Interest",
+    "path": "/pages/417202670/content",
+    "level": 3,
+    "cfi": "/196",
+    "page": "167"
+  },
+  {
+    "title": "Earnings per Share",
+    "path": "/pages/417202670/content",
+    "level": 3,
+    "cfi": "/196",
+    "page": "167"
+  },
+  {
+    "title": "Summary of Various Income Items",
+    "path": "/pages/417202676/content",
+    "level": 3,
+    "cfi": "/198",
+    "page": "169"
+  },
+  {
+    "title": "What Do the Numbers Mean? Different Income Concepts",
+    "path": "/pages/417202676/content",
+    "level": 3,
+    "cfi": "/198",
+    "page": "169"
+  },
+  {
+    "title": "OTHER REPORTING ISSUES",
+    "path": "/pages/417202680/content",
+    "level": 2,
+    "cfi": "/199",
+    "page": "170"
+  },
+  {
+    "title": "Accounting Changes and Errors",
+    "path": "/pages/417202680/content",
+    "level": 3,
+    "cfi": "/199",
+    "page": "170"
+  },
+  {
+    "title": "Retained Earnings Statement",
+    "path": "/pages/417202688/content",
+    "level": 3,
+    "cfi": "/201",
+    "page": "172"
+  },
+  {
+    "title": "Comprehensive Income",
+    "path": "/pages/417202693/content",
+    "level": 3,
+    "cfi": "/202",
+    "page": "173"
+  },
+  {
+    "title": "Evolving Issue Income Reporting",
+    "path": "/pages/417202701/content",
+    "level": 3,
+    "cfi": "/205",
+    "page": "176"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417202760/content",
+    "level": 2,
+    "cfi": "/223",
+    "page": "194"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417202764/content",
+    "level": 2,
+    "cfi": "/224",
+    "page": "195"
+  },
+  {
+    "title": "5 Balance Sheet and Statement of Cash Flows",
+    "path": "/pages/417202833/content",
+    "level": 1,
+    "cfi": "/229",
+    "page": "200"
+  },
+  {
+    "title": "HEY, IT DOESN’T BALANCE!",
+    "path": "/pages/417202833/content",
+    "level": 2,
+    "cfi": "/229",
+    "page": "200"
+  },
+  {
+    "title": "BALANCE SHEET",
+    "path": "/pages/417202841/content",
+    "level": 2,
+    "cfi": "/231",
+    "page": "202"
+  },
+  {
+    "title": "Usefulness of the Balance Sheet",
+    "path": "/pages/417202841/content",
+    "level": 3,
+    "cfi": "/231",
+    "page": "202"
+  },
+  {
+    "title": "Limitations of the Balance Sheet",
+    "path": "/pages/417202841/content",
+    "level": 3,
+    "cfi": "/231",
+    "page": "202"
+  },
+  {
+    "title": "What Do the Numbers Mean? Grounded",
+    "path": "/pages/417202844/content",
+    "level": 3,
+    "cfi": "/232",
+    "page": "203"
+  },
+  {
+    "title": "Classification in the Balance Sheet",
+    "path": "/pages/417202844/content",
+    "level": 3,
+    "cfi": "/232",
+    "page": "203"
+  },
+  {
+    "title": "What Do the Numbers Mean? “Show Me the Assets!”",
+    "path": "/pages/417202867/content",
+    "level": 3,
+    "cfi": "/239",
+    "page": "210"
+  },
+  {
+    "title": "What Do the Numbers Mean? Warning Signals",
+    "path": "/pages/417202879/content",
+    "level": 3,
+    "cfi": "/243",
+    "page": "214"
+  },
+  {
+    "title": "Balance Sheet Format",
+    "path": "/pages/417202879/content",
+    "level": 3,
+    "cfi": "/243",
+    "page": "214"
+  },
+  {
+    "title": "STATEMENT OF CASH FLOWS",
+    "path": "/pages/417202885/content",
+    "level": 2,
+    "cfi": "/245",
+    "page": "216"
+  },
+  {
+    "title": "What Do the Numbers Mean? Watch That Cash Flow",
+    "path": "/pages/417202885/content",
+    "level": 3,
+    "cfi": "/245",
+    "page": "216"
+  },
+  {
+    "title": "Purpose of the Statement of Cash Flows",
+    "path": "/pages/417202889/content",
+    "level": 3,
+    "cfi": "/246",
+    "page": "217"
+  },
+  {
+    "title": "Content and Format of the Statement of Cash Flows",
+    "path": "/pages/417202889/content",
+    "level": 3,
+    "cfi": "/246",
+    "page": "217"
+  },
+  {
+    "title": "Preparation of the Statement of Cash Flows",
+    "path": "/pages/417202893/content",
+    "level": 3,
+    "cfi": "/247",
+    "page": "218"
+  },
+  {
+    "title": "Usefulness of the Statement of Cash Flows",
+    "path": "/pages/417202904/content",
+    "level": 3,
+    "cfi": "/250",
+    "page": "221"
+  },
+  {
+    "title": "What Do the Numbers Mean? “There Ought to Be a Law”",
+    "path": "/pages/417202910/content",
+    "level": 3,
+    "cfi": "/252",
+    "page": "223"
+  },
+  {
+    "title": "ADDITIONAL INFORMATION",
+    "path": "/pages/417202913/content",
+    "level": 2,
+    "cfi": "/253",
+    "page": "224"
+  },
+  {
+    "title": "Supplemental Disclosures",
+    "path": "/pages/417202913/content",
+    "level": 3,
+    "cfi": "/253",
+    "page": "224"
+  },
+  {
+    "title": "What Do the Numbers Mean? What About Your Commitments?",
+    "path": "/pages/417202920/content",
+    "level": 3,
+    "cfi": "/255",
+    "page": "226"
+  },
+  {
+    "title": "Techniques of Disclosure",
+    "path": "/pages/417202924/content",
+    "level": 3,
+    "cfi": "/256",
+    "page": "227"
+  },
+  {
+    "title": "Evolving Issue Balance Sheet Reporting: Gross or Net?",
+    "path": "/pages/417202936/content",
+    "level": 3,
+    "cfi": "/259",
+    "page": "230"
+  },
+  {
+    "title": "APPENDIX 5A: RATIO ANALYSIS—A REFERENCE",
+    "path": "/pages/417202941/content",
+    "level": 2,
+    "cfi": "/260",
+    "page": "231"
+  },
+  {
+    "title": "USING RATIOS TO ANALYZE PERFORMANCE",
+    "path": "/pages/417202941/content",
+    "level": 2,
+    "cfi": "/260",
+    "page": "231"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417203006/content",
+    "level": 2,
+    "cfi": "/286",
+    "page": "257"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417203009/content",
+    "level": 2,
+    "cfi": "/287",
+    "page": "258"
+  },
+  {
+    "title": "6 Accounting and the Time Value of Money",
+    "path": "/pages/417203063/content",
+    "level": 1,
+    "cfi": "/295",
+    "page": "266"
+  },
+  {
+    "title": "HOW DO I MEASURE THAT?",
+    "path": "/pages/417203063/content",
+    "level": 2,
+    "cfi": "/295",
+    "page": "266"
+  },
+  {
+    "title": "BASIC TIME VALUE CONCEPTS",
+    "path": "/pages/417203067/content",
+    "level": 2,
+    "cfi": "/297",
+    "page": "268"
+  },
+  {
+    "title": "Applications of Time Value Concepts",
+    "path": "/pages/417203067/content",
+    "level": 3,
+    "cfi": "/297",
+    "page": "268"
+  },
+  {
+    "title": "The Nature of Interest",
+    "path": "/pages/417203070/content",
+    "level": 3,
+    "cfi": "/298",
+    "page": "269"
+  },
+  {
+    "title": "Simple Interest",
+    "path": "/pages/417203072/content",
+    "level": 3,
+    "cfi": "/299",
+    "page": "270"
+  },
+  {
+    "title": "Compound Interest",
+    "path": "/pages/417203072/content",
+    "level": 3,
+    "cfi": "/299",
+    "page": "270"
+  },
+  {
+    "title": "What Do the Numbers Mean? A Pretty Good Start",
+    "path": "/pages/417203074/content",
+    "level": 3,
+    "cfi": "/300",
+    "page": "271"
+  },
+  {
+    "title": "Fundamental Variables",
+    "path": "/pages/417203081/content",
+    "level": 3,
+    "cfi": "/303",
+    "page": "274"
+  },
+  {
+    "title": "SINGLE-SUM PROBLEMS",
+    "path": "/pages/417203081/content",
+    "level": 2,
+    "cfi": "/303",
+    "page": "274"
+  },
+  {
+    "title": "Future Value of a Single Sum",
+    "path": "/pages/417203084/content",
+    "level": 3,
+    "cfi": "/304",
+    "page": "275"
+  },
+  {
+    "title": "Present Value of a Single Sum",
+    "path": "/pages/417203087/content",
+    "level": 3,
+    "cfi": "/305",
+    "page": "276"
+  },
+  {
+    "title": "Solving for Other Unknowns in Single-Sum Problems",
+    "path": "/pages/417203091/content",
+    "level": 3,
+    "cfi": "/307",
+    "page": "278"
+  },
+  {
+    "title": "ANNUITIES (FUTURE VALUE)",
+    "path": "/pages/417203093/content",
+    "level": 2,
+    "cfi": "/308",
+    "page": "279"
+  },
+  {
+    "title": "Future Value of an Ordinary Annuity",
+    "path": "/pages/417203096/content",
+    "level": 3,
+    "cfi": "/309",
+    "page": "280"
+  },
+  {
+    "title": "Future Value of an Annuity Due",
+    "path": "/pages/417203100/content",
+    "level": 3,
+    "cfi": "/311",
+    "page": "282"
+  },
+  {
+    "title": "What Do the Numbers Mean? Don't Wait to Make That Contribution!",
+    "path": "/pages/417203105/content",
+    "level": 3,
+    "cfi": "/313",
+    "page": "284"
+  },
+  {
+    "title": "Examples of Future Value of Annuity Problems",
+    "path": "/pages/417203105/content",
+    "level": 3,
+    "cfi": "/313",
+    "page": "284"
+  },
+  {
+    "title": "ANNUITIES (PRESENT VALUE)",
+    "path": "/pages/417203109/content",
+    "level": 2,
+    "cfi": "/315",
+    "page": "286"
+  },
+  {
+    "title": "Present Value of an Ordinary Annuity",
+    "path": "/pages/417203109/content",
+    "level": 3,
+    "cfi": "/315",
+    "page": "286"
+  },
+  {
+    "title": "What Do the Numbers Mean? Up in Smoke",
+    "path": "/pages/417203114/content",
+    "level": 3,
+    "cfi": "/317",
+    "page": "288"
+  },
+  {
+    "title": "Present Value of an Annuity Due",
+    "path": "/pages/417203114/content",
+    "level": 3,
+    "cfi": "/317",
+    "page": "288"
+  },
+  {
+    "title": "Examples of Present Value of Annuity Problems",
+    "path": "/pages/417203115/content",
+    "level": 3,
+    "cfi": "/318",
+    "page": "289"
+  },
+  {
+    "title": "OTHER TIME VALUE OF MONEY ISSUES",
+    "path": "/pages/417203117/content",
+    "level": 2,
+    "cfi": "/320",
+    "page": "291"
+  },
+  {
+    "title": "Deferred Annuities",
+    "path": "/pages/417203117/content",
+    "level": 3,
+    "cfi": "/320",
+    "page": "291"
+  },
+  {
+    "title": "Valuation of Long-Term Bonds",
+    "path": "/pages/417203119/content",
+    "level": 3,
+    "cfi": "/322",
+    "page": "293"
+  },
+  {
+    "title": "Effective-Interest Method of Amortization of Bond Discount or Premium",
+    "path": "/pages/417203122/content",
+    "level": 3,
+    "cfi": "/323",
+    "page": "294"
+  },
+  {
+    "title": "Present Value Measurement",
+    "path": "/pages/417203125/content",
+    "level": 3,
+    "cfi": "/324",
+    "page": "295"
+  },
+  {
+    "title": "What Do the Numbers Mean? How Low Can They Go?",
+    "path": "/pages/417203130/content",
+    "level": 3,
+    "cfi": "/326",
+    "page": "297"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417203178/content",
+    "level": 2,
+    "cfi": "/341",
+    "page": "312"
+  },
+  {
+    "title": "7 Cash and Receivables",
+    "path": "/pages/417203258/content",
+    "level": 1,
+    "cfi": "/353",
+    "page": "324"
+  },
+  {
+    "title": "LUCK OF THE IRISH",
+    "path": "/pages/417203258/content",
+    "level": 2,
+    "cfi": "/353",
+    "page": "324"
+  },
+  {
+    "title": "CASH",
+    "path": "/pages/417203265/content",
+    "level": 2,
+    "cfi": "/355",
+    "page": "326"
+  },
+  {
+    "title": "Reporting Cash",
+    "path": "/pages/417203265/content",
+    "level": 3,
+    "cfi": "/355",
+    "page": "326"
+  },
+  {
+    "title": "Summary of Cash-Related Items",
+    "path": "/pages/417203273/content",
+    "level": 3,
+    "cfi": "/357",
+    "page": "328"
+  },
+  {
+    "title": "What Do the Numbers Mean? Where Did I Park My Cash?",
+    "path": "/pages/417203276/content",
+    "level": 3,
+    "cfi": "/358",
+    "page": "329"
+  },
+  {
+    "title": "RECEIVABLES",
+    "path": "/pages/417203276/content",
+    "level": 2,
+    "cfi": "/358",
+    "page": "329"
+  },
+  {
+    "title": "Recognition of Accounts Receivable",
+    "path": "/pages/417203280/content",
+    "level": 3,
+    "cfi": "/359",
+    "page": "330"
+  },
+  {
+    "title": "Valuation of Accounts Receivable",
+    "path": "/pages/417203293/content",
+    "level": 3,
+    "cfi": "/363",
+    "page": "334"
+  },
+  {
+    "title": "NOTES RECEIVABLE",
+    "path": "/pages/417203307/content",
+    "level": 2,
+    "cfi": "/367",
+    "page": "338"
+  },
+  {
+    "title": "Recognition of Notes Receivable",
+    "path": "/pages/417203307/content",
+    "level": 3,
+    "cfi": "/367",
+    "page": "338"
+  },
+  {
+    "title": "Valuation of Notes Receivable",
+    "path": "/pages/417203322/content",
+    "level": 3,
+    "cfi": "/371",
+    "page": "342"
+  },
+  {
+    "title": "What Do the Numbers Mean? Please Release Me?",
+    "path": "/pages/417203325/content",
+    "level": 3,
+    "cfi": "/372",
+    "page": "343"
+  },
+  {
+    "title": "SPECIAL ISSUES",
+    "path": "/pages/417203325/content",
+    "level": 2,
+    "cfi": "/372",
+    "page": "343"
+  },
+  {
+    "title": "Fair Value Option",
+    "path": "/pages/417203328/content",
+    "level": 3,
+    "cfi": "/373",
+    "page": "344"
+  },
+  {
+    "title": "Disposition of Accounts and Notes Receivable",
+    "path": "/pages/417203328/content",
+    "level": 3,
+    "cfi": "/373",
+    "page": "344"
+  },
+  {
+    "title": "What Do the Numbers Mean? Securitizations—Good or Bad?",
+    "path": "/pages/417203346/content",
+    "level": 3,
+    "cfi": "/378",
+    "page": "349"
+  },
+  {
+    "title": "Presentation and Analysis",
+    "path": "/pages/417203350/content",
+    "level": 3,
+    "cfi": "/379",
+    "page": "350"
+  },
+  {
+    "title": "What Do the Numbers Mean? I'm Still Waiting",
+    "path": "/pages/417203358/content",
+    "level": 3,
+    "cfi": "/381",
+    "page": "352"
+  },
+  {
+    "title": "APPENDIX 7A: CASH CONTROLS",
+    "path": "/pages/417203358/content",
+    "level": 2,
+    "cfi": "/381",
+    "page": "352"
+  },
+  {
+    "title": "USING BANK ACCOUNTS",
+    "path": "/pages/417203361/content",
+    "level": 2,
+    "cfi": "/382",
+    "page": "353"
+  },
+  {
+    "title": "THE IMPREST PETTY CASH SYSTEM",
+    "path": "/pages/417203361/content",
+    "level": 2,
+    "cfi": "/382",
+    "page": "353"
+  },
+  {
+    "title": "PHYSICAL PROTECTION OF CASH BALANCES",
+    "path": "/pages/417203367/content",
+    "level": 2,
+    "cfi": "/384",
+    "page": "355"
+  },
+  {
+    "title": "RECONCILIATION OF BANK BALANCES",
+    "path": "/pages/417203367/content",
+    "level": 2,
+    "cfi": "/384",
+    "page": "355"
+  },
+  {
+    "title": "APPENDIX 7B: COLLECTABILITY ASSESSMENT BASED ON EXPECTED CASH FLOWS",
+    "path": "/pages/417203377/content",
+    "level": 2,
+    "cfi": "/387",
+    "page": "358"
+  },
+  {
+    "title": "MEASUREMENT OF COLLECTIBILITY",
+    "path": "/pages/417203377/content",
+    "level": 2,
+    "cfi": "/387",
+    "page": "358"
+  },
+  {
+    "title": "Example",
+    "path": "/pages/417203377/content",
+    "level": 3,
+    "cfi": "/387",
+    "page": "358"
+  },
+  {
+    "title": "Recording Bad Debts",
+    "path": "/pages/417203381/content",
+    "level": 3,
+    "cfi": "/388",
+    "page": "359"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417203436/content",
+    "level": 2,
+    "cfi": "/411",
+    "page": "382"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417203439/content",
+    "level": 2,
+    "cfi": "/412",
+    "page": "383"
+  },
+  {
+    "title": "8 Valuation of Inventories: A Cost-Basis Approach",
+    "path": "/pages/417203486/content",
+    "level": 1,
+    "cfi": "/415",
+    "page": "386"
+  },
+  {
+    "title": "TO SWITCH OR NOT TO SWITCH",
+    "path": "/pages/417203486/content",
+    "level": 2,
+    "cfi": "/415",
+    "page": "386"
+  },
+  {
+    "title": "INVENTORY ISSUES",
+    "path": "/pages/417203490/content",
+    "level": 2,
+    "cfi": "/417",
+    "page": "388"
+  },
+  {
+    "title": "Classification",
+    "path": "/pages/417203490/content",
+    "level": 3,
+    "cfi": "/417",
+    "page": "388"
+  },
+  {
+    "title": "Inventory Cost Flow",
+    "path": "/pages/417203493/content",
+    "level": 3,
+    "cfi": "/418",
+    "page": "389"
+  },
+  {
+    "title": "Inventory Control",
+    "path": "/pages/417203497/content",
+    "level": 3,
+    "cfi": "/420",
+    "page": "391"
+  },
+  {
+    "title": "What Do the Numbers Mean? Staying Lean",
+    "path": "/pages/417203499/content",
+    "level": 3,
+    "cfi": "/421",
+    "page": "392"
+  },
+  {
+    "title": "Determining Cost of Goods Sold",
+    "path": "/pages/417203499/content",
+    "level": 3,
+    "cfi": "/421",
+    "page": "392"
+  },
+  {
+    "title": "GOODS AND COSTS INCLUDED IN INVENTORY",
+    "path": "/pages/417203500/content",
+    "level": 2,
+    "cfi": "/422",
+    "page": "393"
+  },
+  {
+    "title": "Goods Included in Inventory",
+    "path": "/pages/417203500/content",
+    "level": 3,
+    "cfi": "/422",
+    "page": "393"
+  },
+  {
+    "title": "What Do the Numbers Mean? No Parking!",
+    "path": "/pages/417203502/content",
+    "level": 3,
+    "cfi": "/424",
+    "page": "395"
+  },
+  {
+    "title": "Costs Included in Inventory",
+    "path": "/pages/417203502/content",
+    "level": 3,
+    "cfi": "/424",
+    "page": "395"
+  },
+  {
+    "title": "What Do the Numbers Mean? You May Need a Map",
+    "path": "/pages/417203505/content",
+    "level": 3,
+    "cfi": "/426",
+    "page": "397"
+  },
+  {
+    "title": "WHICH COST FLOW ASSUMPTION TO ADOPT?",
+    "path": "/pages/417203508/content",
+    "level": 2,
+    "cfi": "/427",
+    "page": "398"
+  },
+  {
+    "title": "Specific Identification",
+    "path": "/pages/417203508/content",
+    "level": 3,
+    "cfi": "/427",
+    "page": "398"
+  },
+  {
+    "title": "Average-Cost",
+    "path": "/pages/417203510/content",
+    "level": 3,
+    "cfi": "/428",
+    "page": "399"
+  },
+  {
+    "title": "First-In, First-Out (FIFO)",
+    "path": "/pages/417203512/content",
+    "level": 3,
+    "cfi": "/429",
+    "page": "400"
+  },
+  {
+    "title": "Last-In, First-Out (LIFO)",
+    "path": "/pages/417203515/content",
+    "level": 3,
+    "cfi": "/430",
+    "page": "401"
+  },
+  {
+    "title": "SPECIAL ISSUES RELATED TO LIFO",
+    "path": "/pages/417203517/content",
+    "level": 2,
+    "cfi": "/431",
+    "page": "402"
+  },
+  {
+    "title": "LIFO Reserve",
+    "path": "/pages/417203517/content",
+    "level": 3,
+    "cfi": "/431",
+    "page": "402"
+  },
+  {
+    "title": "What Do the Numbers Mean? Comparing Apples to Apples",
+    "path": "/pages/417203520/content",
+    "level": 3,
+    "cfi": "/432",
+    "page": "403"
+  },
+  {
+    "title": "LIFO Liquidation",
+    "path": "/pages/417203520/content",
+    "level": 3,
+    "cfi": "/432",
+    "page": "403"
+  },
+  {
+    "title": "Dollar-Value LIFO",
+    "path": "/pages/417203524/content",
+    "level": 3,
+    "cfi": "/434",
+    "page": "405"
+  },
+  {
+    "title": "What Do the Numbers Mean? Quite a Difference",
+    "path": "/pages/417203534/content",
+    "level": 3,
+    "cfi": "/439",
+    "page": "410"
+  },
+  {
+    "title": "Comparison of LIFO Approaches",
+    "path": "/pages/417203534/content",
+    "level": 3,
+    "cfi": "/439",
+    "page": "410"
+  },
+  {
+    "title": "Major Advantages of LIFO",
+    "path": "/pages/417203536/content",
+    "level": 3,
+    "cfi": "/440",
+    "page": "411"
+  },
+  {
+    "title": "Major Disadvantages of LIFO",
+    "path": "/pages/417203539/content",
+    "level": 3,
+    "cfi": "/441",
+    "page": "412"
+  },
+  {
+    "title": "Basis for Selection of Inventory Method",
+    "path": "/pages/417203541/content",
+    "level": 3,
+    "cfi": "/442",
+    "page": "413"
+  },
+  {
+    "title": "Evolving Issue Repeal LIFO!",
+    "path": "/pages/417203546/content",
+    "level": 3,
+    "cfi": "/444",
+    "page": "415"
+  },
+  {
+    "title": "EFFECT OF INVENTORY ERRORS",
+    "path": "/pages/417203548/content",
+    "level": 2,
+    "cfi": "/445",
+    "page": "416"
+  },
+  {
+    "title": "Ending Inventory Misstated",
+    "path": "/pages/417203548/content",
+    "level": 3,
+    "cfi": "/445",
+    "page": "416"
+  },
+  {
+    "title": "Purchases and Inventory Misstated",
+    "path": "/pages/417203551/content",
+    "level": 3,
+    "cfi": "/446",
+    "page": "417"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417203619/content",
+    "level": 2,
+    "cfi": "/470",
+    "page": "441"
+  },
+  {
+    "title": "9 Inventories: Additional Valuation Issues",
+    "path": "/pages/417203677/content",
+    "level": 1,
+    "cfi": "/471",
+    "page": "442"
+  },
+  {
+    "title": "NOT WHAT IT SEEMS TO BE",
+    "path": "/pages/417203677/content",
+    "level": 2,
+    "cfi": "/471",
+    "page": "442"
+  },
+  {
+    "title": "LOWER-OF-COST-OR-NET REALIZABLE VALUE",
+    "path": "/pages/417203681/content",
+    "level": 2,
+    "cfi": "/473",
+    "page": "444"
+  },
+  {
+    "title": "Definition of Net Realizable Value",
+    "path": "/pages/417203681/content",
+    "level": 3,
+    "cfi": "/473",
+    "page": "444"
+  },
+  {
+    "title": "Illustration of LCNRV",
+    "path": "/pages/417203681/content",
+    "level": 3,
+    "cfi": "/473",
+    "page": "444"
+  },
+  {
+    "title": "Methods of Applying LCNRV",
+    "path": "/pages/417203685/content",
+    "level": 3,
+    "cfi": "/474",
+    "page": "445"
+  },
+  {
+    "title": "Recording NRV Instead of Cost",
+    "path": "/pages/417203689/content",
+    "level": 3,
+    "cfi": "/475",
+    "page": "446"
+  },
+  {
+    "title": "Use of an Allowance",
+    "path": "/pages/417203691/content",
+    "level": 3,
+    "cfi": "/476",
+    "page": "447"
+  },
+  {
+    "title": "Use of an Allowance—Multiple Periods",
+    "path": "/pages/417203691/content",
+    "level": 3,
+    "cfi": "/476",
+    "page": "447"
+  },
+  {
+    "title": "LOWER-OF-COST-OR-MARKET",
+    "path": "/pages/417203694/content",
+    "level": 2,
+    "cfi": "/477",
+    "page": "448"
+  },
+  {
+    "title": "How Lower-of-Cost-or-Market Works",
+    "path": "/pages/417203697/content",
+    "level": 3,
+    "cfi": "/478",
+    "page": "449"
+  },
+  {
+    "title": "Methods of Applying Lower-of-Cost-or-Market",
+    "path": "/pages/417203699/content",
+    "level": 3,
+    "cfi": "/479",
+    "page": "450"
+  },
+  {
+    "title": "What Do the Numbers Mean? “Put It in Reverse”",
+    "path": "/pages/417203701/content",
+    "level": 3,
+    "cfi": "/480",
+    "page": "451"
+  },
+  {
+    "title": "Evaluation of the LCNRV and Lower-of-Cost-or-Market Rules",
+    "path": "/pages/417203701/content",
+    "level": 3,
+    "cfi": "/480",
+    "page": "451"
+  },
+  {
+    "title": "OTHER VALUATION APPROACHES",
+    "path": "/pages/417203703/content",
+    "level": 2,
+    "cfi": "/481",
+    "page": "452"
+  },
+  {
+    "title": "Valuation at Net Realizable Value",
+    "path": "/pages/417203703/content",
+    "level": 3,
+    "cfi": "/481",
+    "page": "452"
+  },
+  {
+    "title": "Valuation Using Relative Sales Value",
+    "path": "/pages/417203705/content",
+    "level": 3,
+    "cfi": "/482",
+    "page": "453"
+  },
+  {
+    "title": "Purchase Commitments—A Special Problem",
+    "path": "/pages/417203705/content",
+    "level": 3,
+    "cfi": "/482",
+    "page": "453"
+  },
+  {
+    "title": "THE GROSS PROFIT METHOD OF ESTIMATING INVENTORY",
+    "path": "/pages/417203709/content",
+    "level": 2,
+    "cfi": "/484",
+    "page": "455"
+  },
+  {
+    "title": "Computation of Gross Profit Percentage",
+    "path": "/pages/417203712/content",
+    "level": 3,
+    "cfi": "/485",
+    "page": "456"
+  },
+  {
+    "title": "Evaluation of Gross Profit Method",
+    "path": "/pages/417203716/content",
+    "level": 3,
+    "cfi": "/487",
+    "page": "458"
+  },
+  {
+    "title": "What Do the Numbers Mean? The Squeeze",
+    "path": "/pages/417203716/content",
+    "level": 3,
+    "cfi": "/487",
+    "page": "458"
+  },
+  {
+    "title": "RETAIL INVENTORY METHOD",
+    "path": "/pages/417203716/content",
+    "level": 2,
+    "cfi": "/487",
+    "page": "458"
+  },
+  {
+    "title": "Retail-Method Concepts",
+    "path": "/pages/417203717/content",
+    "level": 3,
+    "cfi": "/488",
+    "page": "459"
+  },
+  {
+    "title": "Retail Inventory Method with Markups and Markdowns—Conventional Method",
+    "path": "/pages/417203720/content",
+    "level": 3,
+    "cfi": "/489",
+    "page": "460"
+  },
+  {
+    "title": "What Do the Numbers Mean? Price Fixing",
+    "path": "/pages/417203726/content",
+    "level": 3,
+    "cfi": "/492",
+    "page": "463"
+  },
+  {
+    "title": "Special Items Relating to Retail Method",
+    "path": "/pages/417203726/content",
+    "level": 3,
+    "cfi": "/492",
+    "page": "463"
+  },
+  {
+    "title": "Evaluation of Retail Inventory Method",
+    "path": "/pages/417203731/content",
+    "level": 3,
+    "cfi": "/493",
+    "page": "464"
+  },
+  {
+    "title": "PRESENTATION AND ANALYSIS",
+    "path": "/pages/417203731/content",
+    "level": 2,
+    "cfi": "/493",
+    "page": "464"
+  },
+  {
+    "title": "Presentation of Inventories",
+    "path": "/pages/417203731/content",
+    "level": 3,
+    "cfi": "/493",
+    "page": "464"
+  },
+  {
+    "title": "Analysis of Inventories",
+    "path": "/pages/417203742/content",
+    "level": 3,
+    "cfi": "/494",
+    "page": "465"
+  },
+  {
+    "title": "APPENDIX 9A: LIFO RETAIL METHODS",
+    "path": "/pages/417203743/content",
+    "level": 2,
+    "cfi": "/495",
+    "page": "466"
+  },
+  {
+    "title": "STABLE PRICES—LIFO RETAIL METHOD",
+    "path": "/pages/417203743/content",
+    "level": 2,
+    "cfi": "/495",
+    "page": "466"
+  },
+  {
+    "title": "FLUCTUATING PRICES—DOLLAR-VALUE LIFO RETAIL METHOD",
+    "path": "/pages/417203744/content",
+    "level": 2,
+    "cfi": "/496",
+    "page": "467"
+  },
+  {
+    "title": "SUBSEQUENT ADJUSTMENTS UNDER DOLLAR-VALUE LIFO RETAIL",
+    "path": "/pages/417203746/content",
+    "level": 2,
+    "cfi": "/498",
+    "page": "469"
+  },
+  {
+    "title": "CHANGING FROM CONVENTIONAL RETAIL TO LIFO",
+    "path": "/pages/417203747/content",
+    "level": 2,
+    "cfi": "/499",
+    "page": "470"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417203779/content",
+    "level": 2,
+    "cfi": "/522",
+    "page": "493"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417203782/content",
+    "level": 2,
+    "cfi": "/523",
+    "page": "494"
+  },
+  {
+    "title": "10 Acquisition and Disposition of Property, Plant, and Equipment",
+    "path": "/pages/417203834/content",
+    "level": 1,
+    "cfi": "/531",
+    "page": "502"
+  },
+  {
+    "title": "WATCH YOUR SPENDING",
+    "path": "/pages/417203834/content",
+    "level": 2,
+    "cfi": "/531",
+    "page": "502"
+  },
+  {
+    "title": "PROPERTY, PLANT, AND EQUIPMENT",
+    "path": "/pages/417203839/content",
+    "level": 2,
+    "cfi": "/533",
+    "page": "504"
+  },
+  {
+    "title": "Acquisition of Property, Plant, and Equipment",
+    "path": "/pages/417203839/content",
+    "level": 3,
+    "cfi": "/533",
+    "page": "504"
+  },
+  {
+    "title": "Self-Constructed Assets",
+    "path": "/pages/417203843/content",
+    "level": 3,
+    "cfi": "/535",
+    "page": "506"
+  },
+  {
+    "title": "Interest Costs During Construction",
+    "path": "/pages/417203845/content",
+    "level": 3,
+    "cfi": "/536",
+    "page": "507"
+  },
+  {
+    "title": "What Do the Numbers Mean? What’s in Your Interest?",
+    "path": "/pages/417203856/content",
+    "level": 3,
+    "cfi": "/541",
+    "page": "512"
+  },
+  {
+    "title": "Observations",
+    "path": "/pages/417203858/content",
+    "level": 3,
+    "cfi": "/542",
+    "page": "513"
+  },
+  {
+    "title": "VALUATION OF PROPERTY, PLANT, AND EQUIPMENT",
+    "path": "/pages/417203858/content",
+    "level": 2,
+    "cfi": "/542",
+    "page": "513"
+  },
+  {
+    "title": "Cash Discounts",
+    "path": "/pages/417203858/content",
+    "level": 3,
+    "cfi": "/542",
+    "page": "513"
+  },
+  {
+    "title": "Deferred-Payment Contracts",
+    "path": "/pages/417203858/content",
+    "level": 3,
+    "cfi": "/542",
+    "page": "513"
+  },
+  {
+    "title": "Lump-Sum Purchases",
+    "path": "/pages/417203861/content",
+    "level": 3,
+    "cfi": "/543",
+    "page": "514"
+  },
+  {
+    "title": "Issuance of Stock",
+    "path": "/pages/417203863/content",
+    "level": 3,
+    "cfi": "/544",
+    "page": "515"
+  },
+  {
+    "title": "Exchanges of Nonmonetary Assets",
+    "path": "/pages/417203865/content",
+    "level": 3,
+    "cfi": "/545",
+    "page": "516"
+  },
+  {
+    "title": "What Do the Numbers Mean? About Those Swaps",
+    "path": "/pages/417203875/content",
+    "level": 3,
+    "cfi": "/550",
+    "page": "521"
+  },
+  {
+    "title": "Accounting for Contributions",
+    "path": "/pages/417203875/content",
+    "level": 3,
+    "cfi": "/550",
+    "page": "521"
+  },
+  {
+    "title": "Other Asset Valuation Methods",
+    "path": "/pages/417203877/content",
+    "level": 3,
+    "cfi": "/551",
+    "page": "522"
+  },
+  {
+    "title": "COSTS SUBSEQUENT TO ACQUISITION",
+    "path": "/pages/417203877/content",
+    "level": 2,
+    "cfi": "/551",
+    "page": "522"
+  },
+  {
+    "title": "What Do the Numbers Mean? Disconnected",
+    "path": "/pages/417203879/content",
+    "level": 3,
+    "cfi": "/552",
+    "page": "523"
+  },
+  {
+    "title": "Additions",
+    "path": "/pages/417203881/content",
+    "level": 3,
+    "cfi": "/553",
+    "page": "524"
+  },
+  {
+    "title": "Improvements and Replacements",
+    "path": "/pages/417203881/content",
+    "level": 3,
+    "cfi": "/553",
+    "page": "524"
+  },
+  {
+    "title": "Rearrangement and Reinstallation",
+    "path": "/pages/417203883/content",
+    "level": 3,
+    "cfi": "/554",
+    "page": "525"
+  },
+  {
+    "title": "Repairs",
+    "path": "/pages/417203883/content",
+    "level": 3,
+    "cfi": "/554",
+    "page": "525"
+  },
+  {
+    "title": "Summary of Costs Subsequent to Acquisition",
+    "path": "/pages/417203886/content",
+    "level": 3,
+    "cfi": "/555",
+    "page": "526"
+  },
+  {
+    "title": "DISPOSITION OF PROPERTY, PLANT, AND EQUIPMENT",
+    "path": "/pages/417203886/content",
+    "level": 2,
+    "cfi": "/555",
+    "page": "526"
+  },
+  {
+    "title": "Sale of Plant Assets",
+    "path": "/pages/417203886/content",
+    "level": 3,
+    "cfi": "/555",
+    "page": "526"
+  },
+  {
+    "title": "Involuntary Conversion",
+    "path": "/pages/417203888/content",
+    "level": 3,
+    "cfi": "/556",
+    "page": "527"
+  },
+  {
+    "title": "Miscellaneous Problems",
+    "path": "/pages/417203888/content",
+    "level": 3,
+    "cfi": "/556",
+    "page": "527"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417203934/content",
+    "level": 2,
+    "cfi": "/579",
+    "page": "550"
+  },
+  {
+    "title": "11 Depreciation, Impairments, and Depletion",
+    "path": "/pages/417203953/content",
+    "level": 1,
+    "cfi": "/581",
+    "page": "552"
+  },
+  {
+    "title": "HERE COME THE WRITE-OFFS",
+    "path": "/pages/417203953/content",
+    "level": 2,
+    "cfi": "/581",
+    "page": "552"
+  },
+  {
+    "title": "DEPRECIATION—A METHOD OF COST ALLOCATION",
+    "path": "/pages/417203955/content",
+    "level": 2,
+    "cfi": "/583",
+    "page": "554"
+  },
+  {
+    "title": "Factors Involved in the Depreciation Process",
+    "path": "/pages/417203955/content",
+    "level": 3,
+    "cfi": "/583",
+    "page": "554"
+  },
+  {
+    "title": "What Do the Numbers Mean? Alphabet Dupe",
+    "path": "/pages/417203957/content",
+    "level": 3,
+    "cfi": "/585",
+    "page": "556"
+  },
+  {
+    "title": "Methods of Depreciation",
+    "path": "/pages/417203957/content",
+    "level": 3,
+    "cfi": "/585",
+    "page": "556"
+  },
+  {
+    "title": "SPECIAL DEPRECIATION METHODS AND OTHER ISSUES",
+    "path": "/pages/417203960/content",
+    "level": 2,
+    "cfi": "/588",
+    "page": "559"
+  },
+  {
+    "title": "Special Depreciation Methods",
+    "path": "/pages/417203960/content",
+    "level": 3,
+    "cfi": "/588",
+    "page": "559"
+  },
+  {
+    "title": "What Do the Numbers Mean? Decelerating Depreciation",
+    "path": "/pages/417203962/content",
+    "level": 3,
+    "cfi": "/590",
+    "page": "561"
+  },
+  {
+    "title": "Other Depreciation Issues",
+    "path": "/pages/417203963/content",
+    "level": 3,
+    "cfi": "/591",
+    "page": "562"
+  },
+  {
+    "title": "What Do the Numbers Mean? Depreciation Choices",
+    "path": "/pages/417203966/content",
+    "level": 3,
+    "cfi": "/594",
+    "page": "565"
+  },
+  {
+    "title": "IMPAIRMENTS",
+    "path": "/pages/417203966/content",
+    "level": 2,
+    "cfi": "/594",
+    "page": "565"
+  },
+  {
+    "title": "Recognizing Impairments",
+    "path": "/pages/417203966/content",
+    "level": 3,
+    "cfi": "/594",
+    "page": "565"
+  },
+  {
+    "title": "Measuring Impairments",
+    "path": "/pages/417203967/content",
+    "level": 3,
+    "cfi": "/595",
+    "page": "566"
+  },
+  {
+    "title": "Restoration of Impairment Loss",
+    "path": "/pages/417203968/content",
+    "level": 3,
+    "cfi": "/596",
+    "page": "567"
+  },
+  {
+    "title": "Impairment of Assets to Be Disposed Of",
+    "path": "/pages/417203968/content",
+    "level": 3,
+    "cfi": "/596",
+    "page": "567"
+  },
+  {
+    "title": "DEPLETION",
+    "path": "/pages/417203969/content",
+    "level": 2,
+    "cfi": "/597",
+    "page": "568"
+  },
+  {
+    "title": "Establishing a Depletion Base",
+    "path": "/pages/417203970/content",
+    "level": 3,
+    "cfi": "/598",
+    "page": "569"
+  },
+  {
+    "title": "Write-Off of Resource Cost",
+    "path": "/pages/417203971/content",
+    "level": 3,
+    "cfi": "/599",
+    "page": "570"
+  },
+  {
+    "title": "Estimating Recoverable Reserves",
+    "path": "/pages/417203972/content",
+    "level": 3,
+    "cfi": "/600",
+    "page": "571"
+  },
+  {
+    "title": "What Do the Numbers Mean? Reserve Surprise",
+    "path": "/pages/417203972/content",
+    "level": 3,
+    "cfi": "/600",
+    "page": "571"
+  },
+  {
+    "title": "Liquidating Dividends",
+    "path": "/pages/417203972/content",
+    "level": 3,
+    "cfi": "/600",
+    "page": "571"
+  },
+  {
+    "title": "Continuing Controversy",
+    "path": "/pages/417203973/content",
+    "level": 3,
+    "cfi": "/601",
+    "page": "572"
+  },
+  {
+    "title": "Evolving Issue Full-Cost or Successful-Efforts?",
+    "path": "/pages/417203974/content",
+    "level": 3,
+    "cfi": "/602",
+    "page": "573"
+  },
+  {
+    "title": "PRESENTATION AND ANALYSIS",
+    "path": "/pages/417203974/content",
+    "level": 2,
+    "cfi": "/602",
+    "page": "573"
+  },
+  {
+    "title": "Presentation of Property, Plant, Equipment, and Natural Resources",
+    "path": "/pages/417203974/content",
+    "level": 3,
+    "cfi": "/602",
+    "page": "573"
+  },
+  {
+    "title": "Analysis of Property, Plant, and Equipment",
+    "path": "/pages/417203976/content",
+    "level": 3,
+    "cfi": "/604",
+    "page": "575"
+  },
+  {
+    "title": "APPENDIX 11A: INCOME TAX DEPRECIATION",
+    "path": "/pages/417203977/content",
+    "level": 2,
+    "cfi": "/605",
+    "page": "576"
+  },
+  {
+    "title": "MODIFIED ACCELERATED COST RECOVERY SYSTEM",
+    "path": "/pages/417203978/content",
+    "level": 2,
+    "cfi": "/606",
+    "page": "577"
+  },
+  {
+    "title": "Tax Lives (Recovery Periods)",
+    "path": "/pages/417203978/content",
+    "level": 3,
+    "cfi": "/606",
+    "page": "577"
+  },
+  {
+    "title": "Tax Depreciation Methods",
+    "path": "/pages/417203978/content",
+    "level": 3,
+    "cfi": "/606",
+    "page": "577"
+  },
+  {
+    "title": "Example of MACRS",
+    "path": "/pages/417203979/content",
+    "level": 3,
+    "cfi": "/607",
+    "page": "578"
+  },
+  {
+    "title": "OPTIONAL STRAIGHT-LINE METHOD",
+    "path": "/pages/417203980/content",
+    "level": 2,
+    "cfi": "/608",
+    "page": "579"
+  },
+  {
+    "title": "TAX VERSUS BOOK DEPRECIATION",
+    "path": "/pages/417203980/content",
+    "level": 2,
+    "cfi": "/608",
+    "page": "579"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417204001/content",
+    "level": 2,
+    "cfi": "/629",
+    "page": "600"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417204002/content",
+    "level": 2,
+    "cfi": "/630",
+    "page": "601"
+  },
+  {
+    "title": "12 Intangible Assets",
+    "path": "/pages/417204044/content",
+    "level": 1,
+    "cfi": "/639",
+    "page": "610"
+  },
+  {
+    "title": "IS THIS SUSTAINABLE?",
+    "path": "/pages/417204044/content",
+    "level": 2,
+    "cfi": "/639",
+    "page": "610"
+  },
+  {
+    "title": "INTANGIBLE ASSET ISSUES",
+    "path": "/pages/417204048/content",
+    "level": 2,
+    "cfi": "/641",
+    "page": "612"
+  },
+  {
+    "title": "Characteristics",
+    "path": "/pages/417204048/content",
+    "level": 3,
+    "cfi": "/641",
+    "page": "612"
+  },
+  {
+    "title": "Valuation",
+    "path": "/pages/417204048/content",
+    "level": 3,
+    "cfi": "/641",
+    "page": "612"
+  },
+  {
+    "title": "Amortization of Intangibles",
+    "path": "/pages/417204050/content",
+    "level": 3,
+    "cfi": "/642",
+    "page": "613"
+  },
+  {
+    "title": "What Do the Numbers Mean? Are All Brands the Same?",
+    "path": "/pages/417204052/content",
+    "level": 3,
+    "cfi": "/643",
+    "page": "614"
+  },
+  {
+    "title": "TYPES OF INTANGIBLE ASSETS",
+    "path": "/pages/417204052/content",
+    "level": 2,
+    "cfi": "/643",
+    "page": "614"
+  },
+  {
+    "title": "Marketing-Related Intangible Assets",
+    "path": "/pages/417204055/content",
+    "level": 3,
+    "cfi": "/644",
+    "page": "615"
+  },
+  {
+    "title": "What Do the Numbers Mean? Keep Your Hands Off My Intangible!",
+    "path": "/pages/417204055/content",
+    "level": 3,
+    "cfi": "/644",
+    "page": "615"
+  },
+  {
+    "title": "Customer-Related Intangible Assets",
+    "path": "/pages/417204057/content",
+    "level": 3,
+    "cfi": "/645",
+    "page": "616"
+  },
+  {
+    "title": "Artistic-Related Intangible Assets",
+    "path": "/pages/417204057/content",
+    "level": 3,
+    "cfi": "/645",
+    "page": "616"
+  },
+  {
+    "title": "Contract-Related Intangible Assets",
+    "path": "/pages/417204059/content",
+    "level": 3,
+    "cfi": "/646",
+    "page": "617"
+  },
+  {
+    "title": "Technology-Related Intangible Assets",
+    "path": "/pages/417204059/content",
+    "level": 3,
+    "cfi": "/646",
+    "page": "617"
+  },
+  {
+    "title": "What Do the Numbers Mean? Patent Battles",
+    "path": "/pages/417204061/content",
+    "level": 3,
+    "cfi": "/647",
+    "page": "618"
+  },
+  {
+    "title": "What Do the Numbers Mean? The Value of a Secret Formula",
+    "path": "/pages/417204064/content",
+    "level": 3,
+    "cfi": "/648",
+    "page": "619"
+  },
+  {
+    "title": "Goodwill",
+    "path": "/pages/417204064/content",
+    "level": 3,
+    "cfi": "/648",
+    "page": "619"
+  },
+  {
+    "title": "IMPAIRMENT AND PRESENTATION OF INTANGIBLE ASSETS",
+    "path": "/pages/417204070/content",
+    "level": 2,
+    "cfi": "/651",
+    "page": "622"
+  },
+  {
+    "title": "Impairment of Limited-Life Intangibles",
+    "path": "/pages/417204072/content",
+    "level": 3,
+    "cfi": "/652",
+    "page": "623"
+  },
+  {
+    "title": "Impairment of Indefinite-Life Intangibles Other Than Goodwill",
+    "path": "/pages/417204072/content",
+    "level": 3,
+    "cfi": "/652",
+    "page": "623"
+  },
+  {
+    "title": "Impairment of Goodwill",
+    "path": "/pages/417204074/content",
+    "level": 3,
+    "cfi": "/653",
+    "page": "624"
+  },
+  {
+    "title": "Impairment Summary",
+    "path": "/pages/417204077/content",
+    "level": 3,
+    "cfi": "/654",
+    "page": "625"
+  },
+  {
+    "title": "What Do the Numbers Mean? Impairment Risk",
+    "path": "/pages/417204077/content",
+    "level": 3,
+    "cfi": "/654",
+    "page": "625"
+  },
+  {
+    "title": "Presentation of Intangible Assets",
+    "path": "/pages/417204079/content",
+    "level": 3,
+    "cfi": "/655",
+    "page": "626"
+  },
+  {
+    "title": "RESEARCH AND DEVELOPMENT COSTS",
+    "path": "/pages/417204083/content",
+    "level": 2,
+    "cfi": "/657",
+    "page": "628"
+  },
+  {
+    "title": "Identifying R\u0026D Activities",
+    "path": "/pages/417204083/content",
+    "level": 3,
+    "cfi": "/657",
+    "page": "628"
+  },
+  {
+    "title": "Accounting for R\u0026D Activities",
+    "path": "/pages/417204085/content",
+    "level": 3,
+    "cfi": "/658",
+    "page": "629"
+  },
+  {
+    "title": "What Do the Numbers Mean? Global R\u0026D Incentives",
+    "path": "/pages/417204085/content",
+    "level": 3,
+    "cfi": "/658",
+    "page": "629"
+  },
+  {
+    "title": "Costs Similar to R\u0026D Costs",
+    "path": "/pages/417204089/content",
+    "level": 3,
+    "cfi": "/660",
+    "page": "631"
+  },
+  {
+    "title": "What Do the Numbers Mean? Branded",
+    "path": "/pages/417204091/content",
+    "level": 3,
+    "cfi": "/661",
+    "page": "632"
+  },
+  {
+    "title": "Presentation of Research and Development Costs",
+    "path": "/pages/417204093/content",
+    "level": 3,
+    "cfi": "/662",
+    "page": "633"
+  },
+  {
+    "title": "Evolving Issue Recognition of R\u0026D and Internally Generated Intangibles",
+    "path": "/pages/417204095/content",
+    "level": 3,
+    "cfi": "/663",
+    "page": "634"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417204126/content",
+    "level": 2,
+    "cfi": "/679",
+    "page": "650"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417204129/content",
+    "level": 2,
+    "cfi": "/681",
+    "page": "652"
+  },
+  {
+    "title": "13 Current Liabilities and Contingencies",
+    "path": "/pages/417204166/content",
+    "level": 1,
+    "cfi": "/687",
+    "page": "658"
+  },
+  {
+    "title": "NOW YOU SEE IT, NOW YOU DON’T",
+    "path": "/pages/417204166/content",
+    "level": 2,
+    "cfi": "/687",
+    "page": "658"
+  },
+  {
+    "title": "CURRENT LIABILITIES",
+    "path": "/pages/417204169/content",
+    "level": 2,
+    "cfi": "/689",
+    "page": "660"
+  },
+  {
+    "title": "Accounts Payable",
+    "path": "/pages/417204170/content",
+    "level": 3,
+    "cfi": "/690",
+    "page": "661"
+  },
+  {
+    "title": "Notes Payable",
+    "path": "/pages/417204170/content",
+    "level": 3,
+    "cfi": "/690",
+    "page": "661"
+  },
+  {
+    "title": "Dividends Payable",
+    "path": "/pages/417204172/content",
+    "level": 3,
+    "cfi": "/692",
+    "page": "663"
+  },
+  {
+    "title": "Customer Advances and Deposits",
+    "path": "/pages/417204172/content",
+    "level": 3,
+    "cfi": "/692",
+    "page": "663"
+  },
+  {
+    "title": "Unearned Revenues",
+    "path": "/pages/417204172/content",
+    "level": 3,
+    "cfi": "/692",
+    "page": "663"
+  },
+  {
+    "title": "What Do the Numbers Mean? Microsoft’s Liabilities—Good or Bad?",
+    "path": "/pages/417204173/content",
+    "level": 3,
+    "cfi": "/693",
+    "page": "664"
+  },
+  {
+    "title": "Sales Taxes Payable",
+    "path": "/pages/417204174/content",
+    "level": 3,
+    "cfi": "/694",
+    "page": "665"
+  },
+  {
+    "title": "Income Taxes Payable",
+    "path": "/pages/417204174/content",
+    "level": 3,
+    "cfi": "/694",
+    "page": "665"
+  },
+  {
+    "title": "Employee-Related Liabilities",
+    "path": "/pages/417204175/content",
+    "level": 3,
+    "cfi": "/695",
+    "page": "666"
+  },
+  {
+    "title": "Current Maturities of Long-Term Debt",
+    "path": "/pages/417204180/content",
+    "level": 3,
+    "cfi": "/700",
+    "page": "671"
+  },
+  {
+    "title": "Short-Term Obligations Expected to Be Refinanced",
+    "path": "/pages/417204180/content",
+    "level": 3,
+    "cfi": "/700",
+    "page": "671"
+  },
+  {
+    "title": "What Do the Numbers Mean? What About That Short-Term Debt?",
+    "path": "/pages/417204182/content",
+    "level": 3,
+    "cfi": "/702",
+    "page": "673"
+  },
+  {
+    "title": "CONTINGENCIES",
+    "path": "/pages/417204182/content",
+    "level": 2,
+    "cfi": "/702",
+    "page": "673"
+  },
+  {
+    "title": "Gain Contingencies",
+    "path": "/pages/417204182/content",
+    "level": 3,
+    "cfi": "/702",
+    "page": "673"
+  },
+  {
+    "title": "Loss Contingencies",
+    "path": "/pages/417204183/content",
+    "level": 3,
+    "cfi": "/703",
+    "page": "674"
+  },
+  {
+    "title": "What Do the Numbers Mean? Frequent Flyers",
+    "path": "/pages/417204189/content",
+    "level": 3,
+    "cfi": "/709",
+    "page": "680"
+  },
+  {
+    "title": "Evolving Issue Greenhouse Gases: Let’s Be Standard-Setters",
+    "path": "/pages/417204191/content",
+    "level": 3,
+    "cfi": "/711",
+    "page": "682"
+  },
+  {
+    "title": "What Do the Numbers Mean? More Disclosure, Please",
+    "path": "/pages/417204193/content",
+    "level": 3,
+    "cfi": "/713",
+    "page": "684"
+  },
+  {
+    "title": "PRESENTATION AND ANALYSIS",
+    "path": "/pages/417204193/content",
+    "level": 2,
+    "cfi": "/713",
+    "page": "684"
+  },
+  {
+    "title": "Presentation of Current Liabilities",
+    "path": "/pages/417204193/content",
+    "level": 3,
+    "cfi": "/713",
+    "page": "684"
+  },
+  {
+    "title": "Presentation of Contingencies",
+    "path": "/pages/417204196/content",
+    "level": 3,
+    "cfi": "/715",
+    "page": "686"
+  },
+  {
+    "title": "Analysis of Current Liabilities",
+    "path": "/pages/417204198/content",
+    "level": 3,
+    "cfi": "/716",
+    "page": "687"
+  },
+  {
+    "title": "What Do the Numbers Mean? I’ll Pay You Later",
+    "path": "/pages/417204200/content",
+    "level": 3,
+    "cfi": "/717",
+    "page": "688"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417204236/content",
+    "level": 2,
+    "cfi": "/737",
+    "page": "708"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417204241/content",
+    "level": 2,
+    "cfi": "/739",
+    "page": "710"
+  },
+  {
+    "title": "14 Long-Term Liabilities",
+    "path": "/pages/417204261/content",
+    "level": 1,
+    "cfi": "/747",
+    "page": "718"
+  },
+  {
+    "title": "GOING LONG",
+    "path": "/pages/417204261/content",
+    "level": 2,
+    "cfi": "/747",
+    "page": "718"
+  },
+  {
+    "title": "BONDS PAYABLE",
+    "path": "/pages/417204263/content",
+    "level": 2,
+    "cfi": "/749",
+    "page": "720"
+  },
+  {
+    "title": "Issuing Bonds",
+    "path": "/pages/417204263/content",
+    "level": 3,
+    "cfi": "/749",
+    "page": "720"
+  },
+  {
+    "title": "Types of Bonds",
+    "path": "/pages/417204263/content",
+    "level": 3,
+    "cfi": "/749",
+    "page": "720"
+  },
+  {
+    "title": "What Do the Numbers Mean? All About Bonds",
+    "path": "/pages/417204264/content",
+    "level": 3,
+    "cfi": "/750",
+    "page": "721"
+  },
+  {
+    "title": "Valuation and Accounting for Bonds Payable",
+    "path": "/pages/417204265/content",
+    "level": 3,
+    "cfi": "/751",
+    "page": "722"
+  },
+  {
+    "title": "What Do the Numbers Mean? How’s My Rating?",
+    "path": "/pages/417204266/content",
+    "level": 3,
+    "cfi": "/752",
+    "page": "723"
+  },
+  {
+    "title": "Extinguishment of Debt",
+    "path": "/pages/417204273/content",
+    "level": 3,
+    "cfi": "/759",
+    "page": "730"
+  },
+  {
+    "title": "What Do the Numbers Mean? Your Debt Is Killing My Equity",
+    "path": "/pages/417204274/content",
+    "level": 3,
+    "cfi": "/760",
+    "page": "731"
+  },
+  {
+    "title": "LONG-TERM NOTES PAYABLE",
+    "path": "/pages/417204274/content",
+    "level": 2,
+    "cfi": "/760",
+    "page": "731"
+  },
+  {
+    "title": "Notes Issued at Face Value",
+    "path": "/pages/417204275/content",
+    "level": 3,
+    "cfi": "/761",
+    "page": "732"
+  },
+  {
+    "title": "Notes Not Issued at Face Value",
+    "path": "/pages/417204275/content",
+    "level": 3,
+    "cfi": "/761",
+    "page": "732"
+  },
+  {
+    "title": "Special Notes Payable Situations",
+    "path": "/pages/417204277/content",
+    "level": 3,
+    "cfi": "/763",
+    "page": "734"
+  },
+  {
+    "title": "Mortgage Notes Payable",
+    "path": "/pages/417204280/content",
+    "level": 3,
+    "cfi": "/766",
+    "page": "737"
+  },
+  {
+    "title": "Fair Value Option",
+    "path": "/pages/417204280/content",
+    "level": 3,
+    "cfi": "/766",
+    "page": "737"
+  },
+  {
+    "title": "What Do the Numbers Mean? Fair Value Fun House",
+    "path": "/pages/417204281/content",
+    "level": 3,
+    "cfi": "/767",
+    "page": "738"
+  },
+  {
+    "title": "REPORTING AND ANALYZING LIABILITIES",
+    "path": "/pages/417204282/content",
+    "level": 2,
+    "cfi": "/768",
+    "page": "739"
+  },
+  {
+    "title": "Off-Balance-Sheet Financing",
+    "path": "/pages/417204282/content",
+    "level": 3,
+    "cfi": "/768",
+    "page": "739"
+  },
+  {
+    "title": "What Do the Numbers Mean? Obligated",
+    "path": "/pages/417204284/content",
+    "level": 3,
+    "cfi": "/770",
+    "page": "741"
+  },
+  {
+    "title": "Presentation and Analysis of Long-Term Debt",
+    "path": "/pages/417204284/content",
+    "level": 3,
+    "cfi": "/770",
+    "page": "741"
+  },
+  {
+    "title": "APPENDIX 14A: TROUBLED-DEBT RESTRUCTURING",
+    "path": "/pages/417204286/content",
+    "level": 2,
+    "cfi": "/772",
+    "page": "743"
+  },
+  {
+    "title": "SETTLEMENT OF DEBT",
+    "path": "/pages/417204287/content",
+    "level": 2,
+    "cfi": "/773",
+    "page": "744"
+  },
+  {
+    "title": "Transfer of Assets",
+    "path": "/pages/417204287/content",
+    "level": 3,
+    "cfi": "/773",
+    "page": "744"
+  },
+  {
+    "title": "Granting of Equity Interest",
+    "path": "/pages/417204288/content",
+    "level": 3,
+    "cfi": "/774",
+    "page": "745"
+  },
+  {
+    "title": "MODIFICATION OF TERMS",
+    "path": "/pages/417204288/content",
+    "level": 2,
+    "cfi": "/774",
+    "page": "745"
+  },
+  {
+    "title": "Example 1—No Gain for Debtor",
+    "path": "/pages/417204289/content",
+    "level": 3,
+    "cfi": "/775",
+    "page": "746"
+  },
+  {
+    "title": "Example 2—Gain for Debtor",
+    "path": "/pages/417204291/content",
+    "level": 3,
+    "cfi": "/777",
+    "page": "748"
+  },
+  {
+    "title": "CONCLUDING REMARKS",
+    "path": "/pages/417204292/content",
+    "level": 2,
+    "cfi": "/778",
+    "page": "749"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417204310/content",
+    "level": 2,
+    "cfi": "/796",
+    "page": "767"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417204311/content",
+    "level": 2,
+    "cfi": "/797",
+    "page": "768"
+  },
+  {
+    "title": "15 Stockholders’ Equity",
+    "path": "/pages/417204317/content",
+    "level": 1,
+    "cfi": "/803",
+    "page": "774"
+  },
+  {
+    "title": "IT’S A GLOBAL MARKET",
+    "path": "/pages/417204317/content",
+    "level": 2,
+    "cfi": "/803",
+    "page": "774"
+  },
+  {
+    "title": "CORPORATE CAPITAL",
+    "path": "/pages/417204319/content",
+    "level": 2,
+    "cfi": "/805",
+    "page": "776"
+  },
+  {
+    "title": "Corporate Form",
+    "path": "/pages/417204319/content",
+    "level": 3,
+    "cfi": "/805",
+    "page": "776"
+  },
+  {
+    "title": "What Do the Numbers Mean? 1209 North Orange Street",
+    "path": "/pages/417204319/content",
+    "level": 3,
+    "cfi": "/805",
+    "page": "776"
+  },
+  {
+    "title": "Components of Stockholders’ Equity",
+    "path": "/pages/417204321/content",
+    "level": 3,
+    "cfi": "/807",
+    "page": "778"
+  },
+  {
+    "title": "Issuance of Stock",
+    "path": "/pages/417204322/content",
+    "level": 3,
+    "cfi": "/808",
+    "page": "779"
+  },
+  {
+    "title": "What Do the Numbers Mean? The Case of the Disappearing Receivable",
+    "path": "/pages/417204326/content",
+    "level": 3,
+    "cfi": "/812",
+    "page": "783"
+  },
+  {
+    "title": "Preferred Stock",
+    "path": "/pages/417204326/content",
+    "level": 3,
+    "cfi": "/812",
+    "page": "783"
+  },
+  {
+    "title": "What Do the Numbers Mean? A Class (B) Act",
+    "path": "/pages/417204328/content",
+    "level": 3,
+    "cfi": "/814",
+    "page": "785"
+  },
+  {
+    "title": "REACQUISITION OF SHARES",
+    "path": "/pages/417204329/content",
+    "level": 2,
+    "cfi": "/815",
+    "page": "786"
+  },
+  {
+    "title": "What Do the Numbers Mean? Buybacks—Good or Bad?",
+    "path": "/pages/417204330/content",
+    "level": 3,
+    "cfi": "/816",
+    "page": "787"
+  },
+  {
+    "title": "Purchase of Treasury Stock",
+    "path": "/pages/417204331/content",
+    "level": 3,
+    "cfi": "/817",
+    "page": "788"
+  },
+  {
+    "title": "Sale of Treasury Stock",
+    "path": "/pages/417204332/content",
+    "level": 3,
+    "cfi": "/818",
+    "page": "789"
+  },
+  {
+    "title": "Retiring Treasury Stock",
+    "path": "/pages/417204333/content",
+    "level": 3,
+    "cfi": "/819",
+    "page": "790"
+  },
+  {
+    "title": "DIVIDEND POLICY",
+    "path": "/pages/417204334/content",
+    "level": 2,
+    "cfi": "/820",
+    "page": "791"
+  },
+  {
+    "title": "Financial Condition and Dividend Distributions",
+    "path": "/pages/417204334/content",
+    "level": 3,
+    "cfi": "/820",
+    "page": "791"
+  },
+  {
+    "title": "Types of Dividends",
+    "path": "/pages/417204335/content",
+    "level": 3,
+    "cfi": "/821",
+    "page": "792"
+  },
+  {
+    "title": "Stock Dividends and Stock Splits",
+    "path": "/pages/417204338/content",
+    "level": 3,
+    "cfi": "/824",
+    "page": "795"
+  },
+  {
+    "title": "What Do the Numbers Mean? Splitsville",
+    "path": "/pages/417204341/content",
+    "level": 3,
+    "cfi": "/827",
+    "page": "798"
+  },
+  {
+    "title": "What Do the Numbers Mean? Dividends Up, Dividends Down",
+    "path": "/pages/417204343/content",
+    "level": 3,
+    "cfi": "/829",
+    "page": "800"
+  },
+  {
+    "title": "PRESENTATION AND ANALYSIS OF STOCKHOLDERS' EQUITY",
+    "path": "/pages/417204343/content",
+    "level": 2,
+    "cfi": "/829",
+    "page": "800"
+  },
+  {
+    "title": "Presentation",
+    "path": "/pages/417204343/content",
+    "level": 3,
+    "cfi": "/829",
+    "page": "800"
+  },
+  {
+    "title": "Analysis",
+    "path": "/pages/417204345/content",
+    "level": 3,
+    "cfi": "/831",
+    "page": "802"
+  },
+  {
+    "title": "APPENDIX 15A: DIVIDEND PREFERENCES AND BOOK VALUE PER SHARE",
+    "path": "/pages/417204347/content",
+    "level": 2,
+    "cfi": "/833",
+    "page": "804"
+  },
+  {
+    "title": "DIVIDEND PREFERENCES",
+    "path": "/pages/417204347/content",
+    "level": 2,
+    "cfi": "/833",
+    "page": "804"
+  },
+  {
+    "title": "BOOK VALUE PER SHARE",
+    "path": "/pages/417204348/content",
+    "level": 2,
+    "cfi": "/834",
+    "page": "805"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417204369/content",
+    "level": 2,
+    "cfi": "/855",
+    "page": "826"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417204370/content",
+    "level": 2,
+    "cfi": "/856",
+    "page": "827"
+  },
+  {
+    "title": "16 Dilutive Securities and Earnings per Share",
+    "path": "/pages/417204377/content",
+    "level": 1,
+    "cfi": "/863",
+    "page": "834"
+  },
+  {
+    "title": "KICKING THE HABIT",
+    "path": "/pages/417204377/content",
+    "level": 2,
+    "cfi": "/863",
+    "page": "834"
+  },
+  {
+    "title": "DILUTIVE SECURITIES",
+    "path": "/pages/417204379/content",
+    "level": 2,
+    "cfi": "/865",
+    "page": "836"
+  },
+  {
+    "title": "Debt and Equity",
+    "path": "/pages/417204379/content",
+    "level": 3,
+    "cfi": "/865",
+    "page": "836"
+  },
+  {
+    "title": "Accounting for Convertible Debt",
+    "path": "/pages/417204379/content",
+    "level": 3,
+    "cfi": "/865",
+    "page": "836"
+  },
+  {
+    "title": "Convertible Preferred Stock",
+    "path": "/pages/417204381/content",
+    "level": 3,
+    "cfi": "/867",
+    "page": "838"
+  },
+  {
+    "title": "What Do the Numbers Mean? How Low Can You Go?",
+    "path": "/pages/417204382/content",
+    "level": 3,
+    "cfi": "/868",
+    "page": "839"
+  },
+  {
+    "title": "STOCK WARRANTS",
+    "path": "/pages/417204382/content",
+    "level": 2,
+    "cfi": "/868",
+    "page": "839"
+  },
+  {
+    "title": "Stock Warrants Issued with Other Securities",
+    "path": "/pages/417204383/content",
+    "level": 3,
+    "cfi": "/869",
+    "page": "840"
+  },
+  {
+    "title": "Rights to Subscribe to Additional Shares",
+    "path": "/pages/417204385/content",
+    "level": 3,
+    "cfi": "/871",
+    "page": "842"
+  },
+  {
+    "title": "Evolving Issue Is That All Debt?",
+    "path": "/pages/417204385/content",
+    "level": 3,
+    "cfi": "/871",
+    "page": "842"
+  },
+  {
+    "title": "STOCK COMPENSATION PLANS",
+    "path": "/pages/417204386/content",
+    "level": 2,
+    "cfi": "/872",
+    "page": "843"
+  },
+  {
+    "title": "Measurement—Stock Compensation",
+    "path": "/pages/417204387/content",
+    "level": 3,
+    "cfi": "/873",
+    "page": "844"
+  },
+  {
+    "title": "What Do the Numbers Mean? What's the Debate About?",
+    "path": "/pages/417204388/content",
+    "level": 3,
+    "cfi": "/874",
+    "page": "845"
+  },
+  {
+    "title": "Recognition—Stock Compensation",
+    "path": "/pages/417204389/content",
+    "level": 3,
+    "cfi": "/875",
+    "page": "846"
+  },
+  {
+    "title": "Restricted Stock",
+    "path": "/pages/417204390/content",
+    "level": 3,
+    "cfi": "/876",
+    "page": "847"
+  },
+  {
+    "title": "Employee Stock-Purchase Plans",
+    "path": "/pages/417204392/content",
+    "level": 3,
+    "cfi": "/878",
+    "page": "849"
+  },
+  {
+    "title": "Disclosure of Compensation Plans",
+    "path": "/pages/417204392/content",
+    "level": 3,
+    "cfi": "/878",
+    "page": "849"
+  },
+  {
+    "title": "BASIC EARNINGS PER SHARE",
+    "path": "/pages/417204394/content",
+    "level": 2,
+    "cfi": "/880",
+    "page": "851"
+  },
+  {
+    "title": "Earnings per Share—Simple Capital Structure",
+    "path": "/pages/417204394/content",
+    "level": 3,
+    "cfi": "/880",
+    "page": "851"
+  },
+  {
+    "title": "Comprehensive Example",
+    "path": "/pages/417204397/content",
+    "level": 3,
+    "cfi": "/883",
+    "page": "854"
+  },
+  {
+    "title": "DILUTED EARNINGS PER SHARE",
+    "path": "/pages/417204398/content",
+    "level": 2,
+    "cfi": "/884",
+    "page": "855"
+  },
+  {
+    "title": "Diluted EPS—Convertible Securities",
+    "path": "/pages/417204399/content",
+    "level": 3,
+    "cfi": "/885",
+    "page": "856"
+  },
+  {
+    "title": "Diluted EPS—Options and Warrants",
+    "path": "/pages/417204401/content",
+    "level": 3,
+    "cfi": "/887",
+    "page": "858"
+  },
+  {
+    "title": "Contingent Issue Agreement",
+    "path": "/pages/417204402/content",
+    "level": 3,
+    "cfi": "/888",
+    "page": "859"
+  },
+  {
+    "title": "Antidilution Revisited",
+    "path": "/pages/417204402/content",
+    "level": 3,
+    "cfi": "/888",
+    "page": "859"
+  },
+  {
+    "title": "EPS Presentation and Disclosure",
+    "path": "/pages/417204403/content",
+    "level": 3,
+    "cfi": "/889",
+    "page": "860"
+  },
+  {
+    "title": "What Do the Numbers Mean? Pro Forma EPS Confusion",
+    "path": "/pages/417204404/content",
+    "level": 3,
+    "cfi": "/890",
+    "page": "861"
+  },
+  {
+    "title": "Summary of EPS Computation",
+    "path": "/pages/417204405/content",
+    "level": 3,
+    "cfi": "/891",
+    "page": "862"
+  },
+  {
+    "title": "APPENDIX 16A: ACCOUNTING FOR STOCK-APPRECIATION RIGHTS",
+    "path": "/pages/417204406/content",
+    "level": 2,
+    "cfi": "/892",
+    "page": "863"
+  },
+  {
+    "title": "SARS—SHARE-BASED EQUITY AWARDS",
+    "path": "/pages/417204407/content",
+    "level": 2,
+    "cfi": "/893",
+    "page": "864"
+  },
+  {
+    "title": "SARS—SHARE-BASED LIABILITY AWARDS",
+    "path": "/pages/417204407/content",
+    "level": 2,
+    "cfi": "/893",
+    "page": "864"
+  },
+  {
+    "title": "STOCK-APPRECIATION RIGHTS EXAMPLE",
+    "path": "/pages/417204408/content",
+    "level": 2,
+    "cfi": "/894",
+    "page": "865"
+  },
+  {
+    "title": "APPENDIX 16B: COMPREHENSIVE EARNINGS PER SHARE EXAMPLE",
+    "path": "/pages/417204409/content",
+    "level": 2,
+    "cfi": "/895",
+    "page": "866"
+  },
+  {
+    "title": "DILUTED EARNINGS PER SHARE",
+    "path": "/pages/417204410/content",
+    "level": 2,
+    "cfi": "/896",
+    "page": "867"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417204432/content",
+    "level": 2,
+    "cfi": "/918",
+    "page": "889"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417204433/content",
+    "level": 2,
+    "cfi": "/919",
+    "page": "890"
+  },
+  {
+    "title": "17 Investments",
+    "path": "/pages/417204441/content",
+    "level": 1,
+    "cfi": "/927",
+    "page": "898"
+  },
+  {
+    "title": "WHAT TO DO?",
+    "path": "/pages/417204441/content",
+    "level": 2,
+    "cfi": "/927",
+    "page": "898"
+  },
+  {
+    "title": "INVESTMENTS IN DEBT SECURITIES",
+    "path": "/pages/417204443/content",
+    "level": 2,
+    "cfi": "/929",
+    "page": "900"
+  },
+  {
+    "title": "Debt Investment Classifications",
+    "path": "/pages/417204443/content",
+    "level": 3,
+    "cfi": "/929",
+    "page": "900"
+  },
+  {
+    "title": "Held-to-Maturity Securities",
+    "path": "/pages/417204444/content",
+    "level": 3,
+    "cfi": "/930",
+    "page": "901"
+  },
+  {
+    "title": "Available-for-Sale Securities",
+    "path": "/pages/417204446/content",
+    "level": 3,
+    "cfi": "/932",
+    "page": "903"
+  },
+  {
+    "title": "Trading Securities",
+    "path": "/pages/417204450/content",
+    "level": 3,
+    "cfi": "/936",
+    "page": "907"
+  },
+  {
+    "title": "What Do the Numbers Mean? To Have and To Hold",
+    "path": "/pages/417204451/content",
+    "level": 3,
+    "cfi": "/937",
+    "page": "908"
+  },
+  {
+    "title": "INVESTMENTS IN EQUITY SECURITIES",
+    "path": "/pages/417204451/content",
+    "level": 2,
+    "cfi": "/937",
+    "page": "908"
+  },
+  {
+    "title": "Holdings of Less Than 20%",
+    "path": "/pages/417204452/content",
+    "level": 3,
+    "cfi": "/938",
+    "page": "909"
+  },
+  {
+    "title": "What Do the Numbers Mean? More Disclosure, Please",
+    "path": "/pages/417204455/content",
+    "level": 3,
+    "cfi": "/941",
+    "page": "912"
+  },
+  {
+    "title": "Holdings Between 20% and 50%",
+    "path": "/pages/417204455/content",
+    "level": 3,
+    "cfi": "/941",
+    "page": "912"
+  },
+  {
+    "title": "Holdings of More Than 50%",
+    "path": "/pages/417204457/content",
+    "level": 3,
+    "cfi": "/943",
+    "page": "914"
+  },
+  {
+    "title": "What Do the Numbers Mean? Who’s in Control Here?",
+    "path": "/pages/417204457/content",
+    "level": 3,
+    "cfi": "/943",
+    "page": "914"
+  },
+  {
+    "title": "OTHER FINANCIAL REPORTING ISSUES",
+    "path": "/pages/417204458/content",
+    "level": 2,
+    "cfi": "/944",
+    "page": "915"
+  },
+  {
+    "title": "Fair Value Option",
+    "path": "/pages/417204458/content",
+    "level": 3,
+    "cfi": "/944",
+    "page": "915"
+  },
+  {
+    "title": "Evolving Issue Fair Value Controversy",
+    "path": "/pages/417204459/content",
+    "level": 3,
+    "cfi": "/945",
+    "page": "916"
+  },
+  {
+    "title": "Impairment of Value",
+    "path": "/pages/417204459/content",
+    "level": 3,
+    "cfi": "/945",
+    "page": "916"
+  },
+  {
+    "title": "Reclassification Adjustments",
+    "path": "/pages/417204461/content",
+    "level": 3,
+    "cfi": "/947",
+    "page": "918"
+  },
+  {
+    "title": "Transfers Related to Debt Securities",
+    "path": "/pages/417204464/content",
+    "level": 3,
+    "cfi": "/950",
+    "page": "921"
+  },
+  {
+    "title": "Summary of Reporting Treatment of Securities",
+    "path": "/pages/417204465/content",
+    "level": 3,
+    "cfi": "/951",
+    "page": "922"
+  },
+  {
+    "title": "What Do The Numbers Mean? So You Think It Is Easy!",
+    "path": "/pages/417204466/content",
+    "level": 3,
+    "cfi": "/952",
+    "page": "923"
+  },
+  {
+    "title": "APPENDIX 17A: ACCOUNTING FOR DERIVATIVE INSTRUMENTS",
+    "path": "/pages/417204466/content",
+    "level": 2,
+    "cfi": "/952",
+    "page": "923"
+  },
+  {
+    "title": "DEFINING DERIVATIVES",
+    "path": "/pages/417204467/content",
+    "level": 2,
+    "cfi": "/953",
+    "page": "924"
+  },
+  {
+    "title": "WHO USES DERIVATIVES, AND WHY?",
+    "path": "/pages/417204467/content",
+    "level": 2,
+    "cfi": "/953",
+    "page": "924"
+  },
+  {
+    "title": "Producers and Consumers",
+    "path": "/pages/417204467/content",
+    "level": 3,
+    "cfi": "/953",
+    "page": "924"
+  },
+  {
+    "title": "Speculators and Arbitrageurs",
+    "path": "/pages/417204468/content",
+    "level": 3,
+    "cfi": "/954",
+    "page": "925"
+  },
+  {
+    "title": "BASIC PRINCIPLES IN ACCOUNTING FOR DERIVATIVES",
+    "path": "/pages/417204469/content",
+    "level": 2,
+    "cfi": "/955",
+    "page": "926"
+  },
+  {
+    "title": "Example of Derivative Financial Instrument—Speculation",
+    "path": "/pages/417204469/content",
+    "level": 3,
+    "cfi": "/955",
+    "page": "926"
+  },
+  {
+    "title": "Differences Between Traditional and Derivative Financial Instruments",
+    "path": "/pages/417204474/content",
+    "level": 3,
+    "cfi": "/958",
+    "page": "929"
+  },
+  {
+    "title": "DERIVATIVES USED FOR HEDGING",
+    "path": "/pages/417204474/content",
+    "level": 2,
+    "cfi": "/958",
+    "page": "929"
+  },
+  {
+    "title": "What Do the Numbers Mean? Risky Business",
+    "path": "/pages/417204477/content",
+    "level": 3,
+    "cfi": "/959",
+    "page": "930"
+  },
+  {
+    "title": "Fair Value Hedge",
+    "path": "/pages/417204477/content",
+    "level": 3,
+    "cfi": "/959",
+    "page": "930"
+  },
+  {
+    "title": "Cash Flow Hedge",
+    "path": "/pages/417204482/content",
+    "level": 3,
+    "cfi": "/961",
+    "page": "932"
+  },
+  {
+    "title": "OTHER REPORTING ISSUES",
+    "path": "/pages/417204486/content",
+    "level": 2,
+    "cfi": "/963",
+    "page": "934"
+  },
+  {
+    "title": "Embedded Derivatives",
+    "path": "/pages/417204486/content",
+    "level": 3,
+    "cfi": "/963",
+    "page": "934"
+  },
+  {
+    "title": "Qualifying Hedge Criteria",
+    "path": "/pages/417204488/content",
+    "level": 3,
+    "cfi": "/964",
+    "page": "935"
+  },
+  {
+    "title": "Summary of Derivatives Accounting",
+    "path": "/pages/417204490/content",
+    "level": 3,
+    "cfi": "/965",
+    "page": "936"
+  },
+  {
+    "title": "COMPREHENSIVE HEDGE ACCOUNTING EXAMPLE",
+    "path": "/pages/417204492/content",
+    "level": 2,
+    "cfi": "/966",
+    "page": "937"
+  },
+  {
+    "title": "Fair Value Hedge",
+    "path": "/pages/417204492/content",
+    "level": 3,
+    "cfi": "/966",
+    "page": "937"
+  },
+  {
+    "title": "Financial Statement Presentation of an Interest Rate Swap",
+    "path": "/pages/417204495/content",
+    "level": 3,
+    "cfi": "/968",
+    "page": "939"
+  },
+  {
+    "title": "CONTROVERSY AND CONCLUDING REMARKS",
+    "path": "/pages/417204497/content",
+    "level": 2,
+    "cfi": "/969",
+    "page": "940"
+  },
+  {
+    "title": "APPENDIX 17B: FAIR VALUE DISCLOSURES",
+    "path": "/pages/417204499/content",
+    "level": 2,
+    "cfi": "/970",
+    "page": "941"
+  },
+  {
+    "title": "DISCLOSURE OF FAIR VALUE INFORMATION: FINANCIAL INSTRUMENTS",
+    "path": "/pages/417204499/content",
+    "level": 2,
+    "cfi": "/970",
+    "page": "941"
+  },
+  {
+    "title": "DISCLOSURE OF FAIR VALUES: IMPAIRED ASSETS OR LIABILITIES",
+    "path": "/pages/417204505/content",
+    "level": 2,
+    "cfi": "/973",
+    "page": "944"
+  },
+  {
+    "title": "CONCLUSION",
+    "path": "/pages/417204505/content",
+    "level": 2,
+    "cfi": "/973",
+    "page": "944"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417204551/content",
+    "level": 2,
+    "cfi": "/994",
+    "page": "965"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417204553/content",
+    "level": 2,
+    "cfi": "/995",
+    "page": "966"
+  },
+  {
+    "title": "18 Revenue Recognition",
+    "path": "/pages/417204628/content",
+    "level": 1,
+    "cfi": "/1007",
+    "page": "978"
+  },
+  {
+    "title": "IT’S BACK",
+    "path": "/pages/417204628/content",
+    "level": 2,
+    "cfi": "/1007",
+    "page": "978"
+  },
+  {
+    "title": "FUNDAMENTALS OF REVENUE RECOGNITION",
+    "path": "/pages/417204633/content",
+    "level": 2,
+    "cfi": "/1009",
+    "page": "980"
+  },
+  {
+    "title": "Background",
+    "path": "/pages/417204633/content",
+    "level": 3,
+    "cfi": "/1009",
+    "page": "980"
+  },
+  {
+    "title": "New Revenue Recognition Standard",
+    "path": "/pages/417204633/content",
+    "level": 3,
+    "cfi": "/1009",
+    "page": "980"
+  },
+  {
+    "title": "Overview of the Five-Step Process—Boeing Example",
+    "path": "/pages/417204635/content",
+    "level": 3,
+    "cfi": "/1010",
+    "page": "981"
+  },
+  {
+    "title": "Extended Example of the Five-Step Process: BEAN",
+    "path": "/pages/417204638/content",
+    "level": 3,
+    "cfi": "/1011",
+    "page": "982"
+  },
+  {
+    "title": "THE FIVE-STEP PROCESS REVISITED",
+    "path": "/pages/417204648/content",
+    "level": 2,
+    "cfi": "/1015",
+    "page": "986"
+  },
+  {
+    "title": "Identifying the Contract with Customers—Step 1",
+    "path": "/pages/417204648/content",
+    "level": 3,
+    "cfi": "/1015",
+    "page": "986"
+  },
+  {
+    "title": "Identifying Separate Performance Obligations—Step 2",
+    "path": "/pages/417204650/content",
+    "level": 3,
+    "cfi": "/1016",
+    "page": "987"
+  },
+  {
+    "title": "Determining the Transaction Price—Step 3",
+    "path": "/pages/417204653/content",
+    "level": 3,
+    "cfi": "/1017",
+    "page": "988"
+  },
+  {
+    "title": "Allocating the Transaction Price to Separate Performance Obligations—Step 4",
+    "path": "/pages/417204663/content",
+    "level": 3,
+    "cfi": "/1021",
+    "page": "992"
+  },
+  {
+    "title": "Recognizing Revenue When (or as) Each Performance Obligation Is Satisfied—Step 5",
+    "path": "/pages/417204668/content",
+    "level": 3,
+    "cfi": "/1023",
+    "page": "994"
+  },
+  {
+    "title": "Summary",
+    "path": "/pages/417204671/content",
+    "level": 3,
+    "cfi": "/1024",
+    "page": "995"
+  },
+  {
+    "title": "ACCOUNTING FOR REVENUE RECOGNITION ISSUES",
+    "path": "/pages/417204673/content",
+    "level": 2,
+    "cfi": "/1025",
+    "page": "996"
+  },
+  {
+    "title": "Sales Returns and Allowances",
+    "path": "/pages/417204673/content",
+    "level": 3,
+    "cfi": "/1025",
+    "page": "996"
+  },
+  {
+    "title": "Repurchase Agreements",
+    "path": "/pages/417204679/content",
+    "level": 3,
+    "cfi": "/1028",
+    "page": "999"
+  },
+  {
+    "title": "Bill-and-Hold Arrangements",
+    "path": "/pages/417204684/content",
+    "level": 3,
+    "cfi": "/1030",
+    "page": "1001"
+  },
+  {
+    "title": "Principal-Agent Relationships",
+    "path": "/pages/417204684/content",
+    "level": 3,
+    "cfi": "/1030",
+    "page": "1001"
+  },
+  {
+    "title": "Consignments",
+    "path": "/pages/417204687/content",
+    "level": 3,
+    "cfi": "/1031",
+    "page": "1002"
+  },
+  {
+    "title": "What Do the Numbers Mean? Grossed Out",
+    "path": "/pages/417204691/content",
+    "level": 3,
+    "cfi": "/1033",
+    "page": "1004"
+  },
+  {
+    "title": "Warranties",
+    "path": "/pages/417204691/content",
+    "level": 3,
+    "cfi": "/1033",
+    "page": "1004"
+  },
+  {
+    "title": "Nonrefundable Upfront Fees",
+    "path": "/pages/417204696/content",
+    "level": 3,
+    "cfi": "/1035",
+    "page": "1006"
+  },
+  {
+    "title": "Summary",
+    "path": "/pages/417204696/content",
+    "level": 3,
+    "cfi": "/1035",
+    "page": "1006"
+  },
+  {
+    "title": "PRESENTATION AND DISCLOSURE",
+    "path": "/pages/417204698/content",
+    "level": 2,
+    "cfi": "/1036",
+    "page": "1007"
+  },
+  {
+    "title": "Presentation",
+    "path": "/pages/417204698/content",
+    "level": 3,
+    "cfi": "/1036",
+    "page": "1007"
+  },
+  {
+    "title": "Disclosure",
+    "path": "/pages/417204707/content",
+    "level": 3,
+    "cfi": "/1040",
+    "page": "1011"
+  },
+  {
+    "title": "Evolving Issue Revenue: “It’s Like An Octopus”",
+    "path": "/pages/417204710/content",
+    "level": 3,
+    "cfi": "/1041",
+    "page": "1012"
+  },
+  {
+    "title": "APPENDIX 18A: LONG-TERM CONSTRUCTION CONTRACTS",
+    "path": "/pages/417204712/content",
+    "level": 2,
+    "cfi": "/1042",
+    "page": "1013"
+  },
+  {
+    "title": "REVENUE RECOGNITION OVER TIME",
+    "path": "/pages/417204712/content",
+    "level": 2,
+    "cfi": "/1042",
+    "page": "1013"
+  },
+  {
+    "title": "Percentage-of-Completion Method",
+    "path": "/pages/417204715/content",
+    "level": 3,
+    "cfi": "/1043",
+    "page": "1014"
+  },
+  {
+    "title": "Completed-Contract Method",
+    "path": "/pages/417204727/content",
+    "level": 3,
+    "cfi": "/1048",
+    "page": "1019"
+  },
+  {
+    "title": "Long-Term Contract Losses",
+    "path": "/pages/417204729/content",
+    "level": 3,
+    "cfi": "/1049",
+    "page": "1020"
+  },
+  {
+    "title": "APPENDIX 18B: REVENUE RECOGNITION FOR FRANCHISES",
+    "path": "/pages/417204736/content",
+    "level": 2,
+    "cfi": "/1052",
+    "page": "1023"
+  },
+  {
+    "title": "FRANCHISE ACCOUNTING",
+    "path": "/pages/417204737/content",
+    "level": 2,
+    "cfi": "/1053",
+    "page": "1024"
+  },
+  {
+    "title": "RECOGNITION OF FRANCHISE RIGHTS REVENUE OVER TIME",
+    "path": "/pages/417204742/content",
+    "level": 2,
+    "cfi": "/1055",
+    "page": "1026"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417204794/content",
+    "level": 2,
+    "cfi": "/1079",
+    "page": "1050"
+  },
+  {
+    "title": "19 Accounting for Income Taxes",
+    "path": "/pages/417204848/content",
+    "level": 1,
+    "cfi": "/1081",
+    "page": "1052"
+  },
+  {
+    "title": "HEY–LET’S PAY MORE INCOME TAXES!",
+    "path": "/pages/417204848/content",
+    "level": 2,
+    "cfi": "/1081",
+    "page": "1052"
+  },
+  {
+    "title": "FUNDAMENTALS OF ACCOUNTING FOR INCOME TAXES",
+    "path": "/pages/417204852/content",
+    "level": 2,
+    "cfi": "/1083",
+    "page": "1054"
+  },
+  {
+    "title": "Future Taxable Amounts and Deferred Taxes",
+    "path": "/pages/417204854/content",
+    "level": 3,
+    "cfi": "/1084",
+    "page": "1055"
+  },
+  {
+    "title": "What Do the Numbers Mean? “Real Liabilities”",
+    "path": "/pages/417204863/content",
+    "level": 3,
+    "cfi": "/1088",
+    "page": "1059"
+  },
+  {
+    "title": "Future Deductible Amounts and Deferred Taxes",
+    "path": "/pages/417204863/content",
+    "level": 3,
+    "cfi": "/1088",
+    "page": "1059"
+  },
+  {
+    "title": "What Do the Numbers Mean? “Real Assets”",
+    "path": "/pages/417204868/content",
+    "level": 3,
+    "cfi": "/1091",
+    "page": "1062"
+  },
+  {
+    "title": "Deferred Tax Asset—Valuation Allowance",
+    "path": "/pages/417204871/content",
+    "level": 3,
+    "cfi": "/1092",
+    "page": "1063"
+  },
+  {
+    "title": "ADDITIONAL CONSIDERATIONS",
+    "path": "/pages/417204873/content",
+    "level": 2,
+    "cfi": "/1093",
+    "page": "1064"
+  },
+  {
+    "title": "Income Statement Presentation",
+    "path": "/pages/417204873/content",
+    "level": 3,
+    "cfi": "/1093",
+    "page": "1064"
+  },
+  {
+    "title": "Specific Differences",
+    "path": "/pages/417204873/content",
+    "level": 3,
+    "cfi": "/1093",
+    "page": "1064"
+  },
+  {
+    "title": "Tax Rate Considerations",
+    "path": "/pages/417204881/content",
+    "level": 3,
+    "cfi": "/1096",
+    "page": "1067"
+  },
+  {
+    "title": "What Do the Numbers Mean? Global Tax Rates",
+    "path": "/pages/417204884/content",
+    "level": 3,
+    "cfi": "/1097",
+    "page": "1068"
+  },
+  {
+    "title": "ACCOUNTING FOR NET OPERATING LOSSES",
+    "path": "/pages/417204886/content",
+    "level": 2,
+    "cfi": "/1098",
+    "page": "1069"
+  },
+  {
+    "title": "Loss Carryback",
+    "path": "/pages/417204886/content",
+    "level": 3,
+    "cfi": "/1098",
+    "page": "1069"
+  },
+  {
+    "title": "Loss Carryforward",
+    "path": "/pages/417204888/content",
+    "level": 3,
+    "cfi": "/1099",
+    "page": "1070"
+  },
+  {
+    "title": "Loss Carryback Example",
+    "path": "/pages/417204888/content",
+    "level": 3,
+    "cfi": "/1099",
+    "page": "1070"
+  },
+  {
+    "title": "Loss Carryforward Example",
+    "path": "/pages/417204890/content",
+    "level": 3,
+    "cfi": "/1100",
+    "page": "1071"
+  },
+  {
+    "title": "What Do the Numbers Mean? NOLs: Good News or Bad?",
+    "path": "/pages/417204898/content",
+    "level": 3,
+    "cfi": "/1104",
+    "page": "1075"
+  },
+  {
+    "title": "FINANCIAL STATEMENT PRESENTATION",
+    "path": "/pages/417204899/content",
+    "level": 2,
+    "cfi": "/1105",
+    "page": "1076"
+  },
+  {
+    "title": "Balance Sheet",
+    "path": "/pages/417204899/content",
+    "level": 3,
+    "cfi": "/1105",
+    "page": "1076"
+  },
+  {
+    "title": "Note Disclosure",
+    "path": "/pages/417204899/content",
+    "level": 3,
+    "cfi": "/1105",
+    "page": "1076"
+  },
+  {
+    "title": "What Do the Numbers Mean? Imagination at Work",
+    "path": "/pages/417204900/content",
+    "level": 3,
+    "cfi": "/1106",
+    "page": "1077"
+  },
+  {
+    "title": "Income Statement",
+    "path": "/pages/417204901/content",
+    "level": 3,
+    "cfi": "/1107",
+    "page": "1078"
+  },
+  {
+    "title": "Evolving Issue Uncertain Tax Positions",
+    "path": "/pages/417204904/content",
+    "level": 3,
+    "cfi": "/1110",
+    "page": "1081"
+  },
+  {
+    "title": "The Asset-Liability Method",
+    "path": "/pages/417204904/content",
+    "level": 3,
+    "cfi": "/1110",
+    "page": "1081"
+  },
+  {
+    "title": "APPENDIX 19A: COMPREHENSIVE EXAMPLE OF INTERPERIOD TAX ALLOCATION",
+    "path": "/pages/417204906/content",
+    "level": 2,
+    "cfi": "/1112",
+    "page": "1083"
+  },
+  {
+    "title": "FIRST YEAR—2016",
+    "path": "/pages/417204906/content",
+    "level": 2,
+    "cfi": "/1112",
+    "page": "1083"
+  },
+  {
+    "title": "Taxable Income and Income Taxes Payable—2016",
+    "path": "/pages/417204907/content",
+    "level": 3,
+    "cfi": "/1113",
+    "page": "1084"
+  },
+  {
+    "title": "Computing Deferred Income Taxes—End of 2016",
+    "path": "/pages/417204908/content",
+    "level": 3,
+    "cfi": "/1114",
+    "page": "1085"
+  },
+  {
+    "title": "Deferred Tax Expense (Benefit) and the Journal Entry to Record Income Taxes—2016",
+    "path": "/pages/417204909/content",
+    "level": 3,
+    "cfi": "/1115",
+    "page": "1086"
+  },
+  {
+    "title": "Financial Statement Presentation—2016",
+    "path": "/pages/417204909/content",
+    "level": 3,
+    "cfi": "/1115",
+    "page": "1086"
+  },
+  {
+    "title": "SECOND YEAR—2017",
+    "path": "/pages/417204910/content",
+    "level": 2,
+    "cfi": "/1116",
+    "page": "1087"
+  },
+  {
+    "title": "Taxable Income and Income Taxes Payable—2017",
+    "path": "/pages/417204911/content",
+    "level": 3,
+    "cfi": "/1117",
+    "page": "1088"
+  },
+  {
+    "title": "Computing Deferred Income Taxes—End of 2017",
+    "path": "/pages/417204911/content",
+    "level": 3,
+    "cfi": "/1117",
+    "page": "1088"
+  },
+  {
+    "title": "Deferred Tax Expense (Benefit) and the Journal Entry to Record Income Taxes—2017",
+    "path": "/pages/417204912/content",
+    "level": 3,
+    "cfi": "/1118",
+    "page": "1089"
+  },
+  {
+    "title": "Financial Statement Presentation—2017",
+    "path": "/pages/417204912/content",
+    "level": 3,
+    "cfi": "/1118",
+    "page": "1089"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417204932/content",
+    "level": 2,
+    "cfi": "/1138",
+    "page": "1109"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417204933/content",
+    "level": 2,
+    "cfi": "/1139",
+    "page": "1110"
+  },
+  {
+    "title": "20 Accounting for Pensions and Postretirement Benefits",
+    "path": "/pages/417205013/content",
+    "level": 1,
+    "cfi": "/1145",
+    "page": "1116"
+  },
+  {
+    "title": "WHERE HAVE ALL THE PENSIONS GONE?",
+    "path": "/pages/417205013/content",
+    "level": 2,
+    "cfi": "/1145",
+    "page": "1116"
+  },
+  {
+    "title": "FUNDAMENTALS OF PENSION PLAN ACCOUNTING",
+    "path": "/pages/417205019/content",
+    "level": 2,
+    "cfi": "/1147",
+    "page": "1118"
+  },
+  {
+    "title": "Defined Contribution Plan",
+    "path": "/pages/417205022/content",
+    "level": 3,
+    "cfi": "/1148",
+    "page": "1119"
+  },
+  {
+    "title": "Defined Benefit Plan",
+    "path": "/pages/417205022/content",
+    "level": 3,
+    "cfi": "/1148",
+    "page": "1119"
+  },
+  {
+    "title": "What Do the Numbers Mean? Which Plan Is Right for You?",
+    "path": "/pages/417205025/content",
+    "level": 3,
+    "cfi": "/1149",
+    "page": "1120"
+  },
+  {
+    "title": "The Role of Actuaries in Pension Accounting",
+    "path": "/pages/417205027/content",
+    "level": 3,
+    "cfi": "/1150",
+    "page": "1121"
+  },
+  {
+    "title": "Measures of the Liability",
+    "path": "/pages/417205027/content",
+    "level": 3,
+    "cfi": "/1150",
+    "page": "1121"
+  },
+  {
+    "title": "What Do the Numbers Mean? Roller Coaster",
+    "path": "/pages/417205032/content",
+    "level": 3,
+    "cfi": "/1152",
+    "page": "1123"
+  },
+  {
+    "title": "Components of Pension Expense",
+    "path": "/pages/417205032/content",
+    "level": 3,
+    "cfi": "/1152",
+    "page": "1123"
+  },
+  {
+    "title": "USING A PENSION WORKSHEET",
+    "path": "/pages/417205041/content",
+    "level": 2,
+    "cfi": "/1155",
+    "page": "1126"
+  },
+  {
+    "title": "2017 Entries and Worksheet",
+    "path": "/pages/417205044/content",
+    "level": 3,
+    "cfi": "/1156",
+    "page": "1127"
+  },
+  {
+    "title": "Funded Status",
+    "path": "/pages/417205048/content",
+    "level": 3,
+    "cfi": "/1157",
+    "page": "1128"
+  },
+  {
+    "title": "PRIOR SERVICE COST (PSC)",
+    "path": "/pages/417205048/content",
+    "level": 2,
+    "cfi": "/1157",
+    "page": "1128"
+  },
+  {
+    "title": "Amortization",
+    "path": "/pages/417205048/content",
+    "level": 3,
+    "cfi": "/1157",
+    "page": "1128"
+  },
+  {
+    "title": "2018 Entries and Worksheet",
+    "path": "/pages/417205054/content",
+    "level": 3,
+    "cfi": "/1159",
+    "page": "1130"
+  },
+  {
+    "title": "GAINS AND LOSSES",
+    "path": "/pages/417205057/content",
+    "level": 2,
+    "cfi": "/1160",
+    "page": "1131"
+  },
+  {
+    "title": "Smoothing Unexpected Gains and Losses on Plan Assets",
+    "path": "/pages/417205057/content",
+    "level": 3,
+    "cfi": "/1160",
+    "page": "1131"
+  },
+  {
+    "title": "What Do the Numbers Mean? Pension Costs Ups and Downs",
+    "path": "/pages/417205060/content",
+    "level": 3,
+    "cfi": "/1161",
+    "page": "1132"
+  },
+  {
+    "title": "Smoothing Unexpected Gains and Losses on the Pension Liability",
+    "path": "/pages/417205060/content",
+    "level": 3,
+    "cfi": "/1161",
+    "page": "1132"
+  },
+  {
+    "title": "Corridor Amortization",
+    "path": "/pages/417205063/content",
+    "level": 3,
+    "cfi": "/1162",
+    "page": "1133"
+  },
+  {
+    "title": "Evolving Issue Bye Bye Corridor",
+    "path": "/pages/417205070/content",
+    "level": 3,
+    "cfi": "/1165",
+    "page": "1136"
+  },
+  {
+    "title": "2019 Entries and Worksheet",
+    "path": "/pages/417205070/content",
+    "level": 3,
+    "cfi": "/1165",
+    "page": "1136"
+  },
+  {
+    "title": "REPORTING PENSION PLANS IN FINANCIAL STATEMENTS",
+    "path": "/pages/417205076/content",
+    "level": 2,
+    "cfi": "/1167",
+    "page": "1138"
+  },
+  {
+    "title": "Within the Financial Statements",
+    "path": "/pages/417205076/content",
+    "level": 3,
+    "cfi": "/1167",
+    "page": "1138"
+  },
+  {
+    "title": "Within the Notes to the Financial Statements",
+    "path": "/pages/417205082/content",
+    "level": 3,
+    "cfi": "/1169",
+    "page": "1140"
+  },
+  {
+    "title": "Example of Pension Note Disclosure",
+    "path": "/pages/417205087/content",
+    "level": 3,
+    "cfi": "/1171",
+    "page": "1142"
+  },
+  {
+    "title": "2020 Entries and Worksheet—A Comprehensive Example",
+    "path": "/pages/417205089/content",
+    "level": 3,
+    "cfi": "/1172",
+    "page": "1143"
+  },
+  {
+    "title": "Special Issues",
+    "path": "/pages/417205092/content",
+    "level": 3,
+    "cfi": "/1173",
+    "page": "1144"
+  },
+  {
+    "title": "What Do the Numbers Mean? Who Guarantees the Guarantor?",
+    "path": "/pages/417205098/content",
+    "level": 3,
+    "cfi": "/1175",
+    "page": "1146"
+  },
+  {
+    "title": "Concluding Observations",
+    "path": "/pages/417205103/content",
+    "level": 3,
+    "cfi": "/1177",
+    "page": "1148"
+  },
+  {
+    "title": "APPENDIX 20A: ACCOUNTING FOR POSTRETIREMENT BENEFITS",
+    "path": "/pages/417205103/content",
+    "level": 2,
+    "cfi": "/1177",
+    "page": "1148"
+  },
+  {
+    "title": "ACCOUNTING GUIDANCE",
+    "path": "/pages/417205103/content",
+    "level": 2,
+    "cfi": "/1177",
+    "page": "1148"
+  },
+  {
+    "title": "DIFFERENCES BETWEEN PENSION BENEFITS AND HEALTHCARE BENEFITS",
+    "path": "/pages/417205107/content",
+    "level": 2,
+    "cfi": "/1178",
+    "page": "1149"
+  },
+  {
+    "title": "What Do the Numbers Mean? OPEBs—How Big Are They?",
+    "path": "/pages/417205110/content",
+    "level": 3,
+    "cfi": "/1179",
+    "page": "1150"
+  },
+  {
+    "title": "POSTRETIREMENT BENEFITS ACCOUNTING PROVISIONS",
+    "path": "/pages/417205110/content",
+    "level": 2,
+    "cfi": "/1179",
+    "page": "1150"
+  },
+  {
+    "title": "Obligations Under Postretirement Benefits",
+    "path": "/pages/417205110/content",
+    "level": 3,
+    "cfi": "/1179",
+    "page": "1150"
+  },
+  {
+    "title": "Postretirement Expense",
+    "path": "/pages/417205113/content",
+    "level": 3,
+    "cfi": "/1180",
+    "page": "1151"
+  },
+  {
+    "title": "ILLUSTRATIVE ACCOUNTING ENTRIES",
+    "path": "/pages/417205116/content",
+    "level": 2,
+    "cfi": "/1181",
+    "page": "1152"
+  },
+  {
+    "title": "2017 Entries and Worksheet",
+    "path": "/pages/417205116/content",
+    "level": 3,
+    "cfi": "/1181",
+    "page": "1152"
+  },
+  {
+    "title": "Recognition of Gains and Losses",
+    "path": "/pages/417205119/content",
+    "level": 3,
+    "cfi": "/1182",
+    "page": "1153"
+  },
+  {
+    "title": "2018 Entries and Worksheet",
+    "path": "/pages/417205122/content",
+    "level": 3,
+    "cfi": "/1183",
+    "page": "1154"
+  },
+  {
+    "title": "Amortization of Net Gain or Loss in 2019",
+    "path": "/pages/417205125/content",
+    "level": 3,
+    "cfi": "/1184",
+    "page": "1155"
+  },
+  {
+    "title": "DISCLOSURES IN NOTES TO THE FINANCIAL STATEMENTS",
+    "path": "/pages/417205125/content",
+    "level": 2,
+    "cfi": "/1184",
+    "page": "1155"
+  },
+  {
+    "title": "ACTUARIAL ASSUMPTIONS AND CONCEPTUAL ISSUES",
+    "path": "/pages/417205131/content",
+    "level": 2,
+    "cfi": "/1186",
+    "page": "1157"
+  },
+  {
+    "title": "What Do the Numbers Mean? Want Some Bad News?",
+    "path": "/pages/417205131/content",
+    "level": 3,
+    "cfi": "/1186",
+    "page": "1157"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417205190/content",
+    "level": 2,
+    "cfi": "/1208",
+    "page": "1179"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417205193/content",
+    "level": 2,
+    "cfi": "/1209",
+    "page": "1180"
+  },
+  {
+    "title": "21 Accounting for Leases",
+    "path": "/pages/417205378/content",
+    "level": 1,
+    "cfi": "/1223",
+    "page": "1194"
+  },
+  {
+    "title": "MORE COMPANIES ASK, “WHY BUY?”",
+    "path": "/pages/417205378/content",
+    "level": 2,
+    "cfi": "/1223",
+    "page": "1194"
+  },
+  {
+    "title": "THE LEASING ENVIRONMENT",
+    "path": "/pages/417205386/content",
+    "level": 2,
+    "cfi": "/1225",
+    "page": "1196"
+  },
+  {
+    "title": "Who Are the Players?",
+    "path": "/pages/417205386/content",
+    "level": 3,
+    "cfi": "/1225",
+    "page": "1196"
+  },
+  {
+    "title": "Advantages of Leasing",
+    "path": "/pages/417205396/content",
+    "level": 3,
+    "cfi": "/1227",
+    "page": "1198"
+  },
+  {
+    "title": "What Do the Numbers Mean? Off-Balance-Sheet Financing",
+    "path": "/pages/417205401/content",
+    "level": 3,
+    "cfi": "/1228",
+    "page": "1199"
+  },
+  {
+    "title": "Conceptual Nature of a Lease",
+    "path": "/pages/417205401/content",
+    "level": 3,
+    "cfi": "/1228",
+    "page": "1199"
+  },
+  {
+    "title": "ACCOUNTING BY THE LESSEE",
+    "path": "/pages/417205406/content",
+    "level": 2,
+    "cfi": "/1229",
+    "page": "1200"
+  },
+  {
+    "title": "Capitalization Criteria",
+    "path": "/pages/417205411/content",
+    "level": 3,
+    "cfi": "/1230",
+    "page": "1201"
+  },
+  {
+    "title": "Asset and Liability Accounted for Differently",
+    "path": "/pages/417205422/content",
+    "level": 3,
+    "cfi": "/1233",
+    "page": "1204"
+  },
+  {
+    "title": "Capital Lease Method (Lessee)",
+    "path": "/pages/417205422/content",
+    "level": 3,
+    "cfi": "/1233",
+    "page": "1204"
+  },
+  {
+    "title": "Operating Method (Lessee)",
+    "path": "/pages/417205435/content",
+    "level": 3,
+    "cfi": "/1236",
+    "page": "1207"
+  },
+  {
+    "title": "What Do the Numbers Mean? Restatements on the Menu",
+    "path": "/pages/417205435/content",
+    "level": 3,
+    "cfi": "/1236",
+    "page": "1207"
+  },
+  {
+    "title": "Comparison of Capital Lease with Operating Lease",
+    "path": "/pages/417205438/content",
+    "level": 3,
+    "cfi": "/1237",
+    "page": "1208"
+  },
+  {
+    "title": "Evolving Issue Are You Liable?",
+    "path": "/pages/417205441/content",
+    "level": 3,
+    "cfi": "/1238",
+    "page": "1209"
+  },
+  {
+    "title": "ACCOUNTING BY THE LESSOR",
+    "path": "/pages/417205443/content",
+    "level": 2,
+    "cfi": "/1239",
+    "page": "1210"
+  },
+  {
+    "title": "Economics of Leasing",
+    "path": "/pages/417205443/content",
+    "level": 3,
+    "cfi": "/1239",
+    "page": "1210"
+  },
+  {
+    "title": "Classification of Leases by the Lessor",
+    "path": "/pages/417205446/content",
+    "level": 3,
+    "cfi": "/1240",
+    "page": "1211"
+  },
+  {
+    "title": "Direct-Financing Method (Lessor)",
+    "path": "/pages/417205451/content",
+    "level": 3,
+    "cfi": "/1241",
+    "page": "1212"
+  },
+  {
+    "title": "Operating Method (Lessor)",
+    "path": "/pages/417205464/content",
+    "level": 3,
+    "cfi": "/1244",
+    "page": "1215"
+  },
+  {
+    "title": "SPECIAL LEASE ACCOUNTING PROBLEMS",
+    "path": "/pages/417205464/content",
+    "level": 2,
+    "cfi": "/1244",
+    "page": "1215"
+  },
+  {
+    "title": "Residual Values",
+    "path": "/pages/417205469/content",
+    "level": 3,
+    "cfi": "/1245",
+    "page": "1216"
+  },
+  {
+    "title": "What Do the Numbers Mean? Residual Value Regret",
+    "path": "/pages/417205492/content",
+    "level": 3,
+    "cfi": "/1251",
+    "page": "1222"
+  },
+  {
+    "title": "Sales-Type Leases (Lessor)",
+    "path": "/pages/417205492/content",
+    "level": 3,
+    "cfi": "/1251",
+    "page": "1222"
+  },
+  {
+    "title": "What Do the Numbers Mean? Xerox Takes on the SEC",
+    "path": "/pages/417205502/content",
+    "level": 3,
+    "cfi": "/1253",
+    "page": "1224"
+  },
+  {
+    "title": "Bargain-Purchase Option (Lessee)",
+    "path": "/pages/417205507/content",
+    "level": 3,
+    "cfi": "/1254",
+    "page": "1225"
+  },
+  {
+    "title": "Initial Direct Costs (Lessor)",
+    "path": "/pages/417205507/content",
+    "level": 3,
+    "cfi": "/1254",
+    "page": "1225"
+  },
+  {
+    "title": "Current versus Noncurrent",
+    "path": "/pages/417205511/content",
+    "level": 3,
+    "cfi": "/1255",
+    "page": "1226"
+  },
+  {
+    "title": "Disclosing Lease Data",
+    "path": "/pages/417205516/content",
+    "level": 3,
+    "cfi": "/1256",
+    "page": "1227"
+  },
+  {
+    "title": "Unresolved Lease Accounting Problems",
+    "path": "/pages/417205521/content",
+    "level": 3,
+    "cfi": "/1257",
+    "page": "1228"
+  },
+  {
+    "title": "Evolving Issue Lease Accounting—If It Quacks Like a Duck",
+    "path": "/pages/417205530/content",
+    "level": 3,
+    "cfi": "/1259",
+    "page": "1230"
+  },
+  {
+    "title": "APPENDIX 21A: SALE-LEASEBACKS",
+    "path": "/pages/417205535/content",
+    "level": 2,
+    "cfi": "/1260",
+    "page": "1231"
+  },
+  {
+    "title": "DETERMINING ASSET USE",
+    "path": "/pages/417205535/content",
+    "level": 2,
+    "cfi": "/1260",
+    "page": "1231"
+  },
+  {
+    "title": "Lessee",
+    "path": "/pages/417205540/content",
+    "level": 3,
+    "cfi": "/1261",
+    "page": "1232"
+  },
+  {
+    "title": "Lessor",
+    "path": "/pages/417205540/content",
+    "level": 3,
+    "cfi": "/1261",
+    "page": "1232"
+  },
+  {
+    "title": "SALE-LEASEBACK EXAMPLE",
+    "path": "/pages/417205540/content",
+    "level": 2,
+    "cfi": "/1261",
+    "page": "1232"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417205628/content",
+    "level": 2,
+    "cfi": "/1283",
+    "page": "1254"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417205637/content",
+    "level": 2,
+    "cfi": "/1285",
+    "page": "1256"
+  },
+  {
+    "title": "22 Accounting Changes and Error Analysis",
+    "path": "/pages/417205769/content",
+    "level": 1,
+    "cfi": "/1295",
+    "page": "1266"
+  },
+  {
+    "title": "IN THE DARK",
+    "path": "/pages/417205769/content",
+    "level": 2,
+    "cfi": "/1295",
+    "page": "1266"
+  },
+  {
+    "title": "ACCOUNTING CHANGES",
+    "path": "/pages/417205777/content",
+    "level": 2,
+    "cfi": "/1297",
+    "page": "1268"
+  },
+  {
+    "title": "Background",
+    "path": "/pages/417205777/content",
+    "level": 3,
+    "cfi": "/1297",
+    "page": "1268"
+  },
+  {
+    "title": "Changes in Accounting Principle",
+    "path": "/pages/417205777/content",
+    "level": 3,
+    "cfi": "/1297",
+    "page": "1268"
+  },
+  {
+    "title": "What Do the Numbers Mean? Quite a Change",
+    "path": "/pages/417205784/content",
+    "level": 3,
+    "cfi": "/1299",
+    "page": "1270"
+  },
+  {
+    "title": "What Do the Numbers Mean? Change Management",
+    "path": "/pages/417205794/content",
+    "level": 3,
+    "cfi": "/1301",
+    "page": "1272"
+  },
+  {
+    "title": "Impracticability",
+    "path": "/pages/417205829/content",
+    "level": 3,
+    "cfi": "/1309",
+    "page": "1280"
+  },
+  {
+    "title": "OTHER ACCOUNTING CHANGES",
+    "path": "/pages/417205833/content",
+    "level": 2,
+    "cfi": "/1310",
+    "page": "1281"
+  },
+  {
+    "title": "Changes in Accounting Estimates",
+    "path": "/pages/417205833/content",
+    "level": 3,
+    "cfi": "/1310",
+    "page": "1281"
+  },
+  {
+    "title": "What Do the Numbers Mean? A Change for the Better?",
+    "path": "/pages/417205843/content",
+    "level": 3,
+    "cfi": "/1312",
+    "page": "1283"
+  },
+  {
+    "title": "Changes in Reporting Entity",
+    "path": "/pages/417205843/content",
+    "level": 3,
+    "cfi": "/1312",
+    "page": "1283"
+  },
+  {
+    "title": "ACCOUNTING ERRORS",
+    "path": "/pages/417205848/content",
+    "level": 2,
+    "cfi": "/1313",
+    "page": "1284"
+  },
+  {
+    "title": "What Do the Numbers Mean? Can I Get My Money Back?",
+    "path": "/pages/417205857/content",
+    "level": 3,
+    "cfi": "/1315",
+    "page": "1286"
+  },
+  {
+    "title": "Example of Error Correction",
+    "path": "/pages/417205857/content",
+    "level": 3,
+    "cfi": "/1315",
+    "page": "1286"
+  },
+  {
+    "title": "Summary of Accounting Changes and Correction of Errors",
+    "path": "/pages/417205867/content",
+    "level": 3,
+    "cfi": "/1317",
+    "page": "1288"
+  },
+  {
+    "title": "What Do the Numbers Mean? What’s Your Motivation?",
+    "path": "/pages/417205871/content",
+    "level": 3,
+    "cfi": "/1318",
+    "page": "1289"
+  },
+  {
+    "title": "ERROR ANALYSIS",
+    "path": "/pages/417205875/content",
+    "level": 2,
+    "cfi": "/1319",
+    "page": "1290"
+  },
+  {
+    "title": "Balance Sheet Errors",
+    "path": "/pages/417205881/content",
+    "level": 3,
+    "cfi": "/1320",
+    "page": "1291"
+  },
+  {
+    "title": "Income Statement Errors",
+    "path": "/pages/417205881/content",
+    "level": 3,
+    "cfi": "/1320",
+    "page": "1291"
+  },
+  {
+    "title": "Balance Sheet and Income Statement Errors",
+    "path": "/pages/417205881/content",
+    "level": 3,
+    "cfi": "/1320",
+    "page": "1291"
+  },
+  {
+    "title": "Comprehensive Example: Numerous Errors",
+    "path": "/pages/417205894/content",
+    "level": 3,
+    "cfi": "/1323",
+    "page": "1294"
+  },
+  {
+    "title": "What Do the Numbers Mean? Guard the Financial Statements!",
+    "path": "/pages/417205905/content",
+    "level": 3,
+    "cfi": "/1325",
+    "page": "1296"
+  },
+  {
+    "title": "Preparation of Financial Statements with Error Corrections",
+    "path": "/pages/417205910/content",
+    "level": 3,
+    "cfi": "/1326",
+    "page": "1297"
+  },
+  {
+    "title": "APPENDIX 22A: CHANGING FROM OR TO THE EQUITY METHOD",
+    "path": "/pages/417205920/content",
+    "level": 2,
+    "cfi": "/1328",
+    "page": "1299"
+  },
+  {
+    "title": "CHANGE FROM THE EQUITY METHOD",
+    "path": "/pages/417205920/content",
+    "level": 2,
+    "cfi": "/1328",
+    "page": "1299"
+  },
+  {
+    "title": "Dividends in Excess of Earnings",
+    "path": "/pages/417205920/content",
+    "level": 3,
+    "cfi": "/1328",
+    "page": "1299"
+  },
+  {
+    "title": "CHANGE TO THE EQUITY METHOD",
+    "path": "/pages/417205925/content",
+    "level": 2,
+    "cfi": "/1329",
+    "page": "1300"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417206032/content",
+    "level": 2,
+    "cfi": "/1354",
+    "page": "1325"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417206035/content",
+    "level": 2,
+    "cfi": "/1355",
+    "page": "1326"
+  },
+  {
+    "title": "23 Statement of Cash Flows",
+    "path": "/pages/417206142/content",
+    "level": 1,
+    "cfi": "/1359",
+    "page": "1330"
+  },
+  {
+    "title": "SHOW ME THE MONEY!",
+    "path": "/pages/417206142/content",
+    "level": 2,
+    "cfi": "/1359",
+    "page": "1330"
+  },
+  {
+    "title": "STATEMENT OF CASH FLOWS",
+    "path": "/pages/417206152/content",
+    "level": 2,
+    "cfi": "/1361",
+    "page": "1332"
+  },
+  {
+    "title": "Usefulness of the Statement of Cash Flows",
+    "path": "/pages/417206152/content",
+    "level": 3,
+    "cfi": "/1361",
+    "page": "1332"
+  },
+  {
+    "title": "Classification of Cash Flows",
+    "path": "/pages/417206158/content",
+    "level": 3,
+    "cfi": "/1362",
+    "page": "1333"
+  },
+  {
+    "title": "What Do the Numbers Mean? How’s My Cash Flow?",
+    "path": "/pages/417206163/content",
+    "level": 3,
+    "cfi": "/1363",
+    "page": "1334"
+  },
+  {
+    "title": "Format of the Statement of Cash Flows",
+    "path": "/pages/417206169/content",
+    "level": 3,
+    "cfi": "/1364",
+    "page": "1335"
+  },
+  {
+    "title": "PREPARING THE STATEMENT OF CASH FLOWS",
+    "path": "/pages/417206169/content",
+    "level": 2,
+    "cfi": "/1364",
+    "page": "1335"
+  },
+  {
+    "title": "Illustrations—Tax Consultants Inc.",
+    "path": "/pages/417206174/content",
+    "level": 3,
+    "cfi": "/1365",
+    "page": "1336"
+  },
+  {
+    "title": "What Do the Numbers Mean? Earnings and Cash Flow Management?",
+    "path": "/pages/417206184/content",
+    "level": 3,
+    "cfi": "/1367",
+    "page": "1338"
+  },
+  {
+    "title": "Sources of Information for the Statement of Cash Flows",
+    "path": "/pages/417206222/content",
+    "level": 3,
+    "cfi": "/1375",
+    "page": "1346"
+  },
+  {
+    "title": "Net Cash Flow from Operating Activities—Direct Method",
+    "path": "/pages/417206222/content",
+    "level": 3,
+    "cfi": "/1375",
+    "page": "1346"
+  },
+  {
+    "title": "Evolving Issue Direct versus Indirect",
+    "path": "/pages/417206251/content",
+    "level": 3,
+    "cfi": "/1381",
+    "page": "1352"
+  },
+  {
+    "title": "SPECIAL PROBLEMS IN STATEMENT PREPARATION",
+    "path": "/pages/417206257/content",
+    "level": 2,
+    "cfi": "/1382",
+    "page": "1353"
+  },
+  {
+    "title": "Adjustments to Net Income",
+    "path": "/pages/417206257/content",
+    "level": 3,
+    "cfi": "/1382",
+    "page": "1353"
+  },
+  {
+    "title": "Accounts Receivable (Net)",
+    "path": "/pages/417206272/content",
+    "level": 3,
+    "cfi": "/1385",
+    "page": "1356"
+  },
+  {
+    "title": "What Do the Numbers Mean? Not What It Seems",
+    "path": "/pages/417206282/content",
+    "level": 3,
+    "cfi": "/1387",
+    "page": "1358"
+  },
+  {
+    "title": "Other Working Capital Changes",
+    "path": "/pages/417206282/content",
+    "level": 3,
+    "cfi": "/1387",
+    "page": "1358"
+  },
+  {
+    "title": "Net Losses",
+    "path": "/pages/417206287/content",
+    "level": 3,
+    "cfi": "/1388",
+    "page": "1359"
+  },
+  {
+    "title": "Significant Noncash Transactions",
+    "path": "/pages/417206293/content",
+    "level": 3,
+    "cfi": "/1389",
+    "page": "1360"
+  },
+  {
+    "title": "What Do the Numbers Mean? Better Than ROA?",
+    "path": "/pages/417206299/content",
+    "level": 3,
+    "cfi": "/1390",
+    "page": "1361"
+  },
+  {
+    "title": "USE OF A WORKSHEET",
+    "path": "/pages/417206299/content",
+    "level": 2,
+    "cfi": "/1390",
+    "page": "1361"
+  },
+  {
+    "title": "Preparation of the Worksheet",
+    "path": "/pages/417206304/content",
+    "level": 3,
+    "cfi": "/1391",
+    "page": "1362"
+  },
+  {
+    "title": "Analysis of Transactions",
+    "path": "/pages/417206309/content",
+    "level": 3,
+    "cfi": "/1392",
+    "page": "1363"
+  },
+  {
+    "title": "Preparation of Final Statement",
+    "path": "/pages/417206338/content",
+    "level": 3,
+    "cfi": "/1398",
+    "page": "1369"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417206442/content",
+    "level": 2,
+    "cfi": "/1424",
+    "page": "1395"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417206447/content",
+    "level": 2,
+    "cfi": "/1425",
+    "page": "1396"
+  },
+  {
+    "title": "24 Full Disclosure in Financial Reporting",
+    "path": "/pages/417206579/content",
+    "level": 1,
+    "cfi": "/1431",
+    "page": "1402"
+  },
+  {
+    "title": "HIGH-QUALITY FINANCIAL REPORTING—ALWAYS IN FASHION",
+    "path": "/pages/417206579/content",
+    "level": 2,
+    "cfi": "/1431",
+    "page": "1402"
+  },
+  {
+    "title": "FULL DISCLOSURE PRINCIPLE",
+    "path": "/pages/417206592/content",
+    "level": 2,
+    "cfi": "/1433",
+    "page": "1404"
+  },
+  {
+    "title": "Increase in Reporting Requirements",
+    "path": "/pages/417206597/content",
+    "level": 3,
+    "cfi": "/1434",
+    "page": "1405"
+  },
+  {
+    "title": "Differential Disclosure",
+    "path": "/pages/417206597/content",
+    "level": 3,
+    "cfi": "/1434",
+    "page": "1405"
+  },
+  {
+    "title": "Evolving Issue Disclosure—Quantity and Quality",
+    "path": "/pages/417206603/content",
+    "level": 3,
+    "cfi": "/1435",
+    "page": "1406"
+  },
+  {
+    "title": "Notes to the Financial Statements",
+    "path": "/pages/417206609/content",
+    "level": 3,
+    "cfi": "/1436",
+    "page": "1407"
+  },
+  {
+    "title": "What Do the Numbers Mean? Footnote Secrets",
+    "path": "/pages/417206622/content",
+    "level": 3,
+    "cfi": "/1438",
+    "page": "1409"
+  },
+  {
+    "title": "DISCLOSURE ISSUES",
+    "path": "/pages/417206622/content",
+    "level": 2,
+    "cfi": "/1438",
+    "page": "1409"
+  },
+  {
+    "title": "Disclosure of Special Transactions or Events",
+    "path": "/pages/417206622/content",
+    "level": 3,
+    "cfi": "/1438",
+    "page": "1409"
+  },
+  {
+    "title": "Post-Balance-Sheet Events (Subsequent Events)",
+    "path": "/pages/417206635/content",
+    "level": 3,
+    "cfi": "/1440",
+    "page": "1411"
+  },
+  {
+    "title": "Reporting for Diversified (Conglomerate) Companies",
+    "path": "/pages/417206645/content",
+    "level": 3,
+    "cfi": "/1442",
+    "page": "1413"
+  },
+  {
+    "title": "Interim Reports",
+    "path": "/pages/417206660/content",
+    "level": 3,
+    "cfi": "/1446",
+    "page": "1417"
+  },
+  {
+    "title": "Evolving Issue It’s Faster but Is It Better?",
+    "path": "/pages/417206682/content",
+    "level": 3,
+    "cfi": "/1452",
+    "page": "1423"
+  },
+  {
+    "title": "AUDITOR’S AND MANAGEMENT’S REPORTS",
+    "path": "/pages/417206682/content",
+    "level": 2,
+    "cfi": "/1452",
+    "page": "1423"
+  },
+  {
+    "title": "Auditor’s Report",
+    "path": "/pages/417206682/content",
+    "level": 3,
+    "cfi": "/1452",
+    "page": "1423"
+  },
+  {
+    "title": "What Do the Numbers Mean? Heart of the Matter",
+    "path": "/pages/417206699/content",
+    "level": 3,
+    "cfi": "/1455",
+    "page": "1426"
+  },
+  {
+    "title": "Management’s Reports",
+    "path": "/pages/417206706/content",
+    "level": 3,
+    "cfi": "/1456",
+    "page": "1427"
+  },
+  {
+    "title": "CURRENT REPORTING ISSUES",
+    "path": "/pages/417206712/content",
+    "level": 2,
+    "cfi": "/1457",
+    "page": "1428"
+  },
+  {
+    "title": "Reporting on Financial Forecasts and Projections",
+    "path": "/pages/417206712/content",
+    "level": 3,
+    "cfi": "/1457",
+    "page": "1428"
+  },
+  {
+    "title": "What Do the Numbers Mean? Global Forecasts",
+    "path": "/pages/417206725/content",
+    "level": 3,
+    "cfi": "/1459",
+    "page": "1430"
+  },
+  {
+    "title": "Internet Financial Reporting",
+    "path": "/pages/417206731/content",
+    "level": 3,
+    "cfi": "/1460",
+    "page": "1431"
+  },
+  {
+    "title": "Fraudulent Financial Reporting",
+    "path": "/pages/417206738/content",
+    "level": 3,
+    "cfi": "/1461",
+    "page": "1432"
+  },
+  {
+    "title": "What Do the Numbers Mean? Disclosure Overload",
+    "path": "/pages/417206747/content",
+    "level": 3,
+    "cfi": "/1463",
+    "page": "1434"
+  },
+  {
+    "title": "Criteria for Making Accounting and Reporting Choices",
+    "path": "/pages/417206754/content",
+    "level": 3,
+    "cfi": "/1464",
+    "page": "1435"
+  },
+  {
+    "title": "APPENDIX 24A: BASIC FINANCIAL STATEMENT ANALYSIS",
+    "path": "/pages/417206754/content",
+    "level": 2,
+    "cfi": "/1464",
+    "page": "1435"
+  },
+  {
+    "title": "PERSPECTIVE ON FINANCIAL STATEMENT ANALYSIS",
+    "path": "/pages/417206758/content",
+    "level": 2,
+    "cfi": "/1465",
+    "page": "1436"
+  },
+  {
+    "title": "RATIO ANALYSIS",
+    "path": "/pages/417206764/content",
+    "level": 2,
+    "cfi": "/1466",
+    "page": "1437"
+  },
+  {
+    "title": "Limitations of Ratio Analysis",
+    "path": "/pages/417206764/content",
+    "level": 3,
+    "cfi": "/1466",
+    "page": "1437"
+  },
+  {
+    "title": "COMPARATIVE ANALYSIS",
+    "path": "/pages/417206776/content",
+    "level": 2,
+    "cfi": "/1468",
+    "page": "1439"
+  },
+  {
+    "title": "PERCENTAGE (COMMON-SIZE) ANALYSIS",
+    "path": "/pages/417206783/content",
+    "level": 2,
+    "cfi": "/1469",
+    "page": "1440"
+  },
+  {
+    "title": "FASB CODIFICATION",
+    "path": "/pages/417206876/content",
+    "level": 2,
+    "cfi": "/1489",
+    "page": "1460"
+  },
+  {
+    "title": "IFRS INSIGHTS",
+    "path": "/pages/417206882/content",
+    "level": 2,
+    "cfi": "/1490",
+    "page": "1461"
+  },
+  {
+    "title": "APPENDIX A Private Company Accounting",
+    "path": "/pages/417206962/content",
+    "level": 1,
+    "cfi": "/1498",
+    "page": "A-1"
+  },
+  {
+    "title": "THE PRIVATE COMPANY COUNCIL (PCC)",
+    "path": "/pages/417206962/content",
+    "level": 2,
+    "cfi": "/1498",
+    "page": "A-1"
+  },
+  {
+    "title": "Background on the PCC",
+    "path": "/pages/417206962/content",
+    "level": 3,
+    "cfi": "/1498",
+    "page": "A-1"
+  },
+  {
+    "title": "Private Company Decision-Making Framework",
+    "path": "/pages/417206962/content",
+    "level": 3,
+    "cfi": "/1498",
+    "page": "A-1"
+  },
+  {
+    "title": "PCC Accomplishments",
+    "path": "/pages/417206969/content",
+    "level": 3,
+    "cfi": "/1499",
+    "page": "A-2"
+  },
+  {
+    "title": "PRIVATE COMPANY ALTERNATIVES FOR INTANGIBLE ASSETS AND GOODWILL",
+    "path": "/pages/417206969/content",
+    "level": 2,
+    "cfi": "/1499",
+    "page": "A-2"
+  },
+  {
+    "title": "Accounting for Identifiable Intangible Assets",
+    "path": "/pages/417206969/content",
+    "level": 3,
+    "cfi": "/1499",
+    "page": "A-2"
+  },
+  {
+    "title": "Accounting for Goodwill",
+    "path": "/pages/417206978/content",
+    "level": 3,
+    "cfi": "/1501",
+    "page": "A-4"
+  },
+  {
+    "title": "SUMMARY",
+    "path": "/pages/417206985/content",
+    "level": 2,
+    "cfi": "/1503",
+    "page": "A-6"
+  },
+  {
+    "title": "APPENDIX B Specimen Financial Statements: The Procter \u0026 Gamble Company",
+    "path": "/pages/417206992/content",
+    "level": 1,
+    "cfi": "/1504",
+    "page": "B-1"
+  },
+  {
+    "title": "APPENDIX C Specimen Financial Statements: The Coca-Cola Company",
+    "path": "/pages/417207014/content",
+    "level": 1,
+    "cfi": "/1509",
+    "page": "C-1"
+  },
+  {
+    "title": "APPENDIX D Specimen Financial Statements: PepsiCo, Inc.",
+    "path": "/pages/417207035/content",
+    "level": 1,
+    "cfi": "/1513",
+    "page": "D-1"
+  },
+  {
+    "title": "APPENDIX E Specimen Financial Statements: Marks and Spencer plc",
+    "path": "/pages/417207057/content",
+    "level": 1,
+    "cfi": "/1518",
+    "page": "E-1"
+  },
+  {
+    "title": "Index",
+    "path": "/pages/417207084/content",
+    "level": 1,
+    "cfi": "/1524",
+    "page": "I-1"
+  },
+  {
+    "title": "EULA",
+    "path": "/pages/417207215/content",
+    "level": 1,
+    "cfi": "/1555",
+    "page": "EULA"
+  }
+]
